@@ -2107,632 +2107,662 @@ countryCode,areaCode,countryName,areaName,cCity,lat,lon,iso2
 43,7954,Austria,Sankt Georgen am Walde, Vienna,48.2,16.36666667,AT
 43,7955,Austria,KÌÎå_nigswiesen, Vienna,48.2,16.36666667,AT
 43,7956,Austria,UnterweiÌÎÌªenbach, Vienna,48.2,16.36666667,AT
-44,1481,Guernsey,Guernsey, London,51.5,-0.166666667,GB
-44,1624,Isle of Man,Isle of Man, London,51.5,-0.166666667,GB
-44,1534,Jersey,Jersey, London,51.5,-0.166666667,GB
-44,113,United Kingdom,Leeds, London,51.5,-0.166666667,GB
-44,114,United Kingdom,Sheffield, London,51.5,-0.166666667,GB
-44,115,United Kingdom,Nottingham, London,51.5,-0.166666667,GB
-44,116,United Kingdom,Leicester, London,51.5,-0.166666667,GB
-44,117,United Kingdom,Bristol, London,51.5,-0.166666667,GB
-44,118,United Kingdom,Reading, London,51.5,-0.166666667,GB
-44,1200,United Kingdom,Clitheroe, London,51.5,-0.166666667,GB
-44,1202,United Kingdom,Bournemouth, London,51.5,-0.166666667,GB
-44,1204,United Kingdom,Bolton, London,51.5,-0.166666667,GB
-44,1205,United Kingdom,Boston, London,51.5,-0.166666667,GB
-44,1206,United Kingdom,Colchester, London,51.5,-0.166666667,GB
-44,1207,United Kingdom,Consett, London,51.5,-0.166666667,GB
-44,1208,United Kingdom,Bodmin, London,51.5,-0.166666667,GB
-44,1209,United Kingdom,Redruth, London,51.5,-0.166666667,GB
-44,121,United Kingdom,Birmingham, London,51.5,-0.166666667,GB
-44,1223,United Kingdom,Cambridge, London,51.5,-0.166666667,GB
-44,1224,United Kingdom,Aberdeen, London,51.5,-0.166666667,GB
-44,1225,United Kingdom,Bath, London,51.5,-0.166666667,GB
-44,1226,United Kingdom,Barnsley, London,51.5,-0.166666667,GB
-44,1227,United Kingdom,Canterbury, London,51.5,-0.166666667,GB
-44,1228,United Kingdom,Carlisle, London,51.5,-0.166666667,GB
-44,1229,United Kingdom,Barrow-in-Furness / Millom, London,51.5,-0.166666667,GB
-44,1233,United Kingdom,Ashford, London,51.5,-0.166666667,GB
-44,1234,United Kingdom,Bedford, London,51.5,-0.166666667,GB
-44,1235,United Kingdom,Abingdon, London,51.5,-0.166666667,GB
-44,1236,United Kingdom,Coatbridge, London,51.5,-0.166666667,GB
-44,1237,United Kingdom,Bideford, London,51.5,-0.166666667,GB
-44,1239,United Kingdom,Cardigan, London,51.5,-0.166666667,GB
-44,1241,United Kingdom,Arbroath, London,51.5,-0.166666667,GB
-44,1242,United Kingdom,Cheltenham, London,51.5,-0.166666667,GB
-44,1243,United Kingdom,Chichester, London,51.5,-0.166666667,GB
-44,1244,United Kingdom,Chester, London,51.5,-0.166666667,GB
-44,1245,United Kingdom,Chelmsford, London,51.5,-0.166666667,GB
-44,1246,United Kingdom,Chesterfield, London,51.5,-0.166666667,GB
-44,1248,United Kingdom,Bangor, London,51.5,-0.166666667,GB
-44,1249,United Kingdom,Chippenham, London,51.5,-0.166666667,GB
-44,1250,United Kingdom,Blairgowrie, London,51.5,-0.166666667,GB
-44,1252,United Kingdom,Aldershot, London,51.5,-0.166666667,GB
-44,1253,United Kingdom,Blackpool, London,51.5,-0.166666667,GB
-44,1254,United Kingdom,Blackburn, London,51.5,-0.166666667,GB
-44,1255,United Kingdom,Clacton-on-Sea, London,51.5,-0.166666667,GB
-44,1256,United Kingdom,Basingstoke, London,51.5,-0.166666667,GB
-44,1257,United Kingdom,Coppull, London,51.5,-0.166666667,GB
-44,1258,United Kingdom,Blandford, London,51.5,-0.166666667,GB
-44,1259,United Kingdom,Alloa, London,51.5,-0.166666667,GB
-44,1260,United Kingdom,Congleton, London,51.5,-0.166666667,GB
-44,1261,United Kingdom,Banff, London,51.5,-0.166666667,GB
-44,1262,United Kingdom,Bridlington, London,51.5,-0.166666667,GB
-44,1263,United Kingdom,Cromer, London,51.5,-0.166666667,GB
-44,1264,United Kingdom,Andover, London,51.5,-0.166666667,GB
-44,1267,United Kingdom,Carmarthen, London,51.5,-0.166666667,GB
-44,1268,United Kingdom,Basildon, London,51.5,-0.166666667,GB
-44,1269,United Kingdom,Ammanford, London,51.5,-0.166666667,GB
-44,1270,United Kingdom,Crewe, London,51.5,-0.166666667,GB
-44,1271,United Kingdom,Barnstable, London,51.5,-0.166666667,GB
-44,1273,United Kingdom,Brighton, London,51.5,-0.166666667,GB
-44,1274,United Kingdom,Bradford, London,51.5,-0.166666667,GB
-44,1275,United Kingdom,Clevedon, London,51.5,-0.166666667,GB
-44,1276,United Kingdom,Camberley, London,51.5,-0.166666667,GB
-44,1277,United Kingdom,Brentwood, London,51.5,-0.166666667,GB
-44,1278,United Kingdom,Bridgwater, London,51.5,-0.166666667,GB
-44,1279,United Kingdom,Bishops Stortford, London,51.5,-0.166666667,GB
-44,1280,United Kingdom,Buckingham, London,51.5,-0.166666667,GB
-44,1282,United Kingdom,Burnley, London,51.5,-0.166666667,GB
-44,1283,United Kingdom,Burton-on-Trent, London,51.5,-0.166666667,GB
-44,1284,United Kingdom,Bury-St-Edmunds, London,51.5,-0.166666667,GB
-44,1285,United Kingdom,Cirencester, London,51.5,-0.166666667,GB
-44,1286,United Kingdom,Caernarvon, London,51.5,-0.166666667,GB
-44,1287,United Kingdom,Guisborough, London,51.5,-0.166666667,GB
-44,1288,United Kingdom,Bude, London,51.5,-0.166666667,GB
-44,1289,United Kingdom,Berwick-on-Tweed, London,51.5,-0.166666667,GB
-44,1290,United Kingdom,Cumnock, London,51.5,-0.166666667,GB
-44,1291,United Kingdom,Chepstow, London,51.5,-0.166666667,GB
-44,1292,United Kingdom,Ayr, London,51.5,-0.166666667,GB
-44,1293,United Kingdom,Crawley, London,51.5,-0.166666667,GB
-44,1294,United Kingdom,Ardrossan, London,51.5,-0.166666667,GB
-44,1295,United Kingdom,Banbury, London,51.5,-0.166666667,GB
-44,1296,United Kingdom,Aylesbury, London,51.5,-0.166666667,GB
-44,1297,United Kingdom,Axminster, London,51.5,-0.166666667,GB
-44,1298,United Kingdom,Buxton, London,51.5,-0.166666667,GB
-44,1299,United Kingdom,Bewdley, London,51.5,-0.166666667,GB
-44,1300,United Kingdom,Cerne Abbas, London,51.5,-0.166666667,GB
-44,1301,United Kingdom,Arrochar, London,51.5,-0.166666667,GB
-44,1302,United Kingdom,Doncaster, London,51.5,-0.166666667,GB
-44,1303,United Kingdom,Folkestone, London,51.5,-0.166666667,GB
-44,1304,United Kingdom,Dover, London,51.5,-0.166666667,GB
-44,1305,United Kingdom,Dorchester, London,51.5,-0.166666667,GB
-44,1306,United Kingdom,Dorking, London,51.5,-0.166666667,GB
-44,1307,United Kingdom,Forfar, London,51.5,-0.166666667,GB
-44,1308,United Kingdom,Bridport, London,51.5,-0.166666667,GB
-44,1309,United Kingdom,Forres, London,51.5,-0.166666667,GB
-44,131,United Kingdom,Edinburgh, London,51.5,-0.166666667,GB
-44,1320,United Kingdom,Fort Augustus, London,51.5,-0.166666667,GB
-44,1322,United Kingdom,Dartford, London,51.5,-0.166666667,GB
-44,1323,United Kingdom,Eastbourne, London,51.5,-0.166666667,GB
-44,1324,United Kingdom,Falkirk, London,51.5,-0.166666667,GB
-44,1325,United Kingdom,Darlington, London,51.5,-0.166666667,GB
-44,1326,United Kingdom,Falmouth, London,51.5,-0.166666667,GB
-44,1327,United Kingdom,Daventry, London,51.5,-0.166666667,GB
-44,1328,United Kingdom,Fakenham, London,51.5,-0.166666667,GB
-44,1329,United Kingdom,Fareham, London,51.5,-0.166666667,GB
-44,1330,United Kingdom,Banchory, London,51.5,-0.166666667,GB
-44,1332,United Kingdom,Derby, London,51.5,-0.166666667,GB
-44,1333,United Kingdom,Peat Inn, London,51.5,-0.166666667,GB
-44,1334,United Kingdom,St Andrews, London,51.5,-0.166666667,GB
-44,1335,United Kingdom,Ashbourne, London,51.5,-0.166666667,GB
-44,1337,United Kingdom,Ladybank, London,51.5,-0.166666667,GB
-44,1339,United Kingdom,Aboyne / Ballater, London,51.5,-0.166666667,GB
-44,1340,United Kingdom,Craigellachie, London,51.5,-0.166666667,GB
-44,1341,United Kingdom,Barmouth, London,51.5,-0.166666667,GB
-44,1342,United Kingdom,East Grinstead, London,51.5,-0.166666667,GB
-44,1343,United Kingdom,Elgin, London,51.5,-0.166666667,GB
-44,1344,United Kingdom,Bracknell, London,51.5,-0.166666667,GB
-44,1346,United Kingdom,Fraserburgh, London,51.5,-0.166666667,GB
-44,1347,United Kingdom,Easingwold, London,51.5,-0.166666667,GB
-44,1348,United Kingdom,Fishguard, London,51.5,-0.166666667,GB
-44,1349,United Kingdom,Dingwall, London,51.5,-0.166666667,GB
-44,1350,United Kingdom,Dunkeld, London,51.5,-0.166666667,GB
-44,1352,United Kingdom,Mold, London,51.5,-0.166666667,GB
-44,1353,United Kingdom,Ely, London,51.5,-0.166666667,GB
-44,1354,United Kingdom,Chatteris, London,51.5,-0.166666667,GB
-44,1355,United Kingdom,East Kilbride, London,51.5,-0.166666667,GB
-44,1356,United Kingdom,Brechin, London,51.5,-0.166666667,GB
-44,1357,United Kingdom,Strathaven, London,51.5,-0.166666667,GB
-44,1358,United Kingdom,Ellon, London,51.5,-0.166666667,GB
-44,1359,United Kingdom,Pakenham, London,51.5,-0.166666667,GB
-44,1360,United Kingdom,Killearn, London,51.5,-0.166666667,GB
-44,1361,United Kingdom,Duns, London,51.5,-0.166666667,GB
-44,1362,United Kingdom,Dereham, London,51.5,-0.166666667,GB
-44,1363,United Kingdom,Crediton, London,51.5,-0.166666667,GB
-44,1364,United Kingdom,Ashburton, London,51.5,-0.166666667,GB
-44,1366,United Kingdom,Downham Market, London,51.5,-0.166666667,GB
-44,1367,United Kingdom,Faringdon, London,51.5,-0.166666667,GB
-44,1368,United Kingdom,Dunbar, London,51.5,-0.166666667,GB
-44,1369,United Kingdom,Dunoon, London,51.5,-0.166666667,GB
-44,1371,United Kingdom,Great Dunmow, London,51.5,-0.166666667,GB
-44,1372,United Kingdom,Esher, London,51.5,-0.166666667,GB
-44,1373,United Kingdom,Frome, London,51.5,-0.166666667,GB
-44,1375,United Kingdom,Grays Thurrock, London,51.5,-0.166666667,GB
-44,1376,United Kingdom,Braintree, London,51.5,-0.166666667,GB
-44,1377,United Kingdom,Driffield, London,51.5,-0.166666667,GB
-44,1379,United Kingdom,Diss, London,51.5,-0.166666667,GB
-44,1380,United Kingdom,Devizes, London,51.5,-0.166666667,GB
-44,1381,United Kingdom,Fortrose, London,51.5,-0.166666667,GB
-44,1382,United Kingdom,Dundee, London,51.5,-0.166666667,GB
-44,1383,United Kingdom,Dunfermline, London,51.5,-0.166666667,GB
-44,1384,United Kingdom,Dudley, London,51.5,-0.166666667,GB
-44,1386,United Kingdom,Evesham, London,51.5,-0.166666667,GB
-44,1387,United Kingdom,Dumfries, London,51.5,-0.166666667,GB
-44,1388,United Kingdom,Bishop Auckland / Stanhope, London,51.5,-0.166666667,GB
-44,1389,United Kingdom,Dumbarton, London,51.5,-0.166666667,GB
-44,1392,United Kingdom,Exeter, London,51.5,-0.166666667,GB
-44,1394,United Kingdom,Felixstowe, London,51.5,-0.166666667,GB
-44,1395,United Kingdom,Budleigh Salterton, London,51.5,-0.166666667,GB
-44,1397,United Kingdom,Fort William, London,51.5,-0.166666667,GB
-44,1398,United Kingdom,Dulverton, London,51.5,-0.166666667,GB
-44,1400,United Kingdom,Honington, London,51.5,-0.166666667,GB
-44,1403,United Kingdom,Horsham, London,51.5,-0.166666667,GB
-44,1404,United Kingdom,Honiton, London,51.5,-0.166666667,GB
-44,1405,United Kingdom,Goole, London,51.5,-0.166666667,GB
-44,1406,United Kingdom,Holbeach, London,51.5,-0.166666667,GB
-44,1407,United Kingdom,Holyhead, London,51.5,-0.166666667,GB
-44,1408,United Kingdom,Golspie, London,51.5,-0.166666667,GB
-44,1409,United Kingdom,Holsworthy, London,51.5,-0.166666667,GB
-44,141,United Kingdom,Glasgow, London,51.5,-0.166666667,GB
-44,1420,United Kingdom,Alton, London,51.5,-0.166666667,GB
-44,1422,United Kingdom,Halifax, London,51.5,-0.166666667,GB
-44,1423,United Kingdom,Harrogate / Boroughbridge, London,51.5,-0.166666667,GB
-44,1424,United Kingdom,Hastings, London,51.5,-0.166666667,GB
-44,1425,United Kingdom,Ringwood, London,51.5,-0.166666667,GB
-44,1427,United Kingdom,Gainsborough, London,51.5,-0.166666667,GB
-44,1428,United Kingdom,Haslemere, London,51.5,-0.166666667,GB
-44,1429,United Kingdom,Hartlepool, London,51.5,-0.166666667,GB
-44,1430,United Kingdom,North Cave / Market Weighton, London,51.5,-0.166666667,GB
-44,1431,United Kingdom,Helmsdale, London,51.5,-0.166666667,GB
-44,1432,United Kingdom,Hereford, London,51.5,-0.166666667,GB
-44,1433,United Kingdom,Hathersage, London,51.5,-0.166666667,GB
-44,1434,United Kingdom,Bellingham / Haltwhistle / Hexham, London,51.5,-0.166666667,GB
-44,1435,United Kingdom,Heathfield, London,51.5,-0.166666667,GB
-44,1436,United Kingdom,Helensburgh, London,51.5,-0.166666667,GB
-44,1437,United Kingdom,Haverfordwest / Clynderwen, London,51.5,-0.166666667,GB
-44,1438,United Kingdom,Stevenage, London,51.5,-0.166666667,GB
-44,1439,United Kingdom,Helmsley, London,51.5,-0.166666667,GB
-44,1440,United Kingdom,Haverhill, London,51.5,-0.166666667,GB
-44,1442,United Kingdom,Hemel Hempstead, London,51.5,-0.166666667,GB
-44,1443,United Kingdom,Pontypridd, London,51.5,-0.166666667,GB
-44,1444,United Kingdom,Haywards Heath, London,51.5,-0.166666667,GB
-44,1445,United Kingdom,Gairloch, London,51.5,-0.166666667,GB
-44,1446,United Kingdom,Barry, London,51.5,-0.166666667,GB
-44,1449,United Kingdom,Stowmarket, London,51.5,-0.166666667,GB
-44,1450,United Kingdom,Hawick, London,51.5,-0.166666667,GB
-44,1451,United Kingdom,Stow-on-the-Wold, London,51.5,-0.166666667,GB
-44,1452,United Kingdom,Gloucester, London,51.5,-0.166666667,GB
-44,1453,United Kingdom,Dursley, London,51.5,-0.166666667,GB
-44,1454,United Kingdom,Chipping Sodbury, London,51.5,-0.166666667,GB
-44,1455,United Kingdom,Hinckley, London,51.5,-0.166666667,GB
-44,1456,United Kingdom,Glenurquhart, London,51.5,-0.166666667,GB
-44,1457,United Kingdom,Glossop, London,51.5,-0.166666667,GB
-44,1458,United Kingdom,Glastonbury, London,51.5,-0.166666667,GB
-44,1460,United Kingdom,Chard, London,51.5,-0.166666667,GB
-44,1461,United Kingdom,Gretna, London,51.5,-0.166666667,GB
-44,1462,United Kingdom,Hitchin, London,51.5,-0.166666667,GB
-44,1463,United Kingdom,Inverness, London,51.5,-0.166666667,GB
-44,1464,United Kingdom,Insch, London,51.5,-0.166666667,GB
-44,1465,United Kingdom,Girvan, London,51.5,-0.166666667,GB
-44,1466,United Kingdom,Huntly, London,51.5,-0.166666667,GB
-44,1467,United Kingdom,Inverurie, London,51.5,-0.166666667,GB
-44,1469,United Kingdom,Killingholme, London,51.5,-0.166666667,GB
-44,1470,United Kingdom,Isle of Skye - Edinbane, London,51.5,-0.166666667,GB
-44,1471,United Kingdom,Isle of Skye - Broadford, London,51.5,-0.166666667,GB
-44,1472,United Kingdom,Grimsby, London,51.5,-0.166666667,GB
-44,1473,United Kingdom,Ipswich, London,51.5,-0.166666667,GB
-44,1474,United Kingdom,Gravesend, London,51.5,-0.166666667,GB
-44,1475,United Kingdom,Greenock, London,51.5,-0.166666667,GB
-44,1476,United Kingdom,Grantham, London,51.5,-0.166666667,GB
-44,1477,United Kingdom,Holmes Chapel, London,51.5,-0.166666667,GB
-44,1478,United Kingdom,Isle of Skye - Portree, London,51.5,-0.166666667,GB
-44,1479,United Kingdom,Grantown-on-Spey, London,51.5,-0.166666667,GB
-44,1480,United Kingdom,Huntingdon, London,51.5,-0.166666667,GB
-44,1482,United Kingdom,Hull, London,51.5,-0.166666667,GB
-44,1483,United Kingdom,Guildford, London,51.5,-0.166666667,GB
-44,1484,United Kingdom,Huddersfield, London,51.5,-0.166666667,GB
-44,1485,United Kingdom,Hunstanton, London,51.5,-0.166666667,GB
-44,1487,United Kingdom,Warboys, London,51.5,-0.166666667,GB
-44,1488,United Kingdom,Hungerford, London,51.5,-0.166666667,GB
-44,1489,United Kingdom,Bishops Waltham, London,51.5,-0.166666667,GB
-44,1490,United Kingdom,Corwen, London,51.5,-0.166666667,GB
-44,1491,United Kingdom,Henley on Thames, London,51.5,-0.166666667,GB
-44,1492,United Kingdom,Colwyn Bay, London,51.5,-0.166666667,GB
-44,1493,United Kingdom,Great Yarmouth, London,51.5,-0.166666667,GB
-44,1494,United Kingdom,High Wycombe, London,51.5,-0.166666667,GB
-44,1495,United Kingdom,Pontypool, London,51.5,-0.166666667,GB
-44,1496,United Kingdom,Port Ellen, London,51.5,-0.166666667,GB
-44,1497,United Kingdom,Hay-on-Wye, London,51.5,-0.166666667,GB
-44,1499,United Kingdom,Inveraray, London,51.5,-0.166666667,GB
-44,1501,United Kingdom,Harthill, London,51.5,-0.166666667,GB
-44,1502,United Kingdom,Lowestoft, London,51.5,-0.166666667,GB
-44,1503,United Kingdom,Looe, London,51.5,-0.166666667,GB
-44,1505,United Kingdom,Johnstone, London,51.5,-0.166666667,GB
-44,1506,United Kingdom,Bathgate, London,51.5,-0.166666667,GB
-44,1507,United Kingdom,Louth / Alford / Spilsby, London,51.5,-0.166666667,GB
-44,1508,United Kingdom,Brooke, London,51.5,-0.166666667,GB
-44,1509,United Kingdom,Loughborough, London,51.5,-0.166666667,GB
-44,151,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1510,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1511,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1512,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1513,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1514,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1515,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1516,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1517,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1518,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1519,United Kingdom,Liverpool, London,51.5,-0.166666667,GB
-44,1520,United Kingdom,Lochcarron, London,51.5,-0.166666667,GB
-44,1522,United Kingdom,Lincoln, London,51.5,-0.166666667,GB
-44,1524,United Kingdom,Lancaster, London,51.5,-0.166666667,GB
-44,15242,United Kingdom,Hornby, London,51.5,-0.166666667,GB
-44,1525,United Kingdom,Leighton Buzzard, London,51.5,-0.166666667,GB
-44,1526,United Kingdom,Martin, London,51.5,-0.166666667,GB
-44,1527,United Kingdom,Redditch, London,51.5,-0.166666667,GB
-44,1528,United Kingdom,Laggan, London,51.5,-0.166666667,GB
-44,1529,United Kingdom,Sleaford, London,51.5,-0.166666667,GB
-44,1530,United Kingdom,Coalville, London,51.5,-0.166666667,GB
-44,1531,United Kingdom,Ledbury, London,51.5,-0.166666667,GB
-44,1535,United Kingdom,Keighley, London,51.5,-0.166666667,GB
-44,1536,United Kingdom,Kettering, London,51.5,-0.166666667,GB
-44,1538,United Kingdom,Ipstones, London,51.5,-0.166666667,GB
-44,1539,United Kingdom,Kendal, London,51.5,-0.166666667,GB
-44,15394,United Kingdom,Hawkshead, London,51.5,-0.166666667,GB
-44,15395,United Kingdom,Grange over Sands, London,51.5,-0.166666667,GB
-44,15396,United Kingdom,Sedbergh, London,51.5,-0.166666667,GB
-44,1540,United Kingdom,Kingussie, London,51.5,-0.166666667,GB
-44,1542,United Kingdom,Keith, London,51.5,-0.166666667,GB
-44,1543,United Kingdom,Cannock, London,51.5,-0.166666667,GB
-44,1544,United Kingdom,Kington, London,51.5,-0.166666667,GB
-44,1545,United Kingdom,Llanarth, London,51.5,-0.166666667,GB
-44,1546,United Kingdom,Lochgilphead, London,51.5,-0.166666667,GB
-44,1547,United Kingdom,Knighton, London,51.5,-0.166666667,GB
-44,1548,United Kingdom,Kingsbridge, London,51.5,-0.166666667,GB
-44,1549,United Kingdom,Lairg, London,51.5,-0.166666667,GB
-44,1550,United Kingdom,Llandovery, London,51.5,-0.166666667,GB
-44,1553,United Kingdom,Kings Lynn, London,51.5,-0.166666667,GB
-44,1554,United Kingdom,Llanelli, London,51.5,-0.166666667,GB
-44,1555,United Kingdom,Lanark, London,51.5,-0.166666667,GB
-44,1556,United Kingdom,Castle Douglas, London,51.5,-0.166666667,GB
-44,1557,United Kingdom,Kirkcudbright, London,51.5,-0.166666667,GB
-44,1558,United Kingdom,Llandeilo, London,51.5,-0.166666667,GB
-44,1559,United Kingdom,Llandyssul, London,51.5,-0.166666667,GB
-44,1560,United Kingdom,Moscow, London,51.5,-0.166666667,GB
-44,1561,United Kingdom,Laurencekirk, London,51.5,-0.166666667,GB
-44,1562,United Kingdom,Kidderminster, London,51.5,-0.166666667,GB
-44,1563,United Kingdom,Kilmarnock, London,51.5,-0.166666667,GB
-44,1564,United Kingdom,Lapworth, London,51.5,-0.166666667,GB
-44,1565,United Kingdom,Knutsford, London,51.5,-0.166666667,GB
-44,1566,United Kingdom,Launceston, London,51.5,-0.166666667,GB
-44,1567,United Kingdom,Killin, London,51.5,-0.166666667,GB
-44,1568,United Kingdom,Leominster, London,51.5,-0.166666667,GB
-44,1569,United Kingdom,Stonehaven, London,51.5,-0.166666667,GB
-44,1570,United Kingdom,Lampeter, London,51.5,-0.166666667,GB
-44,1571,United Kingdom,Lochinver, London,51.5,-0.166666667,GB
-44,1572,United Kingdom,Oakham, London,51.5,-0.166666667,GB
-44,1573,United Kingdom,Kelso, London,51.5,-0.166666667,GB
-44,1575,United Kingdom,Kirriemuir, London,51.5,-0.166666667,GB
-44,1576,United Kingdom,Lockerbie, London,51.5,-0.166666667,GB
-44,1577,United Kingdom,Kinross, London,51.5,-0.166666667,GB
-44,1578,United Kingdom,Lauder, London,51.5,-0.166666667,GB
-44,1579,United Kingdom,Liskeard, London,51.5,-0.166666667,GB
-44,1580,United Kingdom,Cranbrook, London,51.5,-0.166666667,GB
-44,1581,United Kingdom,New Luce, London,51.5,-0.166666667,GB
-44,1582,United Kingdom,Luton, London,51.5,-0.166666667,GB
-44,1583,United Kingdom,Carradale, London,51.5,-0.166666667,GB
-44,1584,United Kingdom,Ludlow, London,51.5,-0.166666667,GB
-44,1586,United Kingdom,Campbeltown, London,51.5,-0.166666667,GB
-44,1588,United Kingdom,Bishops Castle, London,51.5,-0.166666667,GB
-44,1590,United Kingdom,Lymington, London,51.5,-0.166666667,GB
-44,1591,United Kingdom,Llanwrtyd Wells, London,51.5,-0.166666667,GB
-44,1592,United Kingdom,Kirkcaldy, London,51.5,-0.166666667,GB
-44,1593,United Kingdom,Lybster, London,51.5,-0.166666667,GB
-44,1594,United Kingdom,Lydney, London,51.5,-0.166666667,GB
-44,1595,United Kingdom,Lerwick-Foula &amp; Fair Isle, London,51.5,-0.166666667,GB
-44,1597,United Kingdom,Llandrindod Wells, London,51.5,-0.166666667,GB
-44,1598,United Kingdom,Lynton, London,51.5,-0.166666667,GB
-44,1599,United Kingdom,Kyle, London,51.5,-0.166666667,GB
-44,1600,United Kingdom,Monmouth, London,51.5,-0.166666667,GB
-44,1603,United Kingdom,Norwich, London,51.5,-0.166666667,GB
-44,1604,United Kingdom,Northampton, London,51.5,-0.166666667,GB
-44,1606,United Kingdom,Northwich, London,51.5,-0.166666667,GB
-44,1608,United Kingdom,Chipping Norton, London,51.5,-0.166666667,GB
-44,1609,United Kingdom,Northallerton, London,51.5,-0.166666667,GB
-44,161,United Kingdom,Manchester, London,51.5,-0.166666667,GB
-44,1620,United Kingdom,North Berwick, London,51.5,-0.166666667,GB
-44,1621,United Kingdom,Maldon, London,51.5,-0.166666667,GB
-44,1622,United Kingdom,Maidstone, London,51.5,-0.166666667,GB
-44,1623,United Kingdom,Mansfield, London,51.5,-0.166666667,GB
-44,1624,United Kingdom,Isle of Man, London,51.5,-0.166666667,GB
-44,1625,United Kingdom,Macclesfield, London,51.5,-0.166666667,GB
-44,1626,United Kingdom,Newton Abbot, London,51.5,-0.166666667,GB
-44,1628,United Kingdom,Maidenhead, London,51.5,-0.166666667,GB
-44,1629,United Kingdom,Matlock, London,51.5,-0.166666667,GB
-44,1630,United Kingdom,Market Drayton, London,51.5,-0.166666667,GB
-44,1631,United Kingdom,Oban, London,51.5,-0.166666667,GB
-44,1633,United Kingdom,Newport, London,51.5,-0.166666667,GB
-44,1634,United Kingdom,Medway, London,51.5,-0.166666667,GB
-44,1635,United Kingdom,Newbury, London,51.5,-0.166666667,GB
-44,1636,United Kingdom,Newark, London,51.5,-0.166666667,GB
-44,1637,United Kingdom,Newquay, London,51.5,-0.166666667,GB
-44,1638,United Kingdom,Newmarket, London,51.5,-0.166666667,GB
-44,1639,United Kingdom,Neath, London,51.5,-0.166666667,GB
-44,1641,United Kingdom,Strathy, London,51.5,-0.166666667,GB
-44,1642,United Kingdom,Middlesbrough, London,51.5,-0.166666667,GB
-44,1643,United Kingdom,Minehead, London,51.5,-0.166666667,GB
-44,1644,United Kingdom,New Galloway, London,51.5,-0.166666667,GB
-44,1646,United Kingdom,Milford Haven, London,51.5,-0.166666667,GB
-44,1647,United Kingdom,Moretonhampstead, London,51.5,-0.166666667,GB
-44,1650,United Kingdom,Cemmaes Road, London,51.5,-0.166666667,GB
-44,1651,United Kingdom,Oldmeldrum, London,51.5,-0.166666667,GB
-44,1652,United Kingdom,Brigg, London,51.5,-0.166666667,GB
-44,1653,United Kingdom,Malton, London,51.5,-0.166666667,GB
-44,1654,United Kingdom,Machynlleth, London,51.5,-0.166666667,GB
-44,1655,United Kingdom,Maybole, London,51.5,-0.166666667,GB
-44,1656,United Kingdom,Bridgend, London,51.5,-0.166666667,GB
-44,1659,United Kingdom,Sanquhar, London,51.5,-0.166666667,GB
-44,1661,United Kingdom,Prudhoe, London,51.5,-0.166666667,GB
-44,1663,United Kingdom,New Mills, London,51.5,-0.166666667,GB
-44,1664,United Kingdom,Melton Mowbray, London,51.5,-0.166666667,GB
-44,1665,United Kingdom,Alnwick, London,51.5,-0.166666667,GB
-44,1666,United Kingdom,Malmesbury, London,51.5,-0.166666667,GB
-44,1667,United Kingdom,Nairn, London,51.5,-0.166666667,GB
-44,1668,United Kingdom,Bamburgh, London,51.5,-0.166666667,GB
-44,1669,United Kingdom,Rothbury, London,51.5,-0.166666667,GB
-44,1670,United Kingdom,Morpeth, London,51.5,-0.166666667,GB
-44,1671,United Kingdom,Newton Stewart, London,51.5,-0.166666667,GB
-44,1672,United Kingdom,Marlborough, London,51.5,-0.166666667,GB
-44,1673,United Kingdom,Market Rasen, London,51.5,-0.166666667,GB
-44,1674,United Kingdom,Montrose, London,51.5,-0.166666667,GB
-44,1675,United Kingdom,Coleshill, London,51.5,-0.166666667,GB
-44,1676,United Kingdom,Meriden, London,51.5,-0.166666667,GB
-44,1677,United Kingdom,Bedale, London,51.5,-0.166666667,GB
-44,1678,United Kingdom,Bala, London,51.5,-0.166666667,GB
-44,1680,United Kingdom,Isle of Mull - Craignure, London,51.5,-0.166666667,GB
-44,1681,United Kingdom,Isle of Mull - Fionnphort, London,51.5,-0.166666667,GB
-44,1683,United Kingdom,Moffat, London,51.5,-0.166666667,GB
-44,1684,United Kingdom,Malvern, London,51.5,-0.166666667,GB
-44,1685,United Kingdom,Merthyr Tydfil, London,51.5,-0.166666667,GB
-44,1686,United Kingdom,Newtown / Llanidloes, London,51.5,-0.166666667,GB
-44,1687,United Kingdom,Mallaig, London,51.5,-0.166666667,GB
-44,1688,United Kingdom,Isle of Mull - Tobermory, London,51.5,-0.166666667,GB
-44,1689,United Kingdom,Orpington, London,51.5,-0.166666667,GB
-44,1690,United Kingdom,Betws-y-Coed, London,51.5,-0.166666667,GB
-44,1691,United Kingdom,Oswestry, London,51.5,-0.166666667,GB
-44,1692,United Kingdom,North Walsham, London,51.5,-0.166666667,GB
-44,1694,United Kingdom,Church Stretton, London,51.5,-0.166666667,GB
-44,1695,United Kingdom,Skelmersdale, London,51.5,-0.166666667,GB
-44,1697,United Kingdom,Brampton, London,51.5,-0.166666667,GB
-44,16973,United Kingdom,Wigton, London,51.5,-0.166666667,GB
-44,16974,United Kingdom,Raughton Head, London,51.5,-0.166666667,GB
-44,1698,United Kingdom,Motherwell, London,51.5,-0.166666667,GB
-44,1700,United Kingdom,Rothesay, London,51.5,-0.166666667,GB
-44,1702,United Kingdom,Southend-on-Sea, London,51.5,-0.166666667,GB
-44,1704,United Kingdom,Southport, London,51.5,-0.166666667,GB
-44,1706,United Kingdom,Rochdale, London,51.5,-0.166666667,GB
-44,1707,United Kingdom,Welwyn Garden City, London,51.5,-0.166666667,GB
-44,1708,United Kingdom,Romford, London,51.5,-0.166666667,GB
-44,1709,United Kingdom,Rotherham, London,51.5,-0.166666667,GB
-44,1720,United Kingdom,Isles of Scilly, London,51.5,-0.166666667,GB
-44,1721,United Kingdom,Peebles, London,51.5,-0.166666667,GB
-44,1722,United Kingdom,Salisbury, London,51.5,-0.166666667,GB
-44,1723,United Kingdom,Scarborough, London,51.5,-0.166666667,GB
-44,1724,United Kingdom,Scunthorpe, London,51.5,-0.166666667,GB
-44,1725,United Kingdom,Rockbourne, London,51.5,-0.166666667,GB
-44,1726,United Kingdom,St Austell, London,51.5,-0.166666667,GB
-44,1727,United Kingdom,St Albans, London,51.5,-0.166666667,GB
-44,1728,United Kingdom,Saxmundham, London,51.5,-0.166666667,GB
-44,1729,United Kingdom,Settle, London,51.5,-0.166666667,GB
-44,1730,United Kingdom,Petersfield, London,51.5,-0.166666667,GB
-44,1732,United Kingdom,Sevenoaks, London,51.5,-0.166666667,GB
-44,1733,United Kingdom,Peterborough, London,51.5,-0.166666667,GB
-44,1736,United Kingdom,Penzance, London,51.5,-0.166666667,GB
-44,1737,United Kingdom,Redhill, London,51.5,-0.166666667,GB
-44,1738,United Kingdom,Perth, London,51.5,-0.166666667,GB
-44,1740,United Kingdom,Sedgefield, London,51.5,-0.166666667,GB
-44,1743,United Kingdom,Shrewsbury, London,51.5,-0.166666667,GB
-44,1744,United Kingdom,St Helens, London,51.5,-0.166666667,GB
-44,1745,United Kingdom,Rhyl, London,51.5,-0.166666667,GB
-44,1746,United Kingdom,Bridgnorth, London,51.5,-0.166666667,GB
-44,1747,United Kingdom,Shaftesbury, London,51.5,-0.166666667,GB
-44,1748,United Kingdom,Richmond, London,51.5,-0.166666667,GB
-44,1749,United Kingdom,Shepton Mallet, London,51.5,-0.166666667,GB
-44,1750,United Kingdom,Selkirk, London,51.5,-0.166666667,GB
-44,1751,United Kingdom,Pickering, London,51.5,-0.166666667,GB
-44,1752,United Kingdom,Plymouth, London,51.5,-0.166666667,GB
-44,1753,United Kingdom,Slough, London,51.5,-0.166666667,GB
-44,1754,United Kingdom,Skegness, London,51.5,-0.166666667,GB
-44,1756,United Kingdom,Skipton, London,51.5,-0.166666667,GB
-44,1757,United Kingdom,Selby, London,51.5,-0.166666667,GB
-44,1758,United Kingdom,Pwllheli, London,51.5,-0.166666667,GB
-44,1759,United Kingdom,Pocklington, London,51.5,-0.166666667,GB
-44,1760,United Kingdom,Swaffham, London,51.5,-0.166666667,GB
-44,1761,United Kingdom,Temple Cloud, London,51.5,-0.166666667,GB
-44,1763,United Kingdom,Royston, London,51.5,-0.166666667,GB
-44,1764,United Kingdom,Crieff, London,51.5,-0.166666667,GB
-44,1765,United Kingdom,Ripon, London,51.5,-0.166666667,GB
-44,1766,United Kingdom,Porthmadog, London,51.5,-0.166666667,GB
-44,1767,United Kingdom,Sandy, London,51.5,-0.166666667,GB
-44,1768,United Kingdom,Penrith, London,51.5,-0.166666667,GB
-44,17683,United Kingdom,Appleby, London,51.5,-0.166666667,GB
-44,17684,United Kingdom,Pooley Bridge, London,51.5,-0.166666667,GB
-44,17687,United Kingdom,Keswick, London,51.5,-0.166666667,GB
-44,1769,United Kingdom,South Molton, London,51.5,-0.166666667,GB
-44,1770,United Kingdom,Isle of Arran, London,51.5,-0.166666667,GB
-44,1771,United Kingdom,Maud, London,51.5,-0.166666667,GB
-44,1772,United Kingdom,Preston, London,51.5,-0.166666667,GB
-44,1773,United Kingdom,Ripley, London,51.5,-0.166666667,GB
-44,1775,United Kingdom,Spalding, London,51.5,-0.166666667,GB
-44,1776,United Kingdom,Stranraer, London,51.5,-0.166666667,GB
-44,1777,United Kingdom,Retford, London,51.5,-0.166666667,GB
-44,1778,United Kingdom,Bourne, London,51.5,-0.166666667,GB
-44,1779,United Kingdom,Peterhead, London,51.5,-0.166666667,GB
-44,1780,United Kingdom,Stamford, London,51.5,-0.166666667,GB
-44,1782,United Kingdom,Stoke-on-Trent, London,51.5,-0.166666667,GB
-44,1784,United Kingdom,Staines, London,51.5,-0.166666667,GB
-44,1785,United Kingdom,Stafford, London,51.5,-0.166666667,GB
-44,1786,United Kingdom,Stirling, London,51.5,-0.166666667,GB
-44,1787,United Kingdom,Sudbury, London,51.5,-0.166666667,GB
-44,1788,United Kingdom,Rugby, London,51.5,-0.166666667,GB
-44,1789,United Kingdom,Stratford-upon-Avon, London,51.5,-0.166666667,GB
-44,1790,United Kingdom,Spilsby, London,51.5,-0.166666667,GB
-44,1792,United Kingdom,Swansea, London,51.5,-0.166666667,GB
-44,1793,United Kingdom,Swindon, London,51.5,-0.166666667,GB
-44,1794,United Kingdom,Romsey, London,51.5,-0.166666667,GB
-44,1795,United Kingdom,Sittingbourne, London,51.5,-0.166666667,GB
-44,1796,United Kingdom,Pitlochry, London,51.5,-0.166666667,GB
-44,1797,United Kingdom,Rye, London,51.5,-0.166666667,GB
-44,1798,United Kingdom,Pulborough, London,51.5,-0.166666667,GB
-44,1799,United Kingdom,Saffron Walden, London,51.5,-0.166666667,GB
-44,1803,United Kingdom,Torquay, London,51.5,-0.166666667,GB
-44,1805,United Kingdom,Torrington, London,51.5,-0.166666667,GB
-44,1806,United Kingdom,Shetland, London,51.5,-0.166666667,GB
-44,1807,United Kingdom,Ballindalloch, London,51.5,-0.166666667,GB
-44,1808,United Kingdom,Tomatin, London,51.5,-0.166666667,GB
-44,1809,United Kingdom,Tomdoun, London,51.5,-0.166666667,GB
-44,1821,United Kingdom,Kinrossie, London,51.5,-0.166666667,GB
-44,1822,United Kingdom,Tavistock, London,51.5,-0.166666667,GB
-44,1823,United Kingdom,Taunton, London,51.5,-0.166666667,GB
-44,1824,United Kingdom,Ruthin, London,51.5,-0.166666667,GB
-44,1825,United Kingdom,Uckfield, London,51.5,-0.166666667,GB
-44,1827,United Kingdom,Tamworth, London,51.5,-0.166666667,GB
-44,1828,United Kingdom,Coupar Angus, London,51.5,-0.166666667,GB
-44,1829,United Kingdom,Tarporley, London,51.5,-0.166666667,GB
-44,1830,United Kingdom,Kirkwhelpington, London,51.5,-0.166666667,GB
-44,1832,United Kingdom,Clopton, London,51.5,-0.166666667,GB
-44,1833,United Kingdom,Barnard Castle, London,51.5,-0.166666667,GB
-44,1834,United Kingdom,Narberth, London,51.5,-0.166666667,GB
-44,1835,United Kingdom,St Boswells, London,51.5,-0.166666667,GB
-44,1837,United Kingdom,Okehampton, London,51.5,-0.166666667,GB
-44,1838,United Kingdom,Dalmally, London,51.5,-0.166666667,GB
-44,1840,United Kingdom,Camelford, London,51.5,-0.166666667,GB
-44,1841,United Kingdom,Newquay, London,51.5,-0.166666667,GB
-44,1842,United Kingdom,Thetford, London,51.5,-0.166666667,GB
-44,1843,United Kingdom,Thanet, London,51.5,-0.166666667,GB
-44,1844,United Kingdom,Thame, London,51.5,-0.166666667,GB
-44,1845,United Kingdom,Thirsk, London,51.5,-0.166666667,GB
-44,1847,United Kingdom,Thurso / Tongue, London,51.5,-0.166666667,GB
-44,1848,United Kingdom,Thornhill, London,51.5,-0.166666667,GB
-44,1851,United Kingdom,Great Bernera / Stornoway, London,51.5,-0.166666667,GB
-44,1852,United Kingdom,Kilmelford, London,51.5,-0.166666667,GB
-44,1854,United Kingdom,Ullapool, London,51.5,-0.166666667,GB
-44,1855,United Kingdom,Ballachulish, London,51.5,-0.166666667,GB
-44,1856,United Kingdom,Orkney, London,51.5,-0.166666667,GB
-44,1857,United Kingdom,Sanday, London,51.5,-0.166666667,GB
-44,1858,United Kingdom,Market Harborough, London,51.5,-0.166666667,GB
-44,1859,United Kingdom,Harris, London,51.5,-0.166666667,GB
-44,1862,United Kingdom,Tain, London,51.5,-0.166666667,GB
-44,1863,United Kingdom,Ardgay, London,51.5,-0.166666667,GB
-44,1864,United Kingdom,Abington, London,51.5,-0.166666667,GB
-44,1865,United Kingdom,Oxford, London,51.5,-0.166666667,GB
-44,1866,United Kingdom,Kilchrenan, London,51.5,-0.166666667,GB
-44,1869,United Kingdom,Bicester, London,51.5,-0.166666667,GB
-44,1870,United Kingdom,Isle of Benbecula, London,51.5,-0.166666667,GB
-44,1871,United Kingdom,Castlebay, London,51.5,-0.166666667,GB
-44,1872,United Kingdom,Truro, London,51.5,-0.166666667,GB
-44,1873,United Kingdom,Abergavenny, London,51.5,-0.166666667,GB
-44,1874,United Kingdom,Brecon, London,51.5,-0.166666667,GB
-44,1875,United Kingdom,Tranent, London,51.5,-0.166666667,GB
-44,1876,United Kingdom,Lochmaddy, London,51.5,-0.166666667,GB
-44,1877,United Kingdom,Callander, London,51.5,-0.166666667,GB
-44,1878,United Kingdom,Lochboisdale, London,51.5,-0.166666667,GB
-44,1879,United Kingdom,Scarinish, London,51.5,-0.166666667,GB
-44,1880,United Kingdom,Tarbert, London,51.5,-0.166666667,GB
-44,1882,United Kingdom,Kinloch Rannoch, London,51.5,-0.166666667,GB
-44,1883,United Kingdom,Caterham, London,51.5,-0.166666667,GB
-44,1884,United Kingdom,Tiverton, London,51.5,-0.166666667,GB
-44,1885,United Kingdom,Pencombe, London,51.5,-0.166666667,GB
-44,1886,United Kingdom,Bromyard, London,51.5,-0.166666667,GB
-44,1887,United Kingdom,Aberfeldy, London,51.5,-0.166666667,GB
-44,1888,United Kingdom,Turriff, London,51.5,-0.166666667,GB
-44,1889,United Kingdom,Rugeley, London,51.5,-0.166666667,GB
-44,1890,United Kingdom,Coldstream / Ayton, London,51.5,-0.166666667,GB
-44,1892,United Kingdom,Tunbridge Wells, London,51.5,-0.166666667,GB
-44,1895,United Kingdom,Uxbridge, London,51.5,-0.166666667,GB
-44,1896,United Kingdom,Galashiels, London,51.5,-0.166666667,GB
-44,1899,United Kingdom,Biggar, London,51.5,-0.166666667,GB
-44,1900,United Kingdom,Workington, London,51.5,-0.166666667,GB
-44,1902,United Kingdom,Wolverhampton, London,51.5,-0.166666667,GB
-44,1903,United Kingdom,Worthing, London,51.5,-0.166666667,GB
-44,1904,United Kingdom,York, London,51.5,-0.166666667,GB
-44,1905,United Kingdom,Worcester, London,51.5,-0.166666667,GB
-44,1908,United Kingdom,Milton Keynes, London,51.5,-0.166666667,GB
-44,1909,United Kingdom,Worksop, London,51.5,-0.166666667,GB
-44,191,United Kingdom,Tyneside / Durham / Sunderland, London,51.5,-0.166666667,GB
-44,1920,United Kingdom,Ware, London,51.5,-0.166666667,GB
-44,1922,United Kingdom,Walsall, London,51.5,-0.166666667,GB
-44,1923,United Kingdom,Watford, London,51.5,-0.166666667,GB
-44,1924,United Kingdom,Wakefield, London,51.5,-0.166666667,GB
-44,1925,United Kingdom,Warrington, London,51.5,-0.166666667,GB
-44,1926,United Kingdom,Warwick, London,51.5,-0.166666667,GB
-44,1928,United Kingdom,Runcorn, London,51.5,-0.166666667,GB
-44,1929,United Kingdom,Wareham, London,51.5,-0.166666667,GB
-44,1931,United Kingdom,Shap, London,51.5,-0.166666667,GB
-44,1932,United Kingdom,Weybridge, London,51.5,-0.166666667,GB
-44,1933,United Kingdom,Wellingborough, London,51.5,-0.166666667,GB
-44,1934,United Kingdom,Weston-Super-Mare, London,51.5,-0.166666667,GB
-44,1935,United Kingdom,Yeovil, London,51.5,-0.166666667,GB
-44,1937,United Kingdom,Wetherby, London,51.5,-0.166666667,GB
-44,1938,United Kingdom,Welshpool, London,51.5,-0.166666667,GB
-44,1939,United Kingdom,Wem, London,51.5,-0.166666667,GB
-44,1942,United Kingdom,Wigan, London,51.5,-0.166666667,GB
-44,1943,United Kingdom,Guiseley, London,51.5,-0.166666667,GB
-44,1944,United Kingdom,West Heslerton, London,51.5,-0.166666667,GB
-44,1945,United Kingdom,Wisbech, London,51.5,-0.166666667,GB
-44,1946,United Kingdom,Whitehaven, London,51.5,-0.166666667,GB
-44,19467,United Kingdom,Gosforth, London,51.5,-0.166666667,GB
-44,1947,United Kingdom,Whitby, London,51.5,-0.166666667,GB
-44,1948,United Kingdom,Whitchurch, London,51.5,-0.166666667,GB
-44,1949,United Kingdom,Whatton, London,51.5,-0.166666667,GB
-44,1950,United Kingdom,Sandwick, London,51.5,-0.166666667,GB
-44,1951,United Kingdom,Colonsay, London,51.5,-0.166666667,GB
-44,1952,United Kingdom,Telford, London,51.5,-0.166666667,GB
-44,1953,United Kingdom,Wymondham, London,51.5,-0.166666667,GB
-44,1954,United Kingdom,Madingley, London,51.5,-0.166666667,GB
-44,1955,United Kingdom,Wick, London,51.5,-0.166666667,GB
-44,1957,United Kingdom,Mid Yell, London,51.5,-0.166666667,GB
-44,1959,United Kingdom,Westerham, London,51.5,-0.166666667,GB
-44,1962,United Kingdom,Winchester, London,51.5,-0.166666667,GB
-44,1963,United Kingdom,Wincanton, London,51.5,-0.166666667,GB
-44,1964,United Kingdom,Hornsea / Patrington, London,51.5,-0.166666667,GB
-44,1967,United Kingdom,Strontian, London,51.5,-0.166666667,GB
-44,1968,United Kingdom,Penicuik, London,51.5,-0.166666667,GB
-44,1969,United Kingdom,Leyburn, London,51.5,-0.166666667,GB
-44,1970,United Kingdom,Aberystwyth, London,51.5,-0.166666667,GB
-44,1971,United Kingdom,Scourie, London,51.5,-0.166666667,GB
-44,1972,United Kingdom,Glenborrodale, London,51.5,-0.166666667,GB
-44,1974,United Kingdom,Llanon, London,51.5,-0.166666667,GB
-44,1975,United Kingdom,Alford / Strathdon, London,51.5,-0.166666667,GB
-44,1977,United Kingdom,Pontefract, London,51.5,-0.166666667,GB
-44,1978,United Kingdom,Wrexham, London,51.5,-0.166666667,GB
-44,1980,United Kingdom,Amesbury, London,51.5,-0.166666667,GB
-44,1981,United Kingdom,Wormbridge, London,51.5,-0.166666667,GB
-44,1982,United Kingdom,Builth Wells, London,51.5,-0.166666667,GB
-44,1983,United Kingdom,Isle of Wight, London,51.5,-0.166666667,GB
-44,1984,United Kingdom,Watchet, London,51.5,-0.166666667,GB
-44,1985,United Kingdom,Warminster, London,51.5,-0.166666667,GB
-44,1986,United Kingdom,Bungay, London,51.5,-0.166666667,GB
-44,1988,United Kingdom,Wigtown, London,51.5,-0.166666667,GB
-44,1989,United Kingdom,Ross-on-Wye, London,51.5,-0.166666667,GB
-44,1992,United Kingdom,Lea Valley, London,51.5,-0.166666667,GB
-44,1993,United Kingdom,Witney, London,51.5,-0.166666667,GB
-44,1994,United Kingdom,St Clears, London,51.5,-0.166666667,GB
-44,1995,United Kingdom,Garstang, London,51.5,-0.166666667,GB
-44,1997,United Kingdom,Strathpeffer, London,51.5,-0.166666667,GB
-44,20,United Kingdom,London, London,51.5,-0.166666667,GB
-44,200,United Kingdom,London, London,51.5,-0.166666667,GB
-44,201,United Kingdom,London, London,51.5,-0.166666667,GB
-44,203,United Kingdom,London, London,51.5,-0.166666667,GB
-44,207,United Kingdom,London, London,51.5,-0.166666667,GB
-44,208,United Kingdom,London, London,51.5,-0.166666667,GB
-44,23,United Kingdom,Portsmouth / Southampton, London,51.5,-0.166666667,GB
-44,24,United Kingdom,Coventry, London,51.5,-0.166666667,GB
-44,28,United Kingdom,Nothern Ireland, London,51.5,-0.166666667,GB
-44,280,United Kingdom,Nothern Ireland, London,51.5,-0.166666667,GB
-44,281,United Kingdom,Nothern Ireland, London,51.5,-0.166666667,GB
-44,29,United Kingdom,Cardiff, London,51.5,-0.166666667,GB
+44,113,United Kingdom,Leeds, London,53.801279,-1.548567,GB
+44,114,United Kingdom,Sheffield, London,53.381129,-1.470085,GB
+44,115,United Kingdom,Nottingham, London,52.95477,-1.158086,GB
+44,116,United Kingdom,Leicester, London,52.636878,-1.139759,GB
+44,117,United Kingdom,Bristol, London,51.454513,-2.58791,GB
+44,118,United Kingdom,Reading, London,51.452884,-0.973906,GB
+44,1200,United Kingdom,Clitheroe, London,53.871098,-2.393083,GB
+44,1202,United Kingdom,Bournemouth, London,50.719164,-1.880769,GB
+44,1204,United Kingdom,Bolton, London,53.584441,-2.428619,GB
+44,1205,United Kingdom,Boston, London,52.97894,-0.026577,GB
+44,1206,United Kingdom,Colchester, London,51.895927,0.891874,GB
+44,1207,United Kingdom,Consett, London,54.851797,-1.833026,GB
+44,1208,United Kingdom,Bodmin, London,50.46863,-4.715114,GB
+44,1209,United Kingdom,Redruth, London,50.233022,-5.226666,GB
+44,121,United Kingdom,Birmingham, London,52.486243,-1.890401,GB
+44,1223,United Kingdom,Cambridge, London,52.205337,0.121817,GB
+44,1224,United Kingdom,Aberdeen, London,57.149717,-2.094278,GB
+44,1225,United Kingdom,Bath, London,51.375801,-2.359904,GB
+44,1226,United Kingdom,Barnsley, London,53.55263,-1.479726,GB
+44,1227,United Kingdom,Canterbury, London,51.280233,1.078909,GB
+44,1228,United Kingdom,Carlisle, London,54.892473,-2.932931,GB
+44,1229,United Kingdom,Barrow-in-Furness / Millom, London,54.163336,-3.254259,GB
+44,1233,United Kingdom,Ashford, London,51.146466,0.875019,GB
+44,1234,United Kingdom,Bedford, London,52.140829,-0.462191,GB
+44,1235,United Kingdom,Abingdon, London,51.67078,-1.287953,GB
+44,1236,United Kingdom,Coatbridge, London,55.862241,-4.019337,GB
+44,1237,United Kingdom,Bideford, London,51.016684,-4.206666,GB
+44,1239,United Kingdom,Cardigan, London,52.082803,-4.655819,GB
+44,1241,United Kingdom,Arbroath, London,56.559107,-2.591543,GB
+44,1242,United Kingdom,Cheltenham, London,51.897599,-2.075609,GB
+44,1243,United Kingdom,Chichester, London,50.83761,-0.774936,GB
+44,1244,United Kingdom,Chester, London,53.193392,-2.893075,GB
+44,1245,United Kingdom,Chelmsford, London,51.734964,0.476197,GB
+44,1246,United Kingdom,Chesterfield, London,53.235048,-1.421629,GB
+44,1248,United Kingdom,Bangor, London,53.22739,-4.129263,GB
+44,1249,United Kingdom,Chippenham, London,51.458058,-2.116074,GB
+44,1250,United Kingdom,Blairgowrie, London,56.588823,-3.345894,GB
+44,1252,United Kingdom,Aldershot, London,51.248366,-0.755751,GB
+44,1253,United Kingdom,Blackpool, London,53.821273,-3.055453,GB
+44,1254,United Kingdom,Blackburn, London,53.748575,-2.487529,GB
+44,1255,United Kingdom,Clacton-on-Sea, London,51.789534,1.153035,GB
+44,1256,United Kingdom,Basingstoke, London,51.262551,-1.093609,GB
+44,1257,United Kingdom,Coppull, London,53.621543,-2.662958,GB
+44,1258,United Kingdom,Blandford, London,50.856908,-2.165353,GB
+44,1259,United Kingdom,Alloa, London,56.114073,-3.791896,GB
+44,1260,United Kingdom,Congleton, London,53.162856,-2.218923,GB
+44,1261,United Kingdom,Banff, London,57.666505,-2.524038,GB
+44,1262,United Kingdom,Bridlington, London,54.08535,-0.198802,GB
+44,1263,United Kingdom,Cromer, London,52.931448,1.301866,GB
+44,1264,United Kingdom,Andover, London,51.207093,-1.481246,GB
+44,1267,United Kingdom,Carmarthen, London,51.85762,-4.312131,GB
+44,1268,United Kingdom,Basildon, London,51.576084,0.488736,GB
+44,1269,United Kingdom,Ammanford, London,51.792888,-3.988459,GB
+44,1270,United Kingdom,Crewe, London,53.100405,-2.443821,GB
+44,1271,United Kingdom,Barnstable, London,51.07816,-4.058338,GB
+44,1273,United Kingdom,Brighton, London,50.842941,-0.131312,GB
+44,1274,United Kingdom,Bradford, London,53.795984,-1.759398,GB
+44,1275,United Kingdom,Clevedon, London,51.442108,-2.856196,GB
+44,1276,United Kingdom,Camberley, London,51.33539,-0.742856,GB
+44,1277,United Kingdom,Brentwood, London,51.620475,0.307175,GB
+44,1278,United Kingdom,Bridgwater, London,51.127889,-3.003632,GB
+44,1279,United Kingdom,Bishops Stortford, London,51.869052,0.158605,GB
+44,1280,United Kingdom,Buckingham, London,51.999326,-0.987645,GB
+44,1282,United Kingdom,Burnley, London,53.789397,-2.255003,GB
+44,1283,United Kingdom,Burton-on-Trent, London,52.807792,-1.647135,GB
+44,1284,United Kingdom,Bury-St-Edmunds, London,52.248726,0.705933,GB
+44,1285,United Kingdom,Cirencester, London,51.718495,-1.968243,GB
+44,1286,United Kingdom,Caernarvon, London,53.139551,-4.273911,GB
+44,1287,United Kingdom,Guisborough, London,54.535,-1.0563,GB
+44,1288,United Kingdom,Bude, London,50.826636,-4.543678,GB
+44,1289,United Kingdom,Berwick-on-Tweed, London,55.770242,-2.005395,GB
+44,1290,United Kingdom,Cumnock, London,55.453552,-4.265829,GB
+44,1291,United Kingdom,Chepstow, London,51.641856,-2.673804,GB
+44,1292,United Kingdom,Ayr, London,55.458564,-4.629179,GB
+44,1293,United Kingdom,Crawley, London,51.115416,-0.192876,GB
+44,1294,United Kingdom,Ardrossan, London,55.643889,-4.81182,GB
+44,1295,United Kingdom,Banbury, London,52.062901,-1.339775,GB
+44,1296,United Kingdom,Aylesbury, London,51.815606,-0.8084,GB
+44,1297,United Kingdom,Axminster, London,50.782727,-2.994937,GB
+44,1298,United Kingdom,Buxton, London,53.259082,-1.91483,GB
+44,1299,United Kingdom,Bewdley, London,52.375539,-2.316973,GB
+44,1300,United Kingdom,Cerne Abbas, London,50.808756,-2.477207,GB
+44,1301,United Kingdom,Arrochar, London,56.197685,-4.747293,GB
+44,1302,United Kingdom,Doncaster, London,53.52282,-1.128462,GB
+44,1303,United Kingdom,Folkestone, London,51.081397,1.169456,GB
+44,1304,United Kingdom,Dover, London,51.126371,1.316198,GB
+44,1305,United Kingdom,Dorchester, London,50.711164,-2.441181,GB
+44,1306,United Kingdom,Dorking, London,51.232202,-0.332378,GB
+44,1307,United Kingdom,Forfar, London,56.643558,-2.889062,GB
+44,1308,United Kingdom,Bridport, London,50.733577,-2.758301,GB
+44,1309,United Kingdom,Forres, London,57.609791,-3.61998,GB
+44,131,United Kingdom,Edinburgh, London,55.953252,-3.188267,GB
+44,1320,United Kingdom,Fort Augustus, London,57.144234,-4.679817,GB
+44,1322,United Kingdom,Dartford, London,51.44621,0.216872,GB
+44,1323,United Kingdom,Eastbourne, London,50.768035,0.290472,GB
+44,1324,United Kingdom,Falkirk, London,56.001092,-3.783522,GB
+44,1325,United Kingdom,Darlington, London,54.52361,-1.559458,GB
+44,1326,United Kingdom,Falmouth, London,50.152571,-5.06627,GB
+44,1327,United Kingdom,Daventry, London,52.257473,-1.164947,GB
+44,1328,United Kingdom,Fakenham, London,52.831333,0.849324,GB
+44,1329,United Kingdom,Fareham, London,50.856146,-1.183182,GB
+44,1330,United Kingdom,Banchory, London,57.053856,-2.49096,GB
+44,1332,United Kingdom,Derby, London,52.92253,-1.474619,GB
+44,1333,United Kingdom,Peat Inn, London,56.275341,-2.88241,GB
+44,1334,United Kingdom,St Andrews, London,56.339316,-2.7965,GB
+44,1335,United Kingdom,Ashbourne, London,53.016626,-1.732179,GB
+44,1337,United Kingdom,Ladybank, London,56.280831,-3.12671,GB
+44,1339,United Kingdom,Aboyne / Ballater, London,57.079654,-2.909401,GB
+44,1340,United Kingdom,Craigellachie, London,57.491008,-3.189215,GB
+44,1341,United Kingdom,Barmouth, London,52.722873,-4.056092,GB
+44,1342,United Kingdom,East Grinstead, London,51.128742,-0.014468,GB
+44,1343,United Kingdom,Elgin, London,57.649454,-3.318485,GB
+44,1344,United Kingdom,Bracknell, London,51.40226,-0.759494,GB
+44,1346,United Kingdom,Fraserburgh, London,57.693352,-2.007631,GB
+44,1347,United Kingdom,Easingwold, London,54.120007,-1.191878,GB
+44,1348,United Kingdom,Fishguard, London,51.993927,-4.975989,GB
+44,1349,United Kingdom,Dingwall, London,57.595347,-4.428411,GB
+44,1350,United Kingdom,Dunkeld, London,56.568195,-3.587103,GB
+44,1352,United Kingdom,Mold, London,53.167203,-3.141903,GB
+44,1353,United Kingdom,Ely, London,52.399539,0.262363,GB
+44,1354,United Kingdom,Chatteris, London,52.456102,0.054012,GB
+44,1355,United Kingdom,East Kilbride, London,55.760631,-4.164558,GB
+44,1356,United Kingdom,Brechin, London,56.733342,-2.655289,GB
+44,1357,United Kingdom,Strathaven, London,55.675627,-4.064323,GB
+44,1358,United Kingdom,Ellon, London,57.364597,-2.072972,GB
+44,1359,United Kingdom,Pakenham, London,52.269226,0.825696,GB
+44,1360,United Kingdom,Killearn, London,56.046286,-4.372517,GB
+44,1361,United Kingdom,Duns, London,55.777794,-2.343461,GB
+44,1362,United Kingdom,Dereham, London,52.681618,0.937827,GB
+44,1363,United Kingdom,Crediton, London,50.792592,-3.651495,GB
+44,1364,United Kingdom,Ashburton, London,50.515772,-3.751395,GB
+44,1366,United Kingdom,Downham Market, London,52.606612,0.385472,GB
+44,1367,United Kingdom,Faringdon, London,51.658477,-1.584679,GB
+44,1368,United Kingdom,Dunbar, London,56.002087,-2.516737,GB
+44,1369,United Kingdom,Dunoon, London,55.950973,-4.926214,GB
+44,1371,United Kingdom,Great Dunmow, London,51.872924,0.361707,GB
+44,1372,United Kingdom,Esher, London,51.369487,-0.365927,GB
+44,1373,United Kingdom,Frome, London,51.230751,-2.320096,GB
+44,1375,United Kingdom,Grays Thurrock, London,51.472362,0.324684,GB
+44,1376,United Kingdom,Braintree, London,51.880087,0.550927,GB
+44,1377,United Kingdom,Driffield, London,54.005996,-0.443377,GB
+44,1379,United Kingdom,Diss, London,52.376491,1.108394,GB
+44,1380,United Kingdom,Devizes, London,51.348907,-1.994828,GB
+44,1381,United Kingdom,Fortrose, London,57.581558,-4.130675,GB
+44,1382,United Kingdom,Dundee, London,56.462018,-2.970721,GB
+44,1383,United Kingdom,Dunfermline, London,56.071741,-3.452151,GB
+44,1384,United Kingdom,Dudley, London,52.512255,-2.081112,GB
+44,1386,United Kingdom,Evesham, London,52.092149,-1.94677,GB
+44,1387,United Kingdom,Dumfries, London,55.070859,-3.60512,GB
+44,1388,United Kingdom,Bishop Auckland / Stanhope, London,54.712984,-1.792949,GB
+44,1389,United Kingdom,Dumbarton, London,55.945287,-4.564554,GB
+44,1392,United Kingdom,Exeter, London,50.718412,-3.533899,GB
+44,1394,United Kingdom,Felixstowe, London,51.961726,1.351255,GB
+44,1395,United Kingdom,Budleigh Salterton, London,50.630998,-3.320214,GB
+44,1397,United Kingdom,Fort William, London,56.819817,-5.105218,GB
+44,1398,United Kingdom,Dulverton, London,51.039649,-3.549685,GB
+44,1400,United Kingdom,Honington, London,52.336207,0.80455,GB
+44,1403,United Kingdom,Horsham, London,51.062883,-0.325858,GB
+44,1404,United Kingdom,Honiton, London,50.799468,-3.188683,GB
+44,1405,United Kingdom,Goole, London,53.702941,-0.876381,GB
+44,1406,United Kingdom,Holbeach, London,52.803991,0.013434,GB
+44,1407,United Kingdom,Holyhead, London,53.309441,-4.633038,GB
+44,1408,United Kingdom,Golspie, London,57.973406,-3.976086,GB
+44,1409,United Kingdom,Holsworthy, London,50.809215,-4.353993,GB
+44,141,United Kingdom,Glasgow, London,55.864237,-4.251806,GB
+44,1420,United Kingdom,Alton, London,51.150719,-0.973177,GB
+44,1422,United Kingdom,Halifax, London,53.72702,-1.85754,GB
+44,1423,United Kingdom,"Boroughbridge, Harrogate", London,54.051168,-1.465814,GB
+44,1424,United Kingdom,Hastings, London,50.854259,0.573453,GB
+44,1425,United Kingdom,Ringwood, London,50.844949,-1.788817,GB
+44,1427,United Kingdom,Gainsborough, London,53.400575,-0.774465,GB
+44,1428,United Kingdom,Haslemere, London,51.090856,-0.713373,GB
+44,1429,United Kingdom,Hartlepool, London,54.691745,-1.212926,GB
+44,1430,United Kingdom,North Cave / Market Weighton, London,53.841707,-0.656557,GB
+44,1431,United Kingdom,Helmsdale, London,58.117261,-3.653533,GB
+44,1432,United Kingdom,Hereford, London,52.056398,-2.715974,GB
+44,1433,United Kingdom,Hathersage, London,53.329824,-1.655851,GB
+44,1434,United Kingdom,Bellingham / Haltwhistle / Hexham, London,55.04913,-2.288488,GB
+44,1435,United Kingdom,Heathfield, London,50.973147,0.261241,GB
+44,1436,United Kingdom,Helensburgh, London,56.002318,-4.734014,GB
+44,1437,United Kingdom,Haverfordwest / Clynderwen, London,51.847174,-4.82915,GB
+44,1438,United Kingdom,Stevenage, London,51.903761,-0.196612,GB
+44,1439,United Kingdom,Helmsley, London,54.246367,-1.061275,GB
+44,1440,United Kingdom,Haverhill, London,52.082766,0.440945,GB
+44,1442,United Kingdom,Hemel Hempstead, London,51.753241,-0.448632,GB
+44,1443,United Kingdom,Pontypridd, London,51.600774,-3.342314,GB
+44,1444,United Kingdom,Haywards Heath, London,50.999041,-0.106333,GB
+44,1445,United Kingdom,Gairloch, London,57.72822,-5.693912,GB
+44,1446,United Kingdom,Barry, London,51.399753,-3.282586,GB
+44,1449,United Kingdom,Stowmarket, London,52.188902,0.997712,GB
+44,1450,United Kingdom,Hawick, London,55.42706,-2.780914,GB
+44,1451,United Kingdom,Stow-on-the-Wold, London,51.931364,-1.726444,GB
+44,1452,United Kingdom,Gloucester, London,51.864245,-2.238156,GB
+44,1453,United Kingdom,Dursley, London,51.678768,-2.350518,GB
+44,1454,United Kingdom,Chipping Sodbury, London,51.535166,-2.390938,GB
+44,1455,United Kingdom,Hinckley, London,52.545455,-1.37667,GB
+44,1456,United Kingdom,Glenurquhart, London,57.62739,-4.11306,GB
+44,1457,United Kingdom,Glossop, London,53.442579,-1.94604,GB
+44,1458,United Kingdom,Glastonbury, London,51.147427,-2.718454,GB
+44,1460,United Kingdom,Chard, London,50.869792,-2.963316,GB
+44,1461,United Kingdom,Gretna, London,54.994997,-3.067108,GB
+44,1462,United Kingdom,Hitchin, London,51.94921,-0.283414,GB
+44,1463,United Kingdom,Inverness, London,57.477773,-4.224721,GB
+44,1464,United Kingdom,Insch, London,57.341405,-2.611882,GB
+44,1465,United Kingdom,Girvan, London,55.240164,-4.854218,GB
+44,1466,United Kingdom,Huntly, London,57.445936,-2.787806,GB
+44,1467,United Kingdom,Inverurie, London,57.283474,-2.373995,GB
+44,1469,United Kingdom,Killingholme, London,53.654626,-0.278976,GB
+44,1470,United Kingdom,Isle of Skye - Edinbane, London,57.471771,-6.424469,GB
+44,1471,United Kingdom,Isle of Skye - Broadford, London,57.242378,-5.913865,GB
+44,1472,United Kingdom,Grimsby, London,53.567471,-0.080784,GB
+44,1473,United Kingdom,Ipswich, London,52.056736,1.14822,GB
+44,1474,United Kingdom,Gravesend, London,51.441884,0.370759,GB
+44,1475,United Kingdom,Greenock, London,55.956476,-4.771983,GB
+44,1476,United Kingdom,Grantham, London,52.912524,-0.643582,GB
+44,1477,United Kingdom,Holmes Chapel, London,53.201306,-2.356242,GB
+44,1478,United Kingdom,Isle of Skye - Portree, London,57.412474,-6.196023,GB
+44,1479,United Kingdom,Grantown-on-Spey, London,57.33041,-3.609628,GB
+44,1480,United Kingdom,Huntingdon, London,52.33146,-0.182552,GB
+44,1481,United Kingdom,Guernsey, London,49.465691,-2.585278,GB
+44,1482,United Kingdom,Hull, London,53.745671,-0.336741,GB
+44,1483,United Kingdom,Guildford, London,51.23622,-0.570409,GB
+44,1484,United Kingdom,Huddersfield, London,53.645792,-1.785035,GB
+44,1485,United Kingdom,Hunstanton, London,52.938914,0.491032,GB
+44,1487,United Kingdom,Warboys, London,52.404533,-0.077056,GB
+44,1488,United Kingdom,Hungerford, London,51.412345,-1.517995,GB
+44,1489,United Kingdom,Bishops Waltham, London,50.952732,-1.213745,GB
+44,1490,United Kingdom,Corwen, London,52.980051,-3.369242,GB
+44,1491,United Kingdom,Henley on Thames, London,51.535764,-0.902894,GB
+44,1492,United Kingdom,Colwyn Bay, London,53.293182,-3.72764,GB
+44,1493,United Kingdom,Great Yarmouth, London,52.598233,1.728047,GB
+44,1494,United Kingdom,High Wycombe, London,51.628611,-0.748229,GB
+44,1495,United Kingdom,Pontypool, London,51.700369,-3.045268,GB
+44,1496,United Kingdom,Port Ellen, London,55.629351,-6.188893,GB
+44,1497,United Kingdom,Hay-on-Wye, London,52.076067,-3.123639,GB
+44,1499,United Kingdom,Inveraray, London,56.230958,-5.077106,GB
+44,1501,United Kingdom,Harthill, London,55.860724,-3.750294,GB
+44,1502,United Kingdom,Lowestoft, London,52.481138,1.753449,GB
+44,1503,United Kingdom,Looe, London,50.356227,-4.455232,GB
+44,1505,United Kingdom,Johnstone, London,55.837324,-4.513915,GB
+44,1506,United Kingdom,Bathgate, London,55.9024,-3.643118,GB
+44,1507,United Kingdom,Louth / Alford / Spilsby, London,53.285242,0.059168,GB
+44,1508,United Kingdom,Brooke, London,52.545428,1.381022,GB
+44,1509,United Kingdom,Loughborough, London,52.772099,-1.206166,GB
+44,151,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1510,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1511,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1512,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1513,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1514,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1515,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1516,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1517,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1518,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1519,United Kingdom,Liverpool, London,53.41154,-2.990116,GB
+44,1520,United Kingdom,Lochcarron, London,57.397704,-5.503079,GB
+44,1522,United Kingdom,Lincoln, London,53.230688,-0.540579,GB
+44,1524,United Kingdom,Lancaster, London,54.046575,-2.80074,GB
+44,15242,United Kingdom,Hornby, London,54.112372,-2.636141,GB
+44,1525,United Kingdom,Leighton Buzzard, London,51.919684,-0.660657,GB
+44,1526,United Kingdom,Martin, London,53.124673,-0.322768,GB
+44,1527,United Kingdom,Redditch, London,52.30897,-1.940936,GB
+44,1528,United Kingdom,Laggan, London,57.020481,-4.281999,GB
+44,1529,United Kingdom,Sleaford, London,53.000308,-0.40965,GB
+44,1530,United Kingdom,Coalville, London,52.724569,-1.367711,GB
+44,1531,United Kingdom,Ledbury, London,52.033882,-2.423574,GB
+44,1534,United Kingdom,Jersey, London,49.214439,-2.13125,GB
+44,1535,United Kingdom,Keighley, London,53.867795,-1.912358,GB
+44,1536,United Kingdom,Kettering, London,52.396322,-0.730249,GB
+44,1538,United Kingdom,Ipstones, London,53.045403,-1.97147,GB
+44,1539,United Kingdom,Kendal, London,54.328006,-2.74629,GB
+44,15394,United Kingdom,Hawkshead, London,54.374143,-2.998136,GB
+44,15395,United Kingdom,Grange over Sands, London,54.191009,-2.910688,GB
+44,15396,United Kingdom,Sedbergh, London,54.323629,-2.528174,GB
+44,1540,United Kingdom,Kingussie, London,57.081409,-4.054468,GB
+44,1542,United Kingdom,Keith, London,57.543094,-2.951526,GB
+44,1543,United Kingdom,Cannock, London,52.687071,-2.026485,GB
+44,1544,United Kingdom,Kington, London,52.203742,-3.029048,GB
+44,1545,United Kingdom,Llanarth, London,52.194335,-4.307419,GB
+44,1546,United Kingdom,Lochgilphead, London,56.038292,-5.432345,GB
+44,1547,United Kingdom,Knighton, London,52.341009,-3.046971,GB
+44,1548,United Kingdom,Kingsbridge, London,50.283948,-3.777493,GB
+44,1549,United Kingdom,Lairg, London,58.022058,-4.402414,GB
+44,1550,United Kingdom,Llandovery, London,51.997395,-3.797508,GB
+44,1553,United Kingdom,Kings Lynn, London,52.75649,0.400174,GB
+44,1554,United Kingdom,Llanelli, London,51.680886,-4.160248,GB
+44,1555,United Kingdom,Lanark, London,55.673865,-3.782138,GB
+44,1556,United Kingdom,Castle Douglas, London,54.940415,-3.931414,GB
+44,1557,United Kingdom,Kirkcudbright, London,54.837569,-4.04878,GB
+44,1558,United Kingdom,Llandeilo, London,51.88469,-3.99143,GB
+44,1559,United Kingdom,Llandyssul, London,52.041675,-4.309198,GB
+44,1560,United Kingdom,Moscow, London,55.679957,-4.513587,GB
+44,1561,United Kingdom,Laurencekirk, London,56.831345,-2.472517,GB
+44,1562,United Kingdom,Kidderminster, London,52.388596,-2.249684,GB
+44,1563,United Kingdom,Kilmarnock, London,55.614719,-4.498792,GB
+44,1564,United Kingdom,Lapworth, London,52.339016,-1.762603,GB
+44,1565,United Kingdom,Knutsford, London,53.300594,-2.371833,GB
+44,1566,United Kingdom,Launceston, London,50.640134,-4.358558,GB
+44,1567,United Kingdom,Killin, London,56.469346,-4.319211,GB
+44,1568,United Kingdom,Leominster, London,52.2257,-2.742772,GB
+44,1569,United Kingdom,Stonehaven, London,56.963661,-2.209288,GB
+44,1570,United Kingdom,Lampeter, London,52.112903,-4.078509,GB
+44,1571,United Kingdom,Lochinver, London,58.149735,-5.240615,GB
+44,1572,United Kingdom,Oakham, London,52.669563,-0.726625,GB
+44,1573,United Kingdom,Kelso, London,52.669563,-0.726625,GB
+44,1575,United Kingdom,Kirriemuir, London,56.675117,-3.003501,GB
+44,1576,United Kingdom,Lockerbie, London,55.122245,-3.349008,GB
+44,1577,United Kingdom,Kinross, London,56.206132,-3.4229,GB
+44,1578,United Kingdom,Lauder, London,55.722936,-2.756614,GB
+44,1579,United Kingdom,Liskeard, London,50.45552,-4.464719,GB
+44,1580,United Kingdom,Cranbrook, London,51.095582,0.537639,GB
+44,1581,United Kingdom,New Luce, London,54.943406,-4.850547,GB
+44,1582,United Kingdom,Luton, London,51.878671,-0.420026,GB
+44,1583,United Kingdom,Carradale, London,55.591379,-5.4683,GB
+44,1584,United Kingdom,Ludlow, London,52.367749,-2.713913,GB
+44,1586,United Kingdom,Campbeltown, London,55.424117,-5.605374,GB
+44,1588,United Kingdom,Bishops Castle, London,52.495025,-2.996103,GB
+44,1590,United Kingdom,Lymington, London,50.758531,-1.54191,GB
+44,1591,United Kingdom,Llanwrtyd Wells, London,52.107586,-3.637427,GB
+44,1592,United Kingdom,Kirkcaldy, London,56.116825,-3.158137,GB
+44,1593,United Kingdom,Lybster, London,58.304216,-3.285232,GB
+44,1594,United Kingdom,Lydney, London,51.72913,-2.530504,GB
+44,1595,United Kingdom,Lerwick-Foula &amp; Fair Isle, London,60.000053,-1.543419,GB
+44,1597,United Kingdom,Llandrindod Wells, London,52.2417,-3.377742,GB
+44,1598,United Kingdom,Lynton, London,51.229654,-3.840102,GB
+44,1599,United Kingdom,Kyle, London,57.28111,-5.713349,GB
+44,1600,United Kingdom,Monmouth, London,51.816132,-2.714501,GB
+44,1603,United Kingdom,Norwich, London,52.630886,1.297355,GB
+44,1604,United Kingdom,Northampton, London,52.240477,-0.902656,GB
+44,1606,United Kingdom,Northwich, London,53.259754,-2.518271,GB
+44,1608,United Kingdom,Chipping Norton, London,51.943544,-1.542189,GB
+44,1609,United Kingdom,Northallerton, London,54.337961,-1.429959,GB
+44,161,United Kingdom,Manchester, London,53.479251,-2.247926,GB
+44,1620,United Kingdom,North Berwick, London,56.058363,-2.719646,GB
+44,1621,United Kingdom,Maldon, London,51.731805,0.671448,GB
+44,1622,United Kingdom,Maidstone, London,51.270363,0.522699,GB
+44,1623,United Kingdom,Mansfield, London,53.147195,-1.198674,GB
+44,1624,United Kingdom,Isle of Man, London,54.236107,-4.548056,GB
+44,1625,United Kingdom,Macclesfield, London,53.258663,-2.119287,GB
+44,1626,United Kingdom,Newton Abbot, London,50.528905,-3.60836,GB
+44,1628,United Kingdom,Maidenhead, London,51.522414,-0.7219,GB
+44,1629,United Kingdom,Matlock, London,53.137156,-1.551774,GB
+44,1630,United Kingdom,Market Drayton, London,52.903552,-2.483485,GB
+44,1631,United Kingdom,Oban, London,56.415157,-5.471047,GB
+44,1633,United Kingdom,Newport, London,51.584151,-2.997664,GB
+44,1634,United Kingdom,Medway, London,51.408492,0.587846,GB
+44,1635,United Kingdom,Newbury, London,51.401409,-1.323114,GB
+44,1636,United Kingdom,Newark, London,53.074978,-0.805016,GB
+44,1637,United Kingdom,Newquay, London,50.415497,-5.073719,GB
+44,1638,United Kingdom,Newmarket, London,52.24488,0.407962,GB
+44,1639,United Kingdom,Neath, London,51.656991,-3.805476,GB
+44,1641,United Kingdom,Strathy, London,58.557985,-3.993082,GB
+44,1642,United Kingdom,Middlesbrough, London,54.573,-1.238,GB
+44,1643,United Kingdom,Minehead, London,51.20428,-3.481152,GB
+44,1644,United Kingdom,New Galloway, London,55.076387,-4.141362,GB
+44,1646,United Kingdom,Milford Haven, London,51.714306,-5.042697,GB
+44,1647,United Kingdom,Moretonhampstead, London,50.659678,-3.767893,GB
+44,1650,United Kingdom,Cemmaes Road, London,52.625184,-3.742641,GB
+44,1651,United Kingdom,Oldmeldrum, London,57.335138,-2.321806,GB
+44,1652,United Kingdom,Brigg, London,53.55185,-0.491887,GB
+44,1653,United Kingdom,Malton, London,54.136836,-0.797897,GB
+44,1654,United Kingdom,Machynlleth, London,52.590273,-3.853485,GB
+44,1655,United Kingdom,Maybole, London,55.35302,-4.679055,GB
+44,1656,United Kingdom,Bridgend, London,51.504286,-3.576945,GB
+44,1659,United Kingdom,Sanquhar, London,55.368078,-3.926828,GB
+44,1661,United Kingdom,Prudhoe, London,54.962199,-1.84723,GB
+44,1663,United Kingdom,New Mills, London,53.361845,-2.000756,GB
+44,1664,United Kingdom,Melton Mowbray, London,52.766404,-0.887126,GB
+44,1665,United Kingdom,Alnwick, London,55.412744,-1.706299,GB
+44,1666,United Kingdom,Malmesbury, London,51.586357,-2.102834,GB
+44,1667,United Kingdom,Nairn, London,57.586422,-3.868475,GB
+44,1668,United Kingdom,Bamburgh, London,55.607884,-1.713559,GB
+44,1669,United Kingdom,Rothbury, London,55.310464,-1.909547,GB
+44,1670,United Kingdom,Morpeth, London,55.16875,-1.687493,GB
+44,1671,United Kingdom,Newton Stewart, London,54.960299,-4.483164,GB
+44,1672,United Kingdom,Marlborough, London,51.420073,-1.727062,GB
+44,1673,United Kingdom,Market Rasen, London,53.387762,-0.333285,GB
+44,1674,United Kingdom,Montrose, London,56.706922,-2.466115,GB
+44,1675,United Kingdom,Coleshill, London,52.499599,-1.706495,GB
+44,1676,United Kingdom,Meriden, London,52.438655,-1.647762,GB
+44,1677,United Kingdom,Bedale, London,54.288701,-1.593318,GB
+44,1678,United Kingdom,Bala, London,52.909911,-3.601584,GB
+44,1680,United Kingdom,Isle of Mull - Craignure, London,56.467898,-5.703435,GB
+44,1681,United Kingdom,Isle of Mull - Fionnphort, London,56.324882,-6.369892,GB
+44,1683,United Kingdom,Moffat, London,55.335208,-3.440337,GB
+44,1684,United Kingdom,Malvern, London,52.107919,-2.325062,GB
+44,1685,United Kingdom,Merthyr Tydfil, London,51.74873,-3.381646,GB
+44,1686,United Kingdom,Newtown / Llanidloes, London,52.492133,-3.420719,GB
+44,1687,United Kingdom,Mallaig, London,57.003813,-5.827173,GB
+44,1688,United Kingdom,Isle of Mull - Tobermory, London,56.621852,-6.070278,GB
+44,1689,United Kingdom,Orpington, London,51.374843,0.094214,GB
+44,1690,United Kingdom,Betws-y-Coed, London,53.093705,-3.80127,GB
+44,1691,United Kingdom,Oswestry, London,52.857148,-3.056412,GB
+44,1692,United Kingdom,North Walsham, London,52.822699,1.385973,GB
+44,1694,United Kingdom,Church Stretton, London,52.540698,-2.803484,GB
+44,1695,United Kingdom,Skelmersdale, London,53.550352,-2.77637,GB
+44,1697,United Kingdom,Brampton, London,54.942631,-2.736329,GB
+44,16973,United Kingdom,Wigton, London,54.825544,-3.161231,GB
+44,16974,United Kingdom,Raughton Head, London,54.799855,-2.966457,GB
+44,1698,United Kingdom,Motherwell, London,55.792547,-3.99894,GB
+44,1700,United Kingdom,Rothesay, London,55.837374,-5.054879,GB
+44,1702,United Kingdom,Southend-on-Sea, London,51.545927,0.707712,GB
+44,1704,United Kingdom,Southport, London,53.645708,-3.010113,GB
+44,1706,United Kingdom,Rochdale, London,53.614086,-2.161814,GB
+44,1707,United Kingdom,Welwyn Garden City, London,51.832802,-0.212348,GB
+44,1708,United Kingdom,Romford, London,51.577076,0.178319,GB
+44,1709,United Kingdom,Rotherham, London,53.432604,-1.363501,GB
+44,1720,United Kingdom,Isles of Scilly, London,49.925002,-6.298672,GB
+44,1721,United Kingdom,Peebles, London,55.653071,-3.193642,GB
+44,1722,United Kingdom,Salisbury, London,51.068785,-1.794472,GB
+44,1723,United Kingdom,Scarborough, London,54.283113,-0.399752,GB
+44,1724,United Kingdom,Scunthorpe, London,53.588646,-0.654413,GB
+44,1725,United Kingdom,Rockbourne, London,50.963583,-1.84007,GB
+44,1726,United Kingdom,St Austell, London,50.337261,-4.788033,GB
+44,1727,United Kingdom,St Albans, London,51.752725,-0.339436,GB
+44,1728,United Kingdom,Saxmundham, London,52.215855,1.488056,GB
+44,1729,United Kingdom,Settle, London,54.068246,-2.277655,GB
+44,1730,United Kingdom,Petersfield, London,51.007591,-0.93899,GB
+44,1732,United Kingdom,Sevenoaks, London,51.27241,0.190898,GB
+44,1733,United Kingdom,Peterborough, London,52.569498,-0.24053,GB
+44,1736,United Kingdom,Penzance, London,50.118798,-5.537592,GB
+44,1737,United Kingdom,Redhill, London,51.239208,-0.16988,GB
+44,1738,United Kingdom,Perth, London,56.394994,-3.430838,GB
+44,1740,United Kingdom,Sedgefield, London,54.653152,-1.45019,GB
+44,1743,United Kingdom,Shrewsbury, London,52.706935,-2.752722,GB
+44,1744,United Kingdom,St Helens, London,53.456307,-2.737095,GB
+44,1745,United Kingdom,Rhyl, London,53.319141,-3.491634,GB
+44,1746,United Kingdom,Bridgnorth, London,52.534455,-2.424549,GB
+44,1747,United Kingdom,Shaftesbury, London,51.0046,-2.198083,GB
+44,1748,United Kingdom,Richmond, London,54.403465,-1.732618,GB
+44,1749,United Kingdom,Shepton Mallet, London,51.1909,-2.547886,GB
+44,1750,United Kingdom,Selkirk, London,55.550658,-2.838524,GB
+44,1751,United Kingdom,Pickering, London,54.243925,-0.777553,GB
+44,1752,United Kingdom,Plymouth, London,50.371917,-4.13602,GB
+44,1753,United Kingdom,Slough, London,51.510538,-0.595041,GB
+44,1754,United Kingdom,Skegness, London,53.146403,0.337881,GB
+44,1756,United Kingdom,Skipton, London,53.963613,-2.011881,GB
+44,1757,United Kingdom,Selby, London,53.783524,-1.067189,GB
+44,1758,United Kingdom,Pwllheli, London,52.888816,-4.417634,GB
+44,1759,United Kingdom,Pocklington, London,53.931023,-0.778948,GB
+44,1760,United Kingdom,Swaffham, London,52.647466,0.687481,GB
+44,1761,United Kingdom,Temple Cloud, London,51.316672,-2.542357,GB
+44,1763,United Kingdom,Royston, London,52.048142,-0.024066,GB
+44,1764,United Kingdom,Crieff, London,56.37655,-3.841994,GB
+44,1765,United Kingdom,Ripon, London,54.13564,-1.527334,GB
+44,1766,United Kingdom,Porthmadog, London,52.927842,-4.133384,GB
+44,1767,United Kingdom,Sandy, London,52.128118,-0.286788,GB
+44,1768,United Kingdom,Penrith, London,54.664097,-2.752708,GB
+44,17683,United Kingdom,Appleby, London,53.622283,-0.566632,GB
+44,17684,United Kingdom,Pooley Bridge, London,54.61264,-2.820242,GB
+44,17687,United Kingdom,Keswick, London,54.601276,-3.134706,GB
+44,1769,United Kingdom,South Molton, London,51.016818,-3.832119,GB
+44,1770,United Kingdom,Isle of Arran, London,55.580617,-5.210857,GB
+44,1771,United Kingdom,Maud, London,57.522735,-2.129582,GB
+44,1772,United Kingdom,Preston, London,53.763201,-2.70309,GB
+44,1773,United Kingdom,Ripley, London,53.052819,-1.405792,GB
+44,1775,United Kingdom,Spalding, London,52.787112,-0.144905,GB
+44,1776,United Kingdom,Stranraer, London,54.903367,-5.024055,GB
+44,1777,United Kingdom,Retford, London,53.321356,-0.945503,GB
+44,1778,United Kingdom,Bourne, London,52.768599,-0.378462,GB
+44,1779,United Kingdom,Peterhead, London,57.508123,-1.784066,GB
+44,1780,United Kingdom,Stamford, London,52.651282,-0.480216,GB
+44,1782,United Kingdom,Stoke-on-Trent, London,53.002668,-2.179404,GB
+44,1784,United Kingdom,Staines, London,51.43148,-0.515525,GB
+44,1785,United Kingdom,Stafford, London,52.806693,-2.12066,GB
+44,1786,United Kingdom,Stirling, London,56.116984,-3.942227,GB
+44,1787,United Kingdom,Sudbury, London,52.041047,0.726706,GB
+44,1788,United Kingdom,Rugby, London,52.370878,-1.265032,GB
+44,1789,United Kingdom,Stratford-upon-Avon, London,52.19173,-1.708298,GB
+44,1790,United Kingdom,Spilsby, London,53.174675,0.09144,GB
+44,1792,United Kingdom,Swansea, London,51.62144,-3.943646,GB
+44,1793,United Kingdom,Swindon, London,51.558169,-1.780679,GB
+44,1794,United Kingdom,Romsey, London,50.98893,-1.49658,GB
+44,1795,United Kingdom,Sittingbourne, London,51.340402,0.731596,GB
+44,1796,United Kingdom,Pitlochry, London,56.704361,-3.729711,GB
+44,1797,United Kingdom,Rye, London,50.949708,0.73726,GB
+44,1798,United Kingdom,Pulborough, London,50.957304,-0.510671,GB
+44,1799,United Kingdom,Saffron Walden, London,52.022593,0.239215,GB
+44,1803,United Kingdom,Torquay, London,50.461921,-3.525315,GB
+44,1805,United Kingdom,Torrington, London,50.952097,-4.136852,GB
+44,1806,United Kingdom,Shetland, London,60.529651,-1.265941,GB
+44,1807,United Kingdom,Ballindalloch, London,57.411359,-3.35851,GB
+44,1808,United Kingdom,Tomatin, London,57.335757,-3.992198,GB
+44,1809,United Kingdom,Tomdoun, London,57.061533,-5.030994,GB
+44,1821,United Kingdom,Kinrossie, London,56.476777,-3.315017,GB
+44,1822,United Kingdom,Tavistock, London,50.551123,-4.141654,GB
+44,1823,United Kingdom,Taunton, London,51.015344,-3.106849,GB
+44,1824,United Kingdom,Ruthin, London,53.114725,-3.310874,GB
+44,1825,United Kingdom,Uckfield, London,50.966414,0.095913,GB
+44,1827,United Kingdom,Tamworth, London,52.633584,-1.691032,GB
+44,1828,United Kingdom,Coupar Angus, London,56.547918,-3.265548,GB
+44,1829,United Kingdom,Tarporley, London,53.160142,-2.669436,GB
+44,1830,United Kingdom,Kirkwhelpington, London,55.156375,-2.006044,GB
+44,1832,United Kingdom,Clopton, London,52.412552,-0.43905,GB
+44,1833,United Kingdom,Barnard Castle, London,54.545284,-1.923741,GB
+44,1834,United Kingdom,Narberth, London,51.799763,-4.744008,GB
+44,1835,United Kingdom,St Boswells, London,55.570844,-2.64754,GB
+44,1837,United Kingdom,Okehampton, London,50.738308,-4.004263,GB
+44,1838,United Kingdom,Dalmally, London,56.40234,-4.972179,GB
+44,1840,United Kingdom,Camelford, London,50.622055,-4.682364,GB
+44,1841,United Kingdom,Newquay, London,50.415497,-5.073719,GB
+44,1842,United Kingdom,Thetford, London,52.412856,0.751657,GB
+44,1843,United Kingdom,Thanet, London,51.360252,1.348466,GB
+44,1844,United Kingdom,Thame, London,51.746997,-0.974188,GB
+44,1845,United Kingdom,Thirsk, London,54.233849,-1.341377,GB
+44,1847,United Kingdom,Thurso / Tongue, London,58.552035,-3.909348,GB
+44,1848,United Kingdom,Thornhill, London,55.245949,-3.769113,GB
+44,1851,United Kingdom,Great Bernera / Stornoway, London,58.216667,-6.816667,GB
+44,1852,United Kingdom,Kilmelford, London,56.261134,-5.475113,GB
+44,1854,United Kingdom,Ullapool, London,57.895418,-5.161313,GB
+44,1855,United Kingdom,Ballachulish, London,56.673927,-5.13372,GB
+44,1856,United Kingdom,Orkney, London,59.042913,-3.154215,GB
+44,1857,United Kingdom,Sanday, London,58.179167,-4.460461,GB
+44,1858,United Kingdom,Market Harborough, London,52.475769,-0.921517,GB
+44,1859,United Kingdom,Harris, London,56.974128,-6.380055,GB
+44,1862,United Kingdom,Tain, London,57.811501,-4.05523,GB
+44,1863,United Kingdom,Ardgay, London,57.881213,-4.363214,GB
+44,1864,United Kingdom,Abington, London,55.495291,-3.688865,GB
+44,1865,United Kingdom,Oxford, London,51.751724,-1.255285,GB
+44,1866,United Kingdom,Kilchrenan, London,56.357964,-5.177516,GB
+44,1869,United Kingdom,Bicester, London,51.899603,-1.15359,GB
+44,1870,United Kingdom,Isle of Benbecula, London,57.452755,-7.346694,GB
+44,1871,United Kingdom,Castlebay, London,56.954527,-7.486566,GB
+44,1872,United Kingdom,Truro, London,50.263195,-5.051041,GB
+44,1873,United Kingdom,Abergavenny, London,51.825366,-3.019423,GB
+44,1874,United Kingdom,Brecon, London,51.948947,-3.391463,GB
+44,1875,United Kingdom,Tranent, London,55.94451,-2.954526,GB
+44,1876,United Kingdom,Lochmaddy, London,57.603693,-7.163348,GB
+44,1877,United Kingdom,Callander, London,56.245059,-4.211663,GB
+44,1878,United Kingdom,Lochboisdale, London,57.153218,-7.308006,GB
+44,1879,United Kingdom,Scarinish, London,56.503802,-6.808511,GB
+44,1880,United Kingdom,Tarbert, London,55.864085,-5.41141,GB
+44,1882,United Kingdom,Kinloch Rannoch, London,56.700752,-4.189655,GB
+44,1883,United Kingdom,Caterham, London,51.280296,-0.081616,GB
+44,1884,United Kingdom,Tiverton, London,50.902049,-3.491207,GB
+44,1885,United Kingdom,Pencombe, London,52.171558,-2.586577,GB
+44,1886,United Kingdom,Bromyard, London,52.190713,-2.50872,GB
+44,1887,United Kingdom,Aberfeldy, London,56.621752,-3.866969,GB
+44,1888,United Kingdom,Turriff, London,57.538932,-2.4623,GB
+44,1889,United Kingdom,Rugeley, London,52.761515,-1.935967,GB
+44,1890,United Kingdom,Coldstream / Ayton, London,55.770465,-2.209454,GB
+44,1892,United Kingdom,Tunbridge Wells, London,51.132377,0.263695,GB
+44,1895,United Kingdom,Uxbridge, London,51.5485,-0.479611,GB
+44,1896,United Kingdom,Galashiels, London,55.623728,-2.814449,GB
+44,1899,United Kingdom,Biggar, London,55.623396,-3.523964,GB
+44,1900,United Kingdom,Workington, London,54.643569,-3.542752,GB
+44,1902,United Kingdom,Wolverhampton, London,52.586973,-2.12882,GB
+44,1903,United Kingdom,Worthing, London,50.81787,-0.372882,GB
+44,1904,United Kingdom,York, London,53.962291,-1.081899,GB
+44,1905,United Kingdom,Worcester, London,52.193636,-2.221575,GB
+44,1908,United Kingdom,Milton Keynes, London,52.038601,-0.757072,GB
+44,1909,United Kingdom,Worksop, London,53.309302,-1.122745,GB
+44,191,United Kingdom,Tyneside / Durham / Sunderland, London,54.898574,-1.573835,GB
+44,1920,United Kingdom,Ware, London,51.810437,-0.028177,GB
+44,1922,United Kingdom,Walsall, London,52.586214,-1.982919,GB
+44,1923,United Kingdom,Watford, London,51.656489,-0.39032,GB
+44,1924,United Kingdom,Wakefield, London,53.683298,-1.505924,GB
+44,1925,United Kingdom,Warrington, London,53.395794,-2.571767,GB
+44,1926,United Kingdom,Warwick, London,52.282316,-1.584927,GB
+44,1928,United Kingdom,Runcorn, London,53.342078,-2.729673,GB
+44,1929,United Kingdom,Wareham, London,50.687817,-2.110981,GB
+44,1931,United Kingdom,Shap, London,54.531661,-2.678081,GB
+44,1932,United Kingdom,Weybridge, London,51.371627,-0.457904,GB
+44,1933,United Kingdom,Wellingborough, London,52.302419,-0.693964,GB
+44,1934,United Kingdom,Weston-Super-Mare, London,51.347405,-2.977255,GB
+44,1935,United Kingdom,Yeovil, London,50.942061,-2.633308,GB
+44,1937,United Kingdom,Wetherby, London,53.927056,-1.384816,GB
+44,1938,United Kingdom,Welshpool, London,52.660348,-3.146407,GB
+44,1939,United Kingdom,Wem, London,52.853637,-2.726712,GB
+44,1942,United Kingdom,Wigan, London,53.54544,-2.637474,GB
+44,1943,United Kingdom,Guiseley, London,53.877118,-1.706645,GB
+44,1944,United Kingdom,West Heslerton, London,54.171765,-0.60794,GB
+44,1945,United Kingdom,Wisbech, London,52.666317,0.158797,GB
+44,1946,United Kingdom,Whitehaven, London,54.549699,-3.589233,GB
+44,19467,United Kingdom,Gosforth, London,55.007335,-1.622836,GB
+44,1947,United Kingdom,Whitby, London,54.486335,-0.613347,GB
+44,1948,United Kingdom,Whitchurch, London,52.968716,-2.682045,GB
+44,1949,United Kingdom,Whatton, London,52.945776,-0.892034,GB
+44,1950,United Kingdom,Sandwick, London,59.996374,-1.223321,GB
+44,1951,United Kingdom,Colonsay, London,56.080996,-6.211768,GB
+44,1952,United Kingdom,Telford, London,52.678419,-2.445258,GB
+44,1953,United Kingdom,Wymondham, London,52.569354,1.115305,GB
+44,1954,United Kingdom,Madingley, London,52.228399,0.042139,GB
+44,1955,United Kingdom,Wick, London,58.438936,-3.093716,GB
+44,1957,United Kingdom,Mid Yell, London,60.599907,-1.068302,GB
+44,1959,United Kingdom,Westerham, London,51.266969,0.071827,GB
+44,1962,United Kingdom,Winchester, London,51.059771,-1.310142,GB
+44,1963,United Kingdom,Wincanton, London,51.055688,-2.416007,GB
+44,1964,United Kingdom,Hornsea / Patrington, London,53.813215,-0.099795,GB
+44,1967,United Kingdom,Strontian, London,56.695388,-5.571178,GB
+44,1968,United Kingdom,Penicuik, London,55.830932,-3.224533,GB
+44,1969,United Kingdom,Leyburn, London,54.309591,-1.826792,GB
+44,1970,United Kingdom,Aberystwyth, London,52.415303,-4.08292,GB
+44,1971,United Kingdom,Scourie, London,58.351964,-5.151291,GB
+44,1972,United Kingdom,Glenborrodale, London,56.679949,-5.904857,GB
+44,1974,United Kingdom,Llanon, London,52.281632,-4.177295,GB
+44,1975,United Kingdom,Alford / Strathdon, London,57.231797,-2.879553,GB
+44,1977,United Kingdom,Pontefract, London,53.691688,-1.308648,GB
+44,1978,United Kingdom,Wrexham, London,53.04304,-2.992494,GB
+44,1980,United Kingdom,Amesbury, London,51.174957,-1.779109,GB
+44,1981,United Kingdom,Wormbridge, London,51.973915,-2.849247,GB
+44,1982,United Kingdom,Builth Wells, London,52.150023,-3.404592,GB
+44,1983,United Kingdom,Isle of Wight, London,50.692718,-1.31671,GB
+44,1984,United Kingdom,Watchet, London,51.181769,-3.329177,GB
+44,1985,United Kingdom,Warminster, London,51.204629,-2.181078,GB
+44,1986,United Kingdom,Bungay, London,52.455457,1.443976,GB
+44,1987,United Kingdom,Ebbsfleet, London,51.44943,0.322369,GB
+44,1988,United Kingdom,Wigtown, London,54.867159,-4.444234,GB
+44,1989,United Kingdom,Ross-on-Wye, London,51.91445,-2.582446,GB
+44,1992,United Kingdom,Lea Valley, London,51.756826,-0.012478,GB
+44,1993,United Kingdom,Witney, London,51.787009,-1.482147,GB
+44,1994,United Kingdom,St Clears, London,51.819341,-4.498791,GB
+44,1995,United Kingdom,Garstang, London,53.903027,-2.772196,GB
+44,1997,United Kingdom,Strathpeffer, London,57.585059,-4.539684,GB
+44,203,United Kingdom,London, London,51.508129,-0.128005,GB
+44,207,United Kingdom,London, London,51.508129,-0.128005,GB
+44,208,United Kingdom,London, London,51.508129,-0.128005,GB
+44,23,United Kingdom,Portsmouth / Southampton, London,50.872451,-1.245049,GB
+44,24,United Kingdom,Coventry, London,52.406822,-1.519693,GB
+44,28,United Kingdom,Nothern Ireland, London,54.787715,-6.492315,GB
+44,2820,Northern Ireland,Ballycastle,Belfast,55.20143,-6.25518,GB
+44,2821,Northern Ireland,Martinstown,Belfast,54.96623,-6.2231,GB
+44,2825,Northern Ireland,Ballymena,Belfast,54.86538,-6.28038,GB
+44,2827,Northern Ireland,Ballymoney,Belfast,55.073375,-6.513866,GB
+44,2828,Northern Ireland,Larne,Belfast,54.8575,-5.80986,GB
+44,2829,Northern Ireland,Kilrea,Belfast,54.95119,-6.5564,GB
+44,2830,Northern Ireland,Newry,Belfast,54.18006,-6.33393,GB
+44,2837,Northern Ireland,Armagh,Belfast,54.34875,-6.65161,GB
+44,2838,Northern Ireland,Portadown,Belfast,54.42193,-6.45129,GB
+44,2840,Northern Ireland,Banbridge,Belfast,54.34897,-6.26978,GB
+44,2841,Northern Ireland,Rostrevor,Belfast,54.10073,-6.2004,GB
+44,2842,Northern Ireland,Kircubbin,Belfast,54.48848,-5.53473,GB
+44,2843,Northern Ireland,Newcastle(Co. Down),Belfast,54.21705,-5.8904,GB
+44,2844,Northern Ireland,Downpatrick,Belfast,54.32882,-5.71573,GB
+44,2866,Northern Ireland,Enniskillen,Belfast,54.34363,-7.63093,GB
+44,2867,Northern Ireland,Lisnaskea,Belfast,54.25362,-7.44355,GB
+44,2868,Northern Ireland,Kesh,Belfast,54.52073,-7.7211,GB
+44,2870,Northern Ireland,Coleraine,Belfast,55.12529,-6.66842,GB
+44,2871,Northern Ireland,Londonderry,Belfast,54.996612,-7.308575,GB
+44,2877,Northern Ireland,Limavady,Belfast,55.049751,-6.946713,GB
+44,2879,Northern Ireland,Magherafelt,Belfast,54.75639,-6.60636,GB
+44,2880,Northern Ireland,Carrickmore,Belfast,54.59495,-7.04621,GB
+44,2881,Northern Ireland,Newtownstewart,Belfast,54.71515,-7.37298,GB
+44,2882,Northern Ireland,Omagh,Belfast,54.59657,-7.30691,GB
+44,2885,Northern Ireland,Ballygawley,Belfast,54.46275,-7.02819,GB
+44,2886,Northern Ireland,Cookstown,Belfast,54.64102,-6.74429,GB
+44,2887,Northern Ireland,Dungannon,Belfast,54.454245,-6.941169,GB
+44,2889,Northern Ireland,Fivemiletown,Belfast,54.37866,-7.31564,GB
+44,2890,Northern Ireland,Belfast,Belfast,54.597443,-5.934068,GB
+44,2891,Northern Ireland,Bangor(Co. Down),Belfast,54.65654,-5.67529,GB
+44,2892,Northern Ireland,Lisburn,Belfast,54.50972,-6.0374,GB
+44,2893,Northern Ireland,Ballyclare,Belfast,54.75151,-5.99968,GB
+44,2894,Northern Ireland,Antrim,Belfast,54.71363,-6.21428,GB
+44,2895,Northern Ireland,Belfast,Belfast,54.597443,-5.934068,GB
+44,2897,Northern Ireland,Saintfield,Belfast,54.46029,-5.83051,GB
+44,29,United Kingdom,Cardiff, London,51.481581,-3.17909,GB
 44,7,United Kingdom,Mobile, London,51.5,-0.166666667,GB
 46,11,Sweden,NorrkÌÎå_ping, Stockholm,59.33333333,18.05,SE
 46,120,Sweden,ÌÎÌätvidaberg, Stockholm,59.33333333,18.05,SE
