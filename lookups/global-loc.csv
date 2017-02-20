@@ -1058,7 +1058,7 @@ countryCode,areaCode,countryName,areaName,cCity,lat,lon,iso2
 40,368,Romania,Brasov, Bucharest,44.43333333,26.1,RO
 40,369,Romania,Sibiu, Bucharest,44.43333333,26.1,RO
 41,21,Switzerland,Lausanne, Bern,46.95,7.433333333,CH
-41,22,Switzerland,GenÌÎåÂve, Bern,46.95,7.433333333,CH
+41,22,Switzerland,Geneva, Bern,46.95,7.433333333,CH
 41,24,Switzerland,Aigle, Bern,46.95,7.433333333,CH
 41,26,Switzerland,Fribourg, Bern,46.95,7.433333333,CH
 41,27,Switzerland,Sion, Bern,46.95,7.433333333,CH
@@ -1067,8 +1067,8 @@ countryCode,areaCode,countryName,areaName,cCity,lat,lon,iso2
 41,33,Switzerland,Thun, Bern,46.95,7.433333333,CH
 41,34,Switzerland,Burgdorf, Bern,46.95,7.433333333,CH
 41,41,Switzerland,Luzern, Bern,46.95,7.433333333,CH
-41,43,Switzerland,ZÌÎ_rich, Bern,46.95,7.433333333,CH
-41,44,Switzerland,ZÌÎ_rich, Bern,46.95,7.433333333,CH
+41,43,Switzerland,Zurich, Bern,46.95,7.433333333,CH
+41,44,Switzerland,Zurich, Bern,46.95,7.433333333,CH
 41,52,Switzerland,Winterthur, Bern,46.95,7.433333333,CH
 41,55,Switzerland,Rapperswil, Bern,46.95,7.433333333,CH
 41,56,Switzerland,Baden, Bern,46.95,7.433333333,CH
