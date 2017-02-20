@@ -945,8 +945,8 @@ countryCode,areaCode,countryName,areaName,cCity,lat,lon,iso2
 36,95,Hungary,SÃŒÃÅrvÃŒÃÅr, Budapest,47.5,19.08333333,HU
 36,96,Hungary,Gyor, Budapest,47.5,19.08333333,HU
 36,99,Hungary,Sopron, Budapest,47.5,19.08333333,HU
-39,2,Italy,Milano, Rome,41.9,12.48333333,IT
-39,6,Italy,Roma, Rome,41.9,12.48333333,IT
+39,02,Italy,Milano, Rome,41.9,12.48333333,IT
+39,06,Italy,Roma, Rome,41.9,12.48333333,IT
 39,10,Italy,Genova, Rome,41.9,12.48333333,IT
 39,11,Italy,Torino, Rome,41.9,12.48333333,IT
 39,15,Italy,Biella, Rome,41.9,12.48333333,IT
