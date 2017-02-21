@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "info": {
+    "title": "Telephony Toolbox",
+    "id": {
+      "group": null,
+      "name": "TA-Telephony_Toolbox",
+      "version": "1.0.0"
+    },
+    "author": [
+      {
+        "name": "Nick Hills",
+        "email": null,
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "A number of telephony scripts and tools",
+    "classification": {
+      "intendedAudience": null,
+      "categories": [],
+      "developmentStatus": null
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": null,
+      "uri": null
+    }
+  },
+  "dependencies": {
+  },
+  "tasks": [],
+  "forwarderGroups": {
+  },
+  "incompatibleApps": {
+  },
+  "platformRequirements": {
+    "splunk": {
+      "Enterprise": "*"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+[app/ui]
+version = 6.5.2
+modtime = 1487335669.752709000
+
+[app/launcher]
+version = 6.5.2
+modtime = 1487335669.757617000
+
+[app/package/check_for_updates]
+version = 6.5.2
+modtime = 1487335669.774710000
+
+[transforms/global-loc]
+export = system
+owner = admin
+version = 6.5.2
+modtime = 1487339185.631056000
+
+[transforms/sampleCalls]
+export = none
+owner = admin
+version = 6.5.2
+modtime = 1487342943.747141000
+
+[nav/default]
+version = 6.5.2
+modtime = 1487342992.514884000
+
+[transforms/e164-norm]
+export = system
+owner = admin
+version = 6.5.2
+modtime = 1487372806.290904000
+
+[views/mapdemo]
+owner = admin
+version = 6.5.2
+modtime = 1487632201.396986000
