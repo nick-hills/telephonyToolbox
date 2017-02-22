@@ -57,12 +57,14 @@ def processNumber(originalNum):
 		elif countryCode == "7":
                         area = str(nationalNum[0])+str(nationalNum[1])+str(nationalNum[2])
 		elif countryCode == "33":
-                        area = str(nationalNum[0])+str(nationalNum[1])+str(nationalNum[2])
+                        area = str(nationalNum[0])
 		elif countryCode == "34":
 			area = str(nationalNum[0])+str(nationalNum[1])+str(nationalNum[2])
 		elif countryCode == "39":
                         area = str(nationalNum[0])+str(nationalNum[1])
                 elif countryCode == "41":
+                        area = str(nationalNum[0])+str(nationalNum[1])
+                elif countryCode == "48":
                         area = str(nationalNum[0])+str(nationalNum[1])
 		elif countryCode == "44":
 			area = getUKArea(nationalNum)
@@ -102,7 +104,8 @@ def getUKArea(nationalNum):
 	ukTwo = re.match( r'(?P<area>^20(3|7|8))\d*', nationalNum, re.M|re.I)
 	ukThree = re.match( r'(?P<area>^3\d\d)\d*', nationalNum, re.M|re.I)
 	ukSeven = re.match( r'(?P<area>^7)\d*', nationalNum, re.M|re.I)
-	
+	ukEight = re.match( r'(?P<area>^8)\d*', nationalNum, re.M|re.I)
+        ukNine = re.match( r'(?P<area>^9)\d*', nationalNum, re.M|re.I)
 	if ukOne:
 		area = ukOne.group('area')
 	elif ukTwo:
@@ -111,6 +114,10 @@ def getUKArea(nationalNum):
 		area = ukThree.group('area')
 	elif ukSeven:
 		area = ukSeven.group('area')
+        elif ukEight:
+                area = ukEight.group('area')
+        elif ukNine:
+                area = ukNine.group('area')
 	return area
 
 

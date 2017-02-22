@@ -57,7 +57,9 @@
       <title>Draw Map</title>
       <viz type="location_tracker_app.location_tracker">
         <search>
-          <query>|inputlookup sampleCalls|eval start=strptime(time,"%H:%M:%S")|eval callid=from.to|eval end=start+duration|eval fields=mvappend(start.":".from,end.":".to)|mvexpand fields|makemv delim=":" fields|eval time=mvindex(fields,0)|eval dn=mvindex(fields,1)|table time dn callid|lookup e164-norm number as dn|lookup global-loc countryCode areaCode |table time lat lon callid</query>
+          <query>tag=nmr "Successful Transfer of media " NOT nmr_filename=121-*|eval duration=X_duration/1000|eval start=_time|eval callid=nmr_aparty.nmr_bparty|eval end=start+duration|eval fields=mvappend(start.":".nmr_aparty,end.":".nmr_bparty)|mvexpand fields|makemv delim=":" fields|eval time=mvindex(fields,0)|eval dn=mvindex(fields,1)|table time dn nmr_filename|lookup e164-norm number as dn|lookup global-loc countryCode areaCode |lookup global-loc countryCode OUTPUTNEW lat as lat2 lon as lon2 |eval latitude=coalesce(lat,lat2)|eval longitude=coalesce(lon,lon2)|table time latitude longitude nmr_filename dn</query>
+          <earliest>$earliest$</earliest>
+          <latest>$latest$</latest>
           <sampleRatio>1</sampleRatio>
         </search>
         <option name="location_tracker_app.location_tracker.interval">600</option>

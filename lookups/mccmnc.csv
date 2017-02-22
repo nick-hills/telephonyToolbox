@@ -1,0 +1,1666 @@
+countryCode,mcc,mnc,iso2,country,network
+1,302,652,CA,Canada,BC Tel Mobility
+1,302,630,CA,Canada,Bell Aliant
+1,302,610,CA,Canada,Bell Mobility
+1,302,651,CA,Canada,Bell Mobility
+1,302,670,CA,Canada,CityWest Mobility
+1,302,361,CA,Canada,Clearnet
+1,302,360,CA,Canada,Clearnet
+1,302,380,CA,Canada,DMTS Mobility
+1,302,710,CA,Canada,Globalstar Canada
+1,302,640,CA,Canada,Latitude Wireless
+1,302,370,CA,Canada,FIDO (Rogers AT&T/ Microcell)
+1,302,320,CA,Canada,mobilicity
+1,302,702,CA,Canada,MT&T Mobility
+1,302,660,CA,Canada,MTS Mobility
+1,302,655,CA,Canada,MTS Mobility
+1,302,701,CA,Canada,NB Tel Mobility
+1,302,703,CA,Canada,New Tel Mobility
+1,302,760,CA,Canada,Public Mobile
+1,302,657,CA,Canada,Quebectel Mobility
+1,302,720,CA,Canada,Rogers AT&T Wireless
+1,302,680,CA,Canada,Sask Tel Mobility
+1,302,654,CA,Canada,Sask Tel Mobility
+1,302,656,CA,Canada,Tbay Mobility
+1,302,653,CA,Canada,Telus Mobility
+1,302,220,CA,Canada,Telus Mobility
+1,302,500,CA,Canada,Videotron
+1,302,490,CA,Canada,WIND
+1,310,50,US,United States,
+1,310,880,US,United States,
+1,310,850,US,United States,Aeris Comm. Inc.
+1,310,640,US,United States,
+1,310,510,US,United States,Airtel Wireless LLC
+1,310,190,US,United States,Unknown
+1,312,90,US,United States,Allied Wireless Communications Corporation
+1,311,130,US,United States,
+1,310,710,US,United States,Arctic Slope Telephone Association Cooperative Inc.
+1,310,150,US,United States,AT&T Wireless Inc.
+1,310,680,US,United States,AT&T Wireless Inc.
+1,310,70,US,United States,AT&T Wireless Inc.
+1,310,560,US,United States,AT&T Wireless Inc.
+1,310,410,US,United States,AT&T Wireless Inc.
+1,310,380,US,United States,AT&T Wireless Inc.
+1,310,170,US,United States,AT&T Wireless Inc.
+1,310,980,US,United States,AT&T Wireless Inc.
+1,311,810,US,United States,Bluegrass Wireless LLC
+1,311,800,US,United States,Bluegrass Wireless LLC
+1,311,440,US,United States,Bluegrass Wireless LLC
+1,310,900,US,United States,Cable & Communications Corp.
+1,311,590,US,United States,California RSA No. 3 Limited Partnership
+1,311,500,US,United States,Cambridge Telephone Company Inc.
+1,310,830,US,United States,Caprock Cellular Ltd.
+1,311,282,US,United States,Verizon Wireless
+1,311,487,US,United States,Verizon Wireless
+1,310,590,US,United States,Verizon Wireless
+1,311,287,US,United States,Verizon Wireless
+1,311,271,US,United States,Verizon Wireless
+1,311,481,US,United States,Verizon Wireless
+1,311,276,US,United States,Verizon Wireless
+1,311,281,US,United States,Verizon Wireless
+1,311,486,US,United States,Verizon Wireless
+1,310,13,US,United States,Verizon Wireless
+1,311,286,US,United States,Verizon Wireless
+1,311,270,US,United States,Verizon Wireless
+1,311,480,US,United States,Verizon Wireless
+1,311,275,US,United States,Verizon Wireless
+1,311,280,US,United States,Verizon Wireless
+1,311,485,US,United States,Verizon Wireless
+1,310,12,US,United States,Verizon Wireless
+1,311,285,US,United States,Verizon Wireless
+1,311,110,US,United States,Verizon Wireless
+1,311,390,US,United States,Verizon Wireless
+1,311,274,US,United States,Verizon Wireless
+1,311,484,US,United States,Verizon Wireless
+1,310,10,US,United States,Verizon Wireless
+1,311,279,US,United States,Verizon Wireless
+1,311,284,US,United States,Verizon Wireless
+1,311,489,US,United States,Verizon Wireless
+1,310,910,US,United States,Verizon Wireless
+1,311,289,US,United States,Verizon Wireless
+1,311,273,US,United States,Verizon Wireless
+1,311,483,US,United States,Verizon Wireless
+1,310,4,US,United States,Verizon Wireless
+1,311,278,US,United States,Verizon Wireless
+1,311,283,US,United States,Verizon Wireless
+1,311,488,US,United States,Verizon Wireless
+1,310,890,US,United States,Verizon Wireless
+1,311,288,US,United States,Verizon Wireless
+1,311,272,US,United States,Verizon Wireless
+1,311,482,US,United States,Verizon Wireless
+1,311,277,US,United States,Verizon Wireless
+1,312,280,US,United States,Cellular Network Partnership LLC
+1,312,270,US,United States,Cellular Network Partnership LLC
+1,310,360,US,United States,Cellular Network Partnership LLC
+1,311,190,US,United States,
+1,310,30,US,United States,
+1,311,120,US,United States,Choice Phone LLC
+1,310,480,US,United States,Choice Phone LLC
+1,310,630,US,United States,
+1,310,420,US,United States,Cincinnati Bell Wireless LLC
+1,310,180,US,United States,Cingular Wireless
+1,310,620,US,United States,Coleman County Telco /Trans TX
+1,311,40,US,United States,
+1,310,6,US,United States,Consolidated Telcom
+1,310,60,US,United States,Consolidated Telcom
+1,312,380,US,United States,
+1,310,930,US,United States,
+1,311,240,US,United States,
+1,310,80,US,United States,
+1,310,700,US,United States,Cross Valliant Cellular Partnership
+1,311,140,US,United States,Cross Wireless Telephone Co.
+1,312,30,US,United States,Cross Wireless Telephone Co.
+1,311,520,US,United States,
+1,312,40,US,United States,Custer Telephone Cooperative Inc.
+1,310,440,US,United States,Dobson Cellular Systems
+1,310,990,US,United States,E.N.M.R. Telephone Coop.
+1,312,120,US,United States,East Kentucky Network LLC
+1,310,750,US,United States,East Kentucky Network LLC
+1,312,130,US,United States,East Kentucky Network LLC
+1,310,90,US,United States,Edge Wireless LLC
+1,310,610,US,United States,Elkhart TelCo. / Epic Touch Co.
+1,311,210,US,United States,
+1,311,311,US,United States,Farmers
+1,311,460,US,United States,Fisher Wireless Services Inc.
+1,311,370,US,United States,GCI Communication Corp.
+1,310,430,US,United States,GCI Communication Corp.
+1,310,920,US,United States,Get Mobile Inc.
+1,310,970,US,United States,
+1,311,340,US,United States,Illinois Valley Cellular RSA 2 Partnership
+1,311,30,US,United States,
+1,312,170,US,United States,Iowa RSA No. 2 Limited Partnership
+1,311,410,US,United States,Iowa RSA No. 2 Limited Partnership
+1,310,770,US,United States,Iowa Wireless Services LLC
+1,310,650,US,United States,Jasper
+1,310,870,US,United States,Kaplan Telephone Company Inc.
+1,312,180,US,United States,Keystone Wireless LLC
+1,310,690,US,United States,Keystone Wireless LLC
+1,311,310,US,United States,Lamar County Cellular
+1,310,16,US,United States,Leap Wireless International Inc.
+1,311,90,US,United States,
+1,310,40,US,United States,Matanuska Tel. Assn. Inc.
+1,310,780,US,United States,Message Express Co. / Airlink PCS
+1,311,660,US,United States,
+1,311,330,US,United States,Michigan Wireless LLC
+1,311,0,US,United States,
+1,310,400,US,United States,Minnesota South. Wirel. Co. / Hickory
+1,312,220,US,United States,Missouri RSA No 5 Partnership
+1,312,10,US,United States,Missouri RSA No 5 Partnership
+1,311,920,US,United States,Missouri RSA No 5 Partnership
+1,311,20,US,United States,Missouri RSA No 5 Partnership
+1,311,10,US,United States,Missouri RSA No 5 Partnership
+1,310,350,US,United States,Mohave Cellular LP
+1,310,570,US,United States,MTPCS LLC
+1,310,290,US,United States,NEP Cellcorp Inc.
+1,310,34,US,United States,Nevada Wireless LLC
+1,311,380,US,United States,
+1,310,600,US,United States,New-Cell Inc.
+1,311,100,US,United States,
+1,311,300,US,United States,Nexus Communications Inc.
+1,310,130,US,United States,North Carolina RSA 3 Cellular Tel. Co.
+1,312,230,US,United States,North Dakota Network Company
+1,311,610,US,United States,North Dakota Network Company
+1,310,450,US,United States,Northeast Colorado Cellular Inc.
+1,311,710,US,United States,Northeast Wireless Networks LLC
+1,310,670,US,United States,Northstar
+1,310,11,US,United States,Northstar
+1,311,420,US,United States,Northwest Missouri Cellular Limited Partnership
+1,310,540,US,United States,
+1,310,760,US,United States,Panhandle Telephone Cooperative Inc.
+1,310,580,US,United States,PCS ONE
+1,311,170,US,United States,PetroCom
+1,311,670,US,United States,Pine Belt Cellular Inc.
+1,311,80,US,United States,
+1,310,790,US,United States,
+1,310,100,US,United States,Plateau Telecommunications Inc.
+1,310,940,US,United States,Poka Lambro Telco Ltd.
+1,311,730,US,United States,
+1,311,540,US,United States,
+1,310,500,US,United States,Public Service Cellular Inc.
+1,311,430,US,United States,RSA 1 Limited Partnership
+1,312,160,US,United States,RSA 1 Limited Partnership
+1,311,350,US,United States,Sagebrush Cellular Inc.
+1,311,910,US,United States,
+1,310,46,US,United States,SIMMETRY
+1,311,260,US,United States,SLO Cellular Inc / Cellular One of San Luis
+1,310,320,US,United States,Smith Bagley Inc.
+1,310,15,US,United States,Unknown
+1,316,11,US,United States,Southern Communications Services Inc.
+1,312,530,US,United States,Sprint Spectrum
+1,311,870,US,United States,Sprint Spectrum
+1,311,490,US,United States,Sprint Spectrum
+1,310,120,US,United States,Sprint Spectrum
+1,316,10,US,United States,Sprint Spectrum
+1,312,190,US,United States,Sprint Spectrum
+1,311,880,US,United States,Sprint Spectrum
+1,310,210,US,United States,T-Mobile
+1,310,260,US,United States,T-Mobile
+1,310,200,US,United States,T-Mobile
+1,310,250,US,United States,T-Mobile
+1,310,160,US,United States,T-Mobile
+1,310,240,US,United States,T-Mobile
+1,310,660,US,United States,T-Mobile
+1,310,230,US,United States,T-Mobile
+1,310,31,US,United States,T-Mobile
+1,310,220,US,United States,T-Mobile
+1,310,270,US,United States,T-Mobile
+1,310,800,US,United States,T-Mobile
+1,310,300,US,United States,T-Mobile
+1,310,280,US,United States,T-Mobile
+1,310,330,US,United States,T-Mobile
+1,310,310,US,United States,T-Mobile
+1,311,740,US,United States,
+1,310,740,US,United States,Telemetrix Inc.
+1,310,14,US,United States,Testing
+1,310,950,US,United States,Unknown
+1,310,860,US,United States,Texas RSA 15B2 Limited Partnership
+1,311,830,US,United States,Thumb Cellular Limited Partnership
+1,311,50,US,United States,Thumb Cellular Limited Partnership
+1,310,460,US,United States,TMP Corporation
+1,310,490,US,United States,Triton PCS
+1,310,960,US,United States,Uintah Basin Electronics Telecommunications Inc.
+1,312,290,US,United States,Uintah Basin Electronics Telecommunications Inc.
+1,311,860,US,United States,Uintah Basin Electronics Telecommunications Inc.
+1,310,20,US,United States,Union Telephone Co.
+1,311,220,US,United States,United States Cellular Corp.
+1,310,730,US,United States,United States Cellular Corp.
+1,311,650,US,United States,United Wireless Communications Inc.
+1,310,38,US,United States,USA 3650 AT&T
+1,310,520,US,United States,VeriSign
+1,310,3,US,United States,Unknown
+1,310,23,US,United States,Unknown
+1,310,24,US,United States,Unknown
+1,310,25,US,United States,Unknown
+1,310,530,US,United States,West Virginia Wireless
+1,310,26,US,United States,Unknown
+1,310,340,US,United States,Westlink Communications LLC
+1,311,150,US,United States,
+1,311,70,US,United States,Wisconsin RSA #7 Limited Partnership
+1,310,390,US,United States,Yorkville Telephone Cooperative
+7,289,88,GE,Abkhazia,A-Mobile
+7,289,68,GE,Abkhazia,A-Mobile
+7,289,67,GE,Abkhazia,Aquafon
+7,401,1,KZ,Kazakhstan,Beeline/KaR-Tel LLP
+7,401,7,KZ,Kazakhstan,Dalacom/Altel
+7,401,2,KZ,Kazakhstan,K-Cell
+7,401,77,KZ,Kazakhstan,Tele2/NEO/MTS
+20,602,1,EG,Egypt,EMS - Mobinil
+20,602,3,EG,Egypt,ETISALAT
+20,602,2,EG,Egypt,Vodafone/Mirsfone
+27,655,2,ZA,South Africa,8.ta
+27,655,21,ZA,South Africa,Cape Town Metropolitan
+27,655,7,ZA,South Africa,Cell C
+27,655,10,ZA,South Africa,MTN
+27,655,12,ZA,South Africa,MTN
+27,655,6,ZA,South Africa,Sentech
+27,655,1,ZA,South Africa,Vodacom
+27,655,19,ZA,South Africa,Wireless Business Solutions (Pty) Ltd
+30,202,7,GR,Greece,AMD Telecom SA
+30,202,2,GR,Greece,Cosmote
+30,202,1,GR,Greece,Cosmote
+30,202,14,GR,Greece,CyTa Mobile
+30,202,4,GR,Greece,Organismos Sidirodromon Ellados (OSE)
+30,202,3,GR,Greece,OTE Hellenic Telecommunications Organization SA
+30,202,10,GR,Greece,Tim/Wind
+30,202,9,GR,Greece,Tim/Wind
+30,202,5,GR,Greece,Vodafone
+31,204,14,NL,Netherlands,6GMOBILE BV
+31,204,23,NL,Netherlands,Aspider Solutions
+31,204,5,NL,Netherlands,Elephant Talk Communications Premium Rate Services Netherlands BV
+31,204,17,NL,Netherlands,Intercity Mobile Communications BV
+31,204,69,NL,Netherlands,KPN Telecom B.V.
+31,204,10,NL,Netherlands,KPN Telecom B.V.
+31,204,8,NL,Netherlands,KPN Telecom B.V.
+31,204,12,NL,Netherlands,KPN/Telfort
+31,204,28,NL,Netherlands,Lancelot BV
+31,204,9,NL,Netherlands,Lycamobile Ltd
+31,204,6,NL,Netherlands,Mundio/Vectone Mobile
+31,204,21,NL,Netherlands,NS Railinfrabeheer B.V.
+31,204,24,NL,Netherlands,Private Mobility Nederland BV
+31,204,98,NL,Netherlands,T-Mobile B.V.
+31,204,16,NL,Netherlands,T-Mobile B.V.
+31,204,20,NL,Netherlands,T-mobile/former Orange
+31,204,2,NL,Netherlands,Tele2
+31,204,7,NL,Netherlands,Teleena Holding BV
+31,204,68,NL,Netherlands,Unify Mobile
+31,204,18,NL,Netherlands,UPC Nederland BV
+31,204,4,NL,Netherlands,Vodafone Libertel
+31,204,3,NL,Netherlands,Voiceworks Mobile BV
+31,204,15,NL,Netherlands,Ziggo BV
+32,206,20,BE,Belgium,Base/KPN
+32,206,1,BE,Belgium,Belgacom/Proximus
+32,206,6,BE,Belgium,Lycamobile Belgium
+32,206,10,BE,Belgium,Mobistar/Orange
+32,206,2,BE,Belgium,SNCT/NMBS
+32,206,5,BE,Belgium,Telenet BidCo NV
+33,208,27,FR,France,AFONE SA
+33,208,92,FR,France,Association Plate-forme Telecom
+33,208,28,FR,France,Astrium
+33,208,88,FR,France,Bouygues Telecom
+33,208,21,FR,France,Bouygues Telecom
+33,208,20,FR,France,Bouygues Telecom
+33,208,14,FR,France,Lliad/FREE Mobile
+33,208,7,FR,France,GlobalStar
+33,208,6,FR,France,GlobalStar
+33,208,5,FR,France,GlobalStar
+33,208,29,FR,France,Orange
+33,208,17,FR,France,Legos - Local Exchange Global Operation Services SA
+33,208,15,FR,France,Lliad/FREE Mobile
+33,208,16,FR,France,Lliad/FREE Mobile
+33,208,25,FR,France,Lycamobile SARL
+33,208,24,FR,France,MobiquiThings
+33,208,3,FR,France,MobiquiThings
+33,208,31,FR,France,Mundio Mobile (France) Ltd
+33,208,26,FR,France,NRJ
+33,208,23,FR,France,Virgin Mobile/Omer
+33,208,89,FR,France,Virgin Mobile/Omer
+33,208,91,FR,France,Orange
+33,208,2,FR,France,Orange
+33,208,1,FR,France,Orange
+33,208,11,FR,France,S.F.R.
+33,208,13,FR,France,S.F.R.
+33,208,10,FR,France,S.F.R.
+33,208,9,FR,France,S.F.R.
+33,208,4,FR,France,SISTEER
+33,208,0,FR,France,Tel/Tel
+33,208,22,FR,France,Transatel SA
+34,214,23,ES,Spain,Lycamobile SL
+34,214,22,ES,Spain,Digi Spain Telecom SL
+34,214,15,ES,Spain,BT Espana  SAU
+34,214,18,ES,Spain,Cableuropa SAU (ONO)
+34,214,8,ES,Spain,Euskaltel SA
+34,214,20,ES,Spain,fonYou Wireless SL
+34,214,21,ES,Spain,Jazz Telecom SAU
+34,214,26,ES,Spain,Lleida
+34,214,25,ES,Spain,Lycamobile SL
+34,214,7,ES,Spain,Movistar
+34,214,5,ES,Spain,Movistar
+34,214,9,ES,Spain,Orange
+34,214,3,ES,Spain,Orange
+34,214,11,ES,Spain,Orange
+34,214,17,ES,Spain,R Cable y Telec. Galicia SA
+34,214,19,ES,Spain,Simyo/KPN
+34,214,16,ES,Spain,Telecable de Asturias SA
+34,214,27,ES,Spain,Truphone
+34,214,1,ES,Spain,Vodafone
+34,214,6,ES,Spain,Vodafone Enabler Espana SL
+34,214,4,ES,Spain,Yoigo
+36,216,1,HU,Hungary,Pannon/Telenor
+36,216,30,HU,Hungary,T-mobile/Magyar
+36,216,71,HU,Hungary,UPC Magyarorszag Kft.
+36,216,70,HU,Hungary,Vodafone
+39,222,34,IT,Italy,BT Italia SpA
+39,222,2,IT,Italy,Elsacom
+39,222,8,IT,Italy,Fastweb SpA
+39,222,0,IT,Italy,Fix Line
+39,222,99,IT,Italy,Hi3G
+39,222,77,IT,Italy,IPSE 2000
+39,222,35,IT,Italy,Lycamobile Srl
+39,222,7,IT,Italy,Noverca Italia Srl
+39,222,33,IT,Italy,PosteMobile SpA
+39,222,0,IT,Italy,Premium Number(s)
+39,222,30,IT,Italy,RFI Rete Ferroviaria Italiana SpA
+39,222,43,IT,Italy,Telecom Italia Mobile SpA
+39,222,1,IT,Italy,TIM
+39,222,48,IT,Italy,Telecom Italia Mobile SpA
+39,222,10,IT,Italy,Vodafone
+39,222,6,IT,Italy,Vodafone
+39,222,0,IT,Italy,VOIP Line
+39,222,44,IT,Italy,WIND (Blu) -
+39,222,88,IT,Italy,WIND (Blu) -
+40,226,3,RO,Romania,Cosmote
+40,226,11,RO,Romania,Enigma Systems
+40,226,10,RO,Romania,Orange
+40,226,5,RO,Romania,RCS&RDS Digi Mobile
+40,226,2,RO,Romania,Romtelecom SA
+40,226,6,RO,Romania,Telemobil/Zapp
+40,226,1,RO,Romania,Vodafone
+40,226,4,RO,Romania,Telemobil/Zapp
+41,228,51,CH,Switzerland,BebbiCell AG
+41,228,5,CH,Switzerland,Comfone AG
+41,228,9,CH,Switzerland,Comfone AG
+41,228,7,CH,Switzerland,TDC Sunrise
+41,228,54,CH,Switzerland,Lycamobile AG
+41,228,52,CH,Switzerland,Mundio Mobile AG
+41,228,3,CH,Switzerland,Salt/Orange
+41,228,1,CH,Switzerland,Swisscom
+41,228,12,CH,Switzerland,TDC Sunrise
+41,228,2,CH,Switzerland,TDC Sunrise
+41,228,8,CH,Switzerland,TDC Sunrise
+41,228,53,CH,Switzerland,upc cablecom GmbH
+43,232,1,AT,Austria,A1 MobilKom
+43,232,11,AT,Austria,A1 MobilKom
+43,232,2,AT,Austria,A1 MobilKom
+43,232,9,AT,Austria,A1 MobilKom
+43,232,15,AT,Austria,T-Mobile/Telering
+43,232,10,AT,Austria,H3G
+43,232,14,AT,Austria,H3G
+43,232,12,AT,Austria,3/Orange/One Connect
+43,232,6,AT,Austria,3/Orange/One Connect
+43,232,5,AT,Austria,3/Orange/One Connect
+43,232,17,AT,Austria,Spusu/Mass Response
+43,232,3,AT,Austria,T-Mobile/Telering
+43,232,7,AT,Austria,T-Mobile/Telering
+43,232,4,AT,Austria,T-Mobile/Telering
+43,232,8,AT,Austria,A1 MobilKom
+43,232,13,AT,Austria,UPC Austria
+44,234,3,GB,United Kingdom,Airtel/Vodafone
+44,234,77,GB,United Kingdom,BT Group
+44,234,76,GB,United Kingdom,BT Group
+44,234,7,GB,United Kingdom,Cable and Wireless
+44,234,92,GB,United Kingdom,Cable and Wireless
+44,234,36,GB,United Kingdom,Cable and Wireless Isle of Man
+44,234,18,GB,United Kingdom,Cloud9/wire9 Tel.
+44,235,2,GB,United Kingdom,Everyth. Ev.wh.
+44,234,17,GB,United Kingdom,FlexTel
+44,234,55,GB,United Kingdom,Guernsey Telecoms
+44,234,14,GB,United Kingdom,HaySystems
+44,234,94,GB,United Kingdom,H3G Hutchinson
+44,234,20,GB,United Kingdom,H3G Hutchinson
+44,234,75,GB,United Kingdom,Inquam Telecom Ltd
+44,234,50,GB,United Kingdom,Jersey Telecom
+44,234,35,GB,United Kingdom,JSC Ingenicum
+44,234,26,GB,United Kingdom,Lycamobile
+44,234,58,GB,United Kingdom,Manx Telecom
+44,234,1,GB,United Kingdom,Mapesbury C. Ltd
+44,234,28,GB,United Kingdom,Marthon Telecom
+44,234,10,GB,United Kingdom,O2 Ltd.
+44,234,2,GB,United Kingdom,O2 Ltd.
+44,234,11,GB,United Kingdom,O2 Ltd.
+44,234,8,GB,United Kingdom,OnePhone
+44,234,16,GB,United Kingdom,Opal Telecom
+44,234,34,GB,United Kingdom,Everyth. Ev.wh./Orange
+44,234,33,GB,United Kingdom,Everyth. Ev.wh./Orange
+44,234,19,GB,United Kingdom,PMN/Teleware
+44,234,12,GB,United Kingdom,Railtrack Plc
+44,234,22,GB,United Kingdom,Routotelecom
+44,234,24,GB,United Kingdom,Stour Marine
+44,234,37,GB,United Kingdom,Synectiv Ltd.
+44,234,31,GB,United Kingdom,Everyth. Ev.wh./T-Mobile
+44,234,30,GB,United Kingdom,Everyth. Ev.wh./T-Mobile
+44,234,32,GB,United Kingdom,Everyth. Ev.wh./T-Mobile
+44,234,27,GB,United Kingdom,Vodafone
+44,234,9,GB,United Kingdom,Tismi
+44,234,25,GB,United Kingdom,Truphone
+44,234,51,GB,United Kingdom,Jersey Telecom
+44,234,23,GB,United Kingdom,Vectofone Mobile Wifi
+44,234,91,GB,United Kingdom,Vodafone
+44,234,15,GB,United Kingdom,Vodafone
+44,234,78,GB,United Kingdom,Wave Telecom Ltd
+45,238,5,DK,Denmark,ApS KBUS
+45,238,23,DK,Denmark,Banedanmark
+45,238,28,DK,Denmark,CoolTEL ApS
+45,238,6,DK,Denmark,H3G
+45,238,12,DK,Denmark,Lycamobile Ltd
+45,238,3,DK,Denmark,Mach Connectivity ApS
+45,238,7,DK,Denmark,Mundio Mobile
+45,238,4,DK,Denmark,NextGen Mobile Ltd (CardBoardFish)
+45,238,10,DK,Denmark,TDC Denmark
+45,238,1,DK,Denmark,TDC Denmark
+45,238,77,DK,Denmark,Telenor/Sonofon
+45,238,2,DK,Denmark,Telenor/Sonofon
+45,238,20,DK,Denmark,Telia
+45,238,30,DK,Denmark,Telia
+46,240,35,SE,Sweden,42 Telecom AB
+46,240,16,SE,Sweden,42 Telecom AB
+46,240,26,SE,Sweden,Beepsend
+46,240,30,SE,Sweden,NextGen Mobile Ltd (CardBoardFish)
+46,240,28,SE,Sweden,CoolTEL Aps
+46,240,25,SE,Sweden,Digitel Mobile Srl
+46,240,22,SE,Sweden,Eu Tel AB
+46,240,27,SE,Sweden,Fogg Mobile AB
+46,240,18,SE,Sweden,Generic Mobile Systems Sweden AB
+46,240,17,SE,Sweden,Gotalandsnatet AB
+46,240,2,SE,Sweden,H3G Access AB
+46,240,4,SE,Sweden,H3G Access AB
+46,240,36,SE,Sweden,ID Mobile
+46,240,23,SE,Sweden,Infobip Ltd.
+46,240,11,SE,Sweden,Lindholmen Science Park AB
+46,240,12,SE,Sweden,Lycamobile Ltd
+46,240,29,SE,Sweden,Mercury International Carrier Services
+46,240,19,SE,Sweden,Mundio Mobile (Sweden) Ltd
+46,240,10,SE,Sweden,Spring Mobil AB
+46,240,5,SE,Sweden,Svenska UMTS-N
+46,240,14,SE,Sweden,TDC Sverige AB
+46,240,7,SE,Sweden,Tele2 Sverige AB
+46,240,8,SE,Sweden,Telenor (Vodafone)
+46,240,6,SE,Sweden,Telenor (Vodafone)
+46,240,24,SE,Sweden,Telenor (Vodafone)
+46,240,1,SE,Sweden,Telia Mobile
+46,240,13,SE,Sweden,Ventelo Sverige AB
+46,240,20,SE,Sweden,Wireless Maingate AB
+46,240,15,SE,Sweden,Wireless Maingate Nordic AB
+47,242,9,NO,Norway,Com4 AS
+47,242,21,NO,Norway,Jernbaneverket (GSM-R)
+47,242,20,NO,Norway,Jernbaneverket (GSM-R)
+47,242,23,NO,Norway,Lycamobile Ltd
+47,242,2,NO,Norway,Netcom
+47,242,5,NO,Norway,Network Norway AS
+47,242,22,NO,Norway,Network Norway AS
+47,242,6,NO,Norway,ICE Nordisk Mobiltelefon AS
+47,242,8,NO,Norway,TDC Mobil A/S
+47,242,4,NO,Norway,Tele2
+47,242,12,NO,Norway,Telenor
+47,242,1,NO,Norway,Telenor
+47,242,3,NO,Norway,Teletopia
+47,242,17,NO,Norway,Ventelo AS
+47,242,7,NO,Norway,Ventelo AS
+48,260,17,PL,Poland,Aero2 SP.
+48,260,18,PL,Poland,AMD Telecom.
+48,260,38,PL,Poland,CallFreedom Sp. z o.o.
+48,260,12,PL,Poland,Cyfrowy POLSAT S.A.
+48,260,8,PL,Poland,e-Telko
+48,260,9,PL,Poland,Lycamobile
+48,260,16,PL,Poland,Mobyland
+48,260,36,PL,Poland,Mundio Mobile Sp. z o.o.
+48,260,7,PL,Poland,Play/P4
+48,260,11,PL,Poland,NORDISK Polska
+48,260,5,PL,Poland,Orange/IDEA/Centertel
+48,260,3,PL,Poland,Orange/IDEA/Centertel
+48,260,35,PL,Poland,PKP Polskie Linie Kolejowe S.A.
+48,260,98,PL,Poland,Play/P4
+48,260,6,PL,Poland,Play/P4
+48,260,1,PL,Poland,Polkomtel/Plus
+48,260,13,PL,Poland,Sferia
+48,260,10,PL,Poland,Sferia
+48,260,14,PL,Poland,Sferia
+48,260,2,PL,Poland,T-Mobile/ERA
+48,260,34,PL,Poland,T-Mobile/ERA
+48,260,4,PL,Poland,Tele2
+48,260,15,PL,Poland,Tele2
+49,262,17,DE,Germany,E-Plus
+49,262,10,DE,Germany,DB Netz AG
+49,262,n/a,DE,Germany,Debitel
+49,262,3,DE,Germany,E-Plus
+49,262,5,DE,Germany,E-Plus
+49,262,77,DE,Germany,E-Plus
+49,262,20,DE,Germany,E-Plus
+49,262,12,DE,Germany,E-Plus
+49,262,14,DE,Germany,Group 3G UMTS
+49,262,43,DE,Germany,Lycamobile
+49,262,13,DE,Germany,Mobilcom
+49,262,7,DE,Germany,O2
+49,262,11,DE,Germany,O2
+49,262,8,DE,Germany,O2
+49,262,n/a,DE,Germany,Talkline
+49,262,6,DE,Germany,T-mobile/Telekom
+49,262,1,DE,Germany,T-mobile/Telekom
+49,262,16,DE,Germany,Telogic/ViStream
+49,262,2,DE,Germany,Vodafone D2
+49,262,42,DE,Germany,Vodafone D2
+49,262,9,DE,Germany,Vodafone D2
+49,262,4,DE,Germany,Vodafone D2
+51,716,20,PE,Peru,Claro /Amer.Mov./TIM
+51,716,10,PE,Peru,Claro /Amer.Mov./TIM
+51,716,2,PE,Peru,GlobalStar
+51,716,1,PE,Peru,GlobalStar
+51,716,6,PE,Peru,Movistar
+51,716,7,PE,Peru,Nextel
+51,716,17,PE,Peru,Nextel
+51,716,15,PE,Peru,Viettel Mobile
+52,334,4,MX,Mexico,IUSACell/UneFon
+52,334,50,MX,Mexico,IUSACell/UneFon
+52,334,50,MX,Mexico,IUSACell/UneFon
+52,334,40,MX,Mexico,IUSACell/UneFon
+52,334,3,MX,Mexico,Movistar/Pegaso
+52,334,30,MX,Mexico,Movistar/Pegaso
+52,334,10,MX,Mexico,NEXTEL
+52,334,1,MX,Mexico,NEXTEL
+52,334,9,MX,Mexico,NEXTEL
+52,334,90,MX,Mexico,NEXTEL
+52,334,80,MX,Mexico,Operadora Unefon SA de CV
+52,334,70,MX,Mexico,Operadora Unefon SA de CV
+52,334,60,MX,Mexico,SAI PCS
+52,334,20,MX,Mexico,TelCel/America Movil
+52,334,2,MX,Mexico,TelCel/America Movil
+53,368,1,CU,Cuba,C-COM
+54,722,310,AR,Argentina Republic,Claro/ CTI/AMX
+54,722,330,AR,Argentina Republic,Claro/ CTI/AMX
+54,722,320,AR,Argentina Republic,Claro/ CTI/AMX
+54,722,10,AR,Argentina Republic,Compania De Radiocomunicaciones Moviles SA
+54,722,70,AR,Argentina Republic,Movistar/Telefonica
+54,722,20,AR,Argentina Republic,Nextel
+54,722,341,AR,Argentina Republic,Telecom Personal S.A.
+55,724,12,BR,Brazil,Claro/Albra/America Movil
+55,724,5,BR,Brazil,Claro/Albra/America Movil
+55,724,38,BR,Brazil,Claro/Albra/America Movil
+55,724,1,BR,Brazil,Vivo S.A./Telemig
+55,724,34,BR,Brazil,CTBC Celular SA (CTBC)
+55,724,33,BR,Brazil,CTBC Celular SA (CTBC)
+55,724,32,BR,Brazil,CTBC Celular SA (CTBC)
+55,724,8,BR,Brazil,TIM
+55,724,39,BR,Brazil,Nextel (Telet)
+55,724,0,BR,Brazil,Nextel (Telet)
+55,724,24,BR,Brazil,Amazonia Celular S/A
+55,724,30,BR,Brazil,Oi (TNL PCS / Oi)
+55,724,31,BR,Brazil,Oi (TNL PCS / Oi)
+55,724,16,BR,Brazil,Brazil Telcom
+55,724,54,BR,Brazil,PORTO SEGURO TELECOMUNICACOES
+55,724,15,BR,Brazil,Sercontel Cel
+55,724,7,BR,Brazil,CTBC/Triangulo
+55,724,19,BR,Brazil,Vivo S.A./Telemig
+55,724,2,BR,Brazil,TIM
+55,724,4,BR,Brazil,TIM
+55,724,3,BR,Brazil,TIM
+55,724,37,BR,Brazil,Unicel do Brasil Telecomunicacoes Ltda
+55,724,23,BR,Brazil,Vivo S.A./Telemig
+55,724,11,BR,Brazil,Vivo S.A./Telemig
+55,724,10,BR,Brazil,Vivo S.A./Telemig
+55,724,6,BR,Brazil,Vivo S.A./Telemig
+56,730,6,CL,Chile,Blue Two Chile SA
+56,730,11,CL,Chile,Celupago SA
+56,730,15,CL,Chile,Cibeles Telecom SA
+56,730,3,CL,Chile,Claro
+56,730,10,CL,Chile,Entel Telefonia
+56,730,1,CL,Chile,Entel Telefonia Mov
+56,730,14,CL,Chile,Netline Telefonica Movil Ltda
+56,730,9,CL,Chile,Nextel SA
+56,730,5,CL,Chile,Nextel SA
+56,730,4,CL,Chile,Nextel SA
+56,730,7,CL,Chile,TELEFONICA
+56,730,2,CL,Chile,TELEFONICA
+56,730,12,CL,Chile,Telestar Movil SA
+56,730,0,CL,Chile,TESAM SA
+56,730,13,CL,Chile,Tribe Mobile SPA
+56,730,8,CL,Chile,VTR Banda Ancha SA
+57,732,130,CO,Colombia,Avantel SAS
+57,732,102,CO,Colombia,Movistar
+57,732,103,CO,Colombia,TIGO/Colombia Movil
+57,732,1,CO,Colombia,TIGO/Colombia Movil
+57,732,101,CO,Colombia,Comcel S.A. Occel S.A./Celcaribe
+57,732,2,CO,Colombia,Edatel S.A.
+57,732,123,CO,Colombia,Movistar
+57,732,111,CO,Colombia,TIGO/Colombia Movil
+57,732,142,CO,Colombia,UNE EPM Telecomunicaciones SA ESP
+57,732,20,CO,Colombia,UNE EPM Telecomunicaciones SA ESP
+57,732,154,CO,Colombia,Virgin Mobile Colombia SAS
+58,734,3,VE,Venezuela,DigiTel C.A.
+58,734,2,VE,Venezuela,DigiTel C.A.
+58,734,1,VE,Venezuela,DigiTel C.A.
+58,734,6,VE,Venezuela,Movilnet C.A.
+58,734,4,VE,Venezuela,Movistar/TelCel
+60,502,1,MY,Malaysia,Art900
+60,502,151,MY,Malaysia,Baraka Telecom Sdn Bhd
+60,502,13,MY,Malaysia,CelCom
+60,502,198,MY,Malaysia,CelCom
+60,502,19,MY,Malaysia,CelCom
+60,502,16,MY,Malaysia,Digi Telecommunications
+60,502,10,MY,Malaysia,Digi Telecommunications
+60,502,20,MY,Malaysia,Electcoms Wireless Sdn Bhd
+60,502,17,MY,Malaysia,Maxis
+60,502,12,MY,Malaysia,Maxis
+60,502,11,MY,Malaysia,MTX Utara
+60,502,153,MY,Malaysia,Webe/Packet One Networks (Malaysia) Sdn Bhd
+60,502,155,MY,Malaysia,Samata Communications Sdn Bhd
+60,502,154,MY,Malaysia,Tron/Talk Focus Sdn Bhd
+60,502,18,MY,Malaysia,U Mobile
+60,502,195,MY,Malaysia,XOX Com Sdn Bhd
+60,502,152,MY,Malaysia,YES
+61,505,14,AU,Australia,AAPT Ltd.
+61,505,24,AU,Australia,Advanced Comm Tech Pty.
+61,505,9,AU,Australia,Airnet Commercial Australia Ltd..
+61,505,4,AU,Australia,Department of Defense
+61,505,26,AU,Australia,Dialogue Communications Pty Ltd
+61,505,12,AU,Australia,H3G Ltd.
+61,505,6,AU,Australia,H3G Ltd.
+61,505,88,AU,Australia,Localstar Holding Pty. Ltd
+61,505,19,AU,Australia,Lycamobile Pty Ltd
+61,505,99,AU,Australia,Railcorp/Vodafone
+61,505,8,AU,Australia,Railcorp/Vodafone
+61,505,13,AU,Australia,Railcorp/Vodafone
+61,505,90,AU,Australia,Singtel Optus
+61,505,2,AU,Australia,Singtel Optus
+61,505,11,AU,Australia,Telstra Corp. Ltd.
+61,505,72,AU,Australia,Telstra Corp. Ltd.
+61,505,71,AU,Australia,Telstra Corp. Ltd.
+61,505,1,AU,Australia,Telstra Corp. Ltd.
+61,505,5,AU,Australia,The Ozitel Network Pty.
+61,505,16,AU,Australia,Victorian Rail Track Corp. (VicTrack)
+61,505,7,AU,Australia,Vodafone
+61,505,3,AU,Australia,Vodafone
+62,510,8,ID,Indonesia,Axis/Natrindo
+62,510,99,ID,Indonesia,Esia (PT Bakrie Telecom) (CDMA)
+62,510,7,ID,Indonesia,Flexi (PT Telkom) (CDMA)
+62,510,89,ID,Indonesia,H3G CP
+62,510,21,ID,Indonesia,Indosat/Satelindo/M3
+62,510,1,ID,Indonesia,Indosat/Satelindo/M3
+62,510,0,ID,Indonesia,PT Pasifik Satelit Nusantara (PSN)
+62,510,27,ID,Indonesia,PT Sampoerna Telekomunikasi Indonesia (STI)
+62,510,28,ID,Indonesia,PT Smartfren Telecom Tbk
+62,510,9,ID,Indonesia,PT Smartfren Telecom Tbk
+62,510,11,ID,Indonesia,PT. Excelcom
+62,510,10,ID,Indonesia,Telkomsel
+63,515,0,PH,Philippines,Fix Line
+63,515,1,PH,Philippines,Globe Telecom
+63,515,2,PH,Philippines,Globe Telecom
+63,515,88,PH,Philippines,Next Mobile
+63,515,18,PH,Philippines,RED Mobile/Cure
+63,515,3,PH,Philippines,Smart
+63,515,5,PH,Philippines,SUN/Digitel
+64,530,28,NZ,New Zealand,2degrees
+64,530,5,NZ,New Zealand,NZ Telecom CDMA
+64,530,2,NZ,New Zealand,NZ Telecom CDMA
+64,530,4,NZ,New Zealand,Telstra
+64,530,24,NZ,New Zealand,Two Degrees Mobile Ltd
+64,530,1,NZ,New Zealand,Vodafone
+64,530,3,NZ,New Zealand,Walker Wireless Ltd.
+65,525,12,SG,Singapore,GRID Communications Pte Ltd
+65,525,3,SG,Singapore,MobileOne Ltd
+65,525,2,SG,Singapore,Singtel
+65,525,1,SG,Singapore,Singtel
+65,525,7,SG,Singapore,Singtel
+65,525,5,SG,Singapore,Starhub
+65,525,6,SG,Singapore,Starhub
+66,520,20,TH,Thailand,ACeS Thailand - ACeS Regional Services Co Ltd
+66,520,15,TH,Thailand,ACT Mobile
+66,520,3,TH,Thailand,Advanced Wireless Networks/AWN
+66,520,1,TH,Thailand,AIS/Advanced Info Service
+66,520,23,TH,Thailand,Digital Phone Co.
+66,520,0,TH,Thailand,Hutch/CAT CDMA
+66,520,18,TH,Thailand,Total Access (DTAC)
+66,520,5,TH,Thailand,Total Access (DTAC)
+66,520,99,TH,Thailand,True Move/Orange
+66,520,4,TH,Thailand,True Move/Orange
+79,250,12,RU,Russian Federation,Baykal Westcom
+79,250,28,RU,Russian Federation,BeeLine/VimpelCom
+79,250,10,RU,Russian Federation,DTC/Don Telecom
+79,250,13,RU,Russian Federation,Kuban GSM
+79,250,35,RU,Russian Federation,MOTIV/LLC Ekaterinburg-2000
+79,250,2,RU,Russian Federation,Megafon
+79,250,1,RU,Russian Federation,MTS
+79,250,3,RU,Russian Federation,NCC
+79,250,16,RU,Russian Federation,NTC
+79,250,19,RU,Russian Federation,OJSC Altaysvyaz
+79,250,11,RU,Russian Federation,Orensot
+79,250,92,RU,Russian Federation,Printelefone
+79,250,4,RU,Russian Federation,Sibchallenge
+79,250,44,RU,Russian Federation,StavTelesot
+79,250,20,RU,Russian Federation,Tele2/ECC/Volgogr.
+79,250,93,RU,Russian Federation,Telecom XXL
+79,250,39,RU,Russian Federation,UralTel
+79,250,17,RU,Russian Federation,UralTel
+79,250,99,RU,Russian Federation,BeeLine/VimpelCom
+79,250,5,RU,Russian Federation,Yenisey Telecom
+79,250,15,RU,Russian Federation,ZAO SMARTS
+79,250,7,RU,Russian Federation,ZAO SMARTS
+81,440,0,JP,Japan,Y-Mobile
+81,440,75,JP,Japan,KDDI Corporation
+81,440,56,JP,Japan,KDDI Corporation
+81,441,70,JP,Japan,KDDI Corporation
+81,440,52,JP,Japan,KDDI Corporation
+81,440,76,JP,Japan,KDDI Corporation
+81,440,71,JP,Japan,KDDI Corporation
+81,440,53,JP,Japan,KDDI Corporation
+81,440,77,JP,Japan,KDDI Corporation
+81,440,8,JP,Japan,KDDI Corporation
+81,440,72,JP,Japan,KDDI Corporation
+81,440,54,JP,Japan,KDDI Corporation
+81,440,79,JP,Japan,KDDI Corporation
+81,440,7,JP,Japan,KDDI Corporation
+81,440,73,JP,Japan,KDDI Corporation
+81,440,55,JP,Japan,KDDI Corporation
+81,440,88,JP,Japan,KDDI Corporation
+81,440,50,JP,Japan,KDDI Corporation
+81,440,74,JP,Japan,KDDI Corporation
+81,440,70,JP,Japan,KDDI Corporation
+81,440,89,JP,Japan,KDDI Corporation
+81,440,51,JP,Japan,KDDI Corporation
+81,441,43,JP,Japan,NTT Docomo
+81,440,27,JP,Japan,NTT Docomo
+81,440,2,JP,Japan,NTT Docomo
+81,440,22,JP,Japan,NTT Docomo
+81,440,17,JP,Japan,NTT Docomo
+81,440,31,JP,Japan,NTT Docomo
+81,440,87,JP,Japan,NTT Docomo
+81,440,36,JP,Japan,NTT Docomo
+81,441,92,JP,Japan,NTT Docomo
+81,440,65,JP,Japan,NTT Docomo
+81,440,58,JP,Japan,NTT Docomo
+81,440,28,JP,Japan,NTT Docomo
+81,440,3,JP,Japan,NTT Docomo
+81,440,12,JP,Japan,NTT Docomo
+81,440,18,JP,Japan,NTT Docomo
+81,441,91,JP,Japan,NTT Docomo
+81,440,32,JP,Japan,NTT Docomo
+81,440,61,JP,Japan,NTT Docomo
+81,440,35,JP,Japan,NTT Docomo
+81,441,93,JP,Japan,NTT Docomo
+81,441,40,JP,Japan,NTT Docomo
+81,440,66,JP,Japan,NTT Docomo
+81,440,49,JP,Japan,NTT Docomo
+81,440,29,JP,Japan,NTT Docomo
+81,440,9,JP,Japan,NTT Docomo
+81,440,19,JP,Japan,NTT Docomo
+81,441,90,JP,Japan,NTT Docomo
+81,440,33,JP,Japan,NTT Docomo
+81,440,60,JP,Japan,NTT Docomo
+81,440,14,JP,Japan,NTT Docomo
+81,441,94,JP,Japan,NTT Docomo
+81,441,41,JP,Japan,NTT Docomo
+81,440,67,JP,Japan,NTT Docomo
+81,440,39,JP,Japan,NTT Docomo
+81,440,30,JP,Japan,NTT Docomo
+81,440,10,JP,Japan,NTT Docomo
+81,440,62,JP,Japan,NTT Docomo
+81,441,45,JP,Japan,NTT Docomo
+81,440,24,JP,Japan,NTT Docomo
+81,440,15,JP,Japan,NTT Docomo
+81,441,98,JP,Japan,NTT Docomo
+81,441,42,JP,Japan,NTT Docomo
+81,440,68,JP,Japan,NTT Docomo
+81,440,38,JP,Japan,NTT Docomo
+81,440,26,JP,Japan,NTT Docomo
+81,440,11,JP,Japan,NTT Docomo
+81,440,63,JP,Japan,NTT Docomo
+81,441,44,JP,Japan,NTT Docomo
+81,440,13,JP,Japan,NTT Docomo
+81,440,23,JP,Japan,NTT Docomo
+81,440,1,JP,Japan,NTT Docomo
+81,440,21,JP,Japan,NTT Docomo
+81,440,16,JP,Japan,NTT Docomo
+81,441,99,JP,Japan,NTT Docomo
+81,440,34,JP,Japan,NTT Docomo
+81,440,69,JP,Japan,NTT Docomo
+81,440,37,JP,Japan,NTT Docomo
+81,440,25,JP,Japan,NTT Docomo
+81,440,64,JP,Japan,NTT Docomo
+81,440,99,JP,Japan,NTT Docomo
+81,440,78,JP,Japan,Okinawa Cellular Telephone
+81,440,97,JP,Japan,SoftBank Mobile Corp
+81,440,46,JP,Japan,SoftBank Mobile Corp
+81,440,42,JP,Japan,SoftBank Mobile Corp
+81,441,65,JP,Japan,SoftBank Mobile Corp
+81,440,90,JP,Japan,SoftBank Mobile Corp
+81,440,98,JP,Japan,SoftBank Mobile Corp
+81,440,92,JP,Japan,SoftBank Mobile Corp
+81,440,93,JP,Japan,SoftBank Mobile Corp
+81,440,43,JP,Japan,SoftBank Mobile Corp
+81,440,48,JP,Japan,SoftBank Mobile Corp
+81,441,61,JP,Japan,SoftBank Mobile Corp
+81,440,6,JP,Japan,SoftBank Mobile Corp
+81,440,94,JP,Japan,SoftBank Mobile Corp
+81,440,44,JP,Japan,SoftBank Mobile Corp
+81,440,4,JP,Japan,SoftBank Mobile Corp
+81,441,62,JP,Japan,SoftBank Mobile Corp
+81,440,20,JP,Japan,SoftBank Mobile Corp
+81,440,96,JP,Japan,SoftBank Mobile Corp
+81,440,45,JP,Japan,SoftBank Mobile Corp
+81,440,40,JP,Japan,SoftBank Mobile Corp
+81,441,63,JP,Japan,SoftBank Mobile Corp
+81,440,95,JP,Japan,SoftBank Mobile Corp
+81,440,47,JP,Japan,SoftBank Mobile Corp
+81,440,41,JP,Japan,SoftBank Mobile Corp
+81,441,64,JP,Japan,SoftBank Mobile Corp
+81,440,83,JP,Japan,KDDI Corporation
+81,440,85,JP,Japan,KDDI Corporation
+81,440,81,JP,Japan,KDDI Corporation
+81,440,80,JP,Japan,KDDI Corporation
+81,440,86,JP,Japan,KDDI Corporation
+81,440,84,JP,Japan,KDDI Corporation
+81,440,82,JP,Japan,KDDI Corporation
+82,450,2,KR,Korea S Republic of,KT Freetel Co. Ltd.
+82,450,4,KR,Korea S Republic of,KT Freetel Co. Ltd.
+82,450,8,KR,Korea S Republic of,KT Freetel Co. Ltd.
+82,450,6,KR,Korea S Republic of,LG Telecom
+82,450,3,KR,Korea S Republic of,SK Telecom
+82,450,5,KR,Korea S Republic of,SK Telecom Co. Ltd
+84,452,7,VN,Viet Nam,Beeline
+84,452,1,VN,Viet Nam,Mobifone
+84,452,3,VN,Viet Nam,S-Fone/Telecom
+84,452,5,VN,Viet Nam,VietnaMobile
+84,452,8,VN,Viet Nam,Viettel Mobile
+84,452,6,VN,Viet Nam,Viettel Mobile
+84,452,4,VN,Viet Nam,Viettel Mobile
+84,452,2,VN,Viet Nam,Vinaphone
+86,460,7,CN,China,China Mobile GSM
+86,460,2,CN,China,China Mobile GSM
+86,460,0,CN,China,China Mobile GSM
+86,460,4,CN,China,China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom)
+86,460,3,CN,China,China Telecom
+86,460,5,CN,China,China Telecom
+86,460,6,CN,China,China Unicom
+86,460,1,CN,China,China Unicom
+90,286,4,TR,Turkey,AVEA/Aria
+90,286,3,TR,Turkey,AVEA/Aria
+90,286,1,TR,Turkey,Turkcell
+90,286,2,TR,Turkey,Vodafone-Telsim
+91,404,28,IN,India,Aircel
+91,404,25,IN,India,Aircel
+91,404,17,IN,India,Aircel
+91,404,42,IN,India,Aircel
+91,404,33,IN,India,Aircel
+91,404,29,IN,India,Aircel
+91,404,15,IN,India,Aircel Digilink India
+91,404,60,IN,India,Aircel Digilink India
+91,404,1,IN,India,Aircel Digilink India
+91,405,53,IN,India,AirTel
+91,404,86,IN,India,Barakhamba Sales & Serv.
+91,404,13,IN,India,Barakhamba Sales & Serv.
+91,404,54,IN,India,BSNL
+91,404,64,IN,India,BSNL
+91,404,71,IN,India,BSNL
+91,404,76,IN,India,BSNL
+91,404,53,IN,India,BSNL
+91,404,62,IN,India,BSNL
+91,404,59,IN,India,BSNL
+91,404,75,IN,India,BSNL
+91,404,51,IN,India,BSNL
+91,404,81,IN,India,BSNL
+91,404,58,IN,India,BSNL
+91,404,74,IN,India,BSNL
+91,404,38,IN,India,BSNL
+91,404,80,IN,India,BSNL
+91,404,57,IN,India,BSNL
+91,404,73,IN,India,BSNL
+91,404,34,IN,India,BSNL
+91,404,55,IN,India,BSNL
+91,404,66,IN,India,BSNL
+91,404,72,IN,India,BSNL
+91,404,77,IN,India,BSNL
+91,404,10,IN,India,Bharti Airtel Limited (Delhi)
+91,404,45,IN,India,Bharti Airtel Limited (Karnataka) (India)
+91,404,79,IN,India,CellOne A&N
+91,404,82,IN,India,Escorts Telecom Ltd.
+91,404,89,IN,India,Escorts Telecom Ltd.
+91,404,88,IN,India,Escorts Telecom Ltd.
+91,404,87,IN,India,Escorts Telecom Ltd.
+91,404,56,IN,India,Escotel Mobile Communications
+91,404,12,IN,India,Escotel Mobile Communications
+91,404,19,IN,India,Escotel Mobile Communications
+91,405,5,IN,India,Fascel Limited
+91,404,5,IN,India,Fascel
+91,404,70,IN,India,Hexacom India
+91,404,16,IN,India,Hexcom India
+91,404,78,IN,India,Idea Cellular Ltd.
+91,404,7,IN,India,Idea Cellular Ltd.
+91,404,4,IN,India,Idea Cellular Ltd.
+91,404,24,IN,India,Idea Cellular Ltd.
+91,404,22,IN,India,Idea Cellular Ltd.
+91,404,69,IN,India,Mahanagar Telephone Nigam
+91,404,68,IN,India,Mahanagar Telephone Nigam
+91,404,83,IN,India,Reliable Internet Services
+91,404,50,IN,India,Reliance Telecom Private
+91,404,67,IN,India,Reliance Telecom Private
+91,404,18,IN,India,Reliance Telecom Private
+91,404,85,IN,India,Reliance Telecom Private
+91,404,9,IN,India,Reliance Telecom Private
+91,404,36,IN,India,Reliance Telecom Private
+91,404,52,IN,India,Reliance Telecom Private
+91,404,41,IN,India,RPG Cellular
+91,404,14,IN,India,Spice
+91,404,44,IN,India,Spice
+91,404,11,IN,India,Sterling Cellular Ltd.
+91,405,34,IN,India,TATA / Karnataka
+91,404,30,IN,India,Usha Martin Telecom
+92,410,8,PK,Pakistan,Instaphone
+92,410,1,PK,Pakistan,Mobilink
+92,410,6,PK,Pakistan,Telenor
+92,410,3,PK,Pakistan,UFONE/PAKTel
+92,410,7,PK,Pakistan,Warid Telecom
+92,410,4,PK,Pakistan,ZONG/CMPak
+93,412,80,AF,Afghanistan,Afghan Telecom Corp. (AT)
+93,412,88,AF,Afghanistan,Afghan Telecom Corp. (AT)
+93,412,1,AF,Afghanistan,Afghan Wireless/AWCC
+93,412,40,AF,Afghanistan,Areeba/MTN
+93,412,50,AF,Afghanistan,Etisalat
+93,412,20,AF,Afghanistan,Roshan/TDCA
+93,412,3,AF,Afghanistan,WaselTelecom (WT)
+94,413,5,LK,Sri Lanka,Airtel
+94,413,3,LK,Sri Lanka,Etisalat/Tigo
+94,413,8,LK,Sri Lanka,H3G Hutchison
+94,413,1,LK,Sri Lanka,Mobitel Ltd.
+94,413,2,LK,Sri Lanka,MTN/Dialog
+95,414,1,MM,Myanmar (Burma),Myanmar Post & Teleco.
+95,414,5,MM,Myanmar (Burma),Oreedoo
+95,414,6,MM,Myanmar (Burma),Telenor
+98,432,19,IR,Iran,Mobile Telecommunications Company of Esfahan JV-PJS (MTCE)
+98,432,70,IR,Iran,MTCE
+98,432,35,IR,Iran,MTN/IranCell
+98,432,20,IR,Iran,Rightel
+98,432,32,IR,Iran,Taliya
+98,432,11,IR,Iran,MCI/TCI
+98,432,14,IR,Iran,TKC/KFZO
+212,604,1,MA,Morocco,IAM/Itissallat
+212,604,2,MA,Morocco,INWI/WANA
+212,604,0,MA,Morocco,Medi Telecom
+213,603,1,DZ,Algeria,ATM Mobils
+213,603,2,DZ,Algeria,Orascom / DJEZZY
+213,603,3,DZ,Algeria,Oreedo/Wataniya / Nedjma
+216,605,1,TN,Tunisia,Orange
+216,605,3,TN,Tunisia,Oreedo/Orascom
+216,605,2,TN,Tunisia,TuniCell/Tunisia Telecom
+218,606,2,LY,Libya,Al-Madar
+218,606,1,LY,Libya,Al-Madar
+218,606,6,LY,Libya,Hatef
+218,606,0,LY,Libya,Libyana
+218,606,3,LY,Libya,Libyana
+220,607,2,GM,Gambia,Africel
+220,607,3,GM,Gambia,Comium
+220,607,1,GM,Gambia,Gamcel
+220,607,4,GM,Gambia,Q-Cell
+221,608,3,SN,Senegal,Expresso/Sudatel
+221,608,1,SN,Senegal,Orange/Sonatel
+221,608,2,SN,Senegal,TIGO/Sentel GSM
+222,609,2,MR,Mauritania,Chinguitel SA
+222,609,1,MR,Mauritania,Mattel
+222,609,10,MR,Mauritania,Mauritel
+223,610,1,ML,Mali,Malitel
+223,610,2,ML,Mali,Orange/IKATEL
+224,611,4,GN,Guinea,MTN/Areeba
+224,611,5,GN,Guinea,Celcom
+224,611,3,GN,Guinea,Intercel
+224,611,1,GN,Guinea,Orange/Sonatel/Spacetel
+224,611,2,GN,Guinea,SotelGui
+225,612,7,CI,Ivory Coast,Aircomm SA
+225,612,2,CI,Ivory Coast,Atlantik Tel./Moov
+225,612,4,CI,Ivory Coast,Comium
+225,612,1,CI,Ivory Coast,Comstar
+225,612,5,CI,Ivory Coast,MTN
+225,612,3,CI,Ivory Coast,Orange
+225,612,6,CI,Ivory Coast,OriCell
+226,613,3,BF,Burkina Faso,TeleCel
+226,613,1,BF,Burkina Faso,TeleMob-OnaTel
+226,613,2,BF,Burkina Faso,Airtel/ZAIN/CelTel
+227,614,3,NE,Niger,MOOV/TeleCel
+227,614,4,NE,Niger,Orange/Sahelc.
+227,614,1,NE,Niger,Orange/Sahelc.
+227,614,2,NE,Niger,Airtel/Zain/CelTel
+228,615,2,TG,Togo,Telecel/MOOV
+228,615,3,TG,Togo,Telecel/MOOV
+228,615,1,TG,Togo,Togo Telecom/TogoCELL
+229,616,4,BJ,Benin,Bell Benin/BBCOM
+229,616,2,BJ,Benin,Etisalat/MOOV
+229,616,5,BJ,Benin,GloMobile
+229,616,1,BJ,Benin,Libercom
+229,616,3,BJ,Benin,MTN/Spacetel
+230,617,10,MU,Mauritius,Emtel Ltd
+230,617,2,MU,Mauritius,Mahanagar Telephone
+230,617,3,MU,Mauritius,Mahanagar Telephone
+230,617,1,MU,Mauritius,Orange/Cellplus
+231,618,7,LR,Liberia,CELLCOM
+231,618,4,LR,Liberia,Comium BVI
+231,618,2,LR,Liberia,Libercell
+231,618,20,LR,Liberia,LibTelco
+231,618,1,LR,Liberia,Lonestar
+232,619,3,SL,Sierra Leone,Africel
+232,619,1,SL,Sierra Leone,Airtel/Zain/Celtel
+232,619,4,SL,Sierra Leone,Comium
+232,619,5,SL,Sierra Leone,Africel
+232,619,2,SL,Sierra Leone,Tigo/Millicom
+232,619,25,SL,Sierra Leone,Mobitel
+233,620,4,GH,Ghana,Expresso Ghana Ltd
+233,620,7,GH,Ghana,GloMobile
+233,620,3,GH,Ghana,Milicom/Tigo
+233,620,1,GH,Ghana,MTN
+233,620,2,GH,Ghana,Vodafone
+233,620,6,GH,Ghana,Airtel/ZAIN
+234,621,20,NG,Nigeria,Airtel/ZAIN/Econet
+234,621,60,NG,Nigeria,ETISALAT
+234,621,50,NG,Nigeria,Glo Mobile
+234,621,40,NG,Nigeria,M-Tel/Nigeria Telecom. Ltd.
+234,621,30,NG,Nigeria,MTN
+234,621,99,NG,Nigeria,Starcomms
+234,621,25,NG,Nigeria,Visafone
+234,621,1,NG,Nigeria,Visafone
+235,622,4,TD,Chad,Salam/Sotel
+235,622,2,TD,Chad,Tchad Mobile
+235,622,3,TD,Chad,Tigo/Milicom/Tchad Mobile
+235,622,1,TD,Chad,Airtel/ZAIN/Celtel
+236,623,1,CF,Central African Rep.,Centrafr. Telecom+
+236,623,4,CF,Central African Rep.,Nationlink
+236,623,3,CF,Central African Rep.,Orange/Celca
+236,623,2,CF,Central African Rep.,Telecel Centraf.
+237,624,1,CM,Cameroon,MTN
+237,624,4,CM,Cameroon,Nextel
+237,624,2,CM,Cameroon,Orange
+238,625,1,CV,Cape Verde,CV Movel
+238,625,2,CV,Cape Verde,T+ Telecom
+239,626,1,ST,Sao Tome & Principe,CSTmovel
+240,627,3,GQ,Equatorial Guinea,HiTs-GE
+240,627,1,GQ,Equatorial Guinea,ORANGE/GETESA
+241,628,4,GA,Gabon,Azur/Usan S.A.
+241,628,1,GA,Gabon,Libertis S.A.
+241,628,2,GA,Gabon,MOOV/Telecel
+241,628,3,GA,Gabon,Airtel/ZAIN/Celtel Gabon S.A.
+242,629,1,CG,Congo Republic,Airtel SA
+242,629,2,CG,Congo Republic,Azur SA (ETC)
+242,629,10,CG,Congo Republic,MTN/Libertis
+242,629,7,CG,Congo Republic,Warid
+243,630,90,CD,Congo Dem. Rep.,Africell
+243,630,86,CD,Congo Dem. Rep.,Orange RDC sarl
+243,630,5,CD,Congo Dem. Rep.,SuperCell
+243,630,89,CD,Congo Dem. Rep.,TIGO/Oasis
+243,630,1,CD,Congo Dem. Rep.,Vodacom
+243,630,88,CD,Congo Dem. Rep.,Yozma Timeturns sprl (YTT)
+243,630,2,CD,Congo Dem. Rep.,Airtel/ZAIN
+244,631,4,AO,Angola,MoviCel
+244,631,2,AO,Angola,Unitel
+245,632,1,GW,Guinea-Bissau,GuineTel
+245,632,3,GW,Guinea-Bissau,Orange
+245,632,2,GW,Guinea-Bissau,SpaceTel
+248,633,10,SC,Seychelles,Airtel
+248,633,1,SC,Seychelles,C&W
+248,633,2,SC,Seychelles,Smartcom
+249,634,0,SD,Sudan,Canar Telecom
+249,634,2,SD,Sudan,MTN
+249,634,22,SD,Sudan,MTN
+249,634,15,SD,Sudan,Sudani One
+249,634,7,SD,Sudan,Sudani One
+249,634,8,SD,Sudan,Vivacell
+249,634,5,SD,Sudan,Vivacell
+249,634,6,SD,Sudan,ZAIN/Mobitel
+249,634,1,SD,Sudan,ZAIN/Mobitel
+250,635,14,RW,Rwanda,Airtel
+250,635,10,RW,Rwanda,MTN/Rwandacell
+250,635,13,RW,Rwanda,TIGO
+251,636,1,ET,Ethiopia,ETH/MTN
+252,637,30,SO,Somalia,Golis
+252,637,19,SO,Somalia,HorTel
+252,637,10,SO,Somalia,Nationlink
+252,637,60,SO,Somalia,Nationlink
+252,637,4,SO,Somalia,Somafone
+252,637,82,SO,Somalia,Telcom Mobile Somalia
+252,637,1,SO,Somalia,Telesom
+253,638,1,DJ,Djibouti,Djibouti Telecom SA (Evatis)
+254,639,5,KE,Kenya,Econet Wireless
+254,639,7,KE,Kenya,Orange
+254,639,2,KE,Kenya,Safaricom Ltd.
+254,639,3,KE,Kenya,Airtel/Zain/Celtel Ltd.
+255,640,8,TZ,Tanzania,Benson Informatics Ltd
+255,640,6,TZ,Tanzania,Dovetel (T) Ltd
+255,640,9,TZ,Tanzania,ExcellentCom (T) Ltd
+255,640,11,TZ,Tanzania,Smile Communications Tanzania Ltd
+255,640,7,TZ,Tanzania,Tanzania Telecommunications Company Ltd (TTCL)
+255,640,2,TZ,Tanzania,TIGO/MIC
+255,640,1,TZ,Tanzania,Tri Telecomm. Ltd.
+255,640,4,TZ,Tanzania,Vodacom Ltd
+255,640,5,TZ,Tanzania,Airtel/ZAIN/Celtel
+255,640,3,TZ,Tanzania,Zantel/Zanzibar Telecom
+256,641,1,UG,Uganda,Airtel/Celtel
+256,641,66,UG,Uganda,i-Tel Ltd
+256,641,30,UG,Uganda,K2 Telecom Ltd
+256,641,10,UG,Uganda,MTN Ltd.
+256,641,14,UG,Uganda,Orange
+256,641,33,UG,Uganda,Smile Communications Uganda Ltd
+256,641,18,UG,Uganda,Suretelecom Uganda Ltd
+256,641,11,UG,Uganda,Uganda Telecom Ltd.
+256,641,22,UG,Uganda,Airtel/Warid
+257,642,2,BI,Burundi,Africel / Safaris
+257,642,8,BI,Burundi,Lumitel/Viettel
+257,642,3,BI,Burundi,Onatel / Telecel
+257,642,7,BI,Burundi,Smart Mobile / LACELL
+257,642,82,BI,Burundi,Spacetel / Econet / Leo
+257,642,1,BI,Burundi,Spacetel / Econet / Leo
+258,643,1,MZ,Mozambique,mCel
+258,643,3,MZ,Mozambique,Movitel
+258,643,4,MZ,Mozambique,Vodacom
+260,645,3,ZM,Zambia,Zamtel/Cell Z/MTS
+260,645,2,ZM,Zambia,MTN/Telecel
+260,645,1,ZM,Zambia,Airtel/Zain/Celtel
+261,646,1,MG,Madagascar,Airtel/MADACOM
+261,646,2,MG,Madagascar,Orange/Soci
+261,646,3,MG,Madagascar,Sacel
+261,646,4,MG,Madagascar,Telma
+262,647,0,RE,Reunion,Orange
+262,647,2,RE,Reunion,Outremer Telecom
+262,647,10,RE,Reunion,SFR
+263,648,4,ZW,Zimbabwe,Econet
+263,648,1,ZW,Zimbabwe,Net One
+263,648,3,ZW,Zimbabwe,Telecel
+264,649,3,NA,Namibia,Leo / Orascom
+264,649,1,NA,Namibia,MTC
+264,649,2,NA,Namibia,Switch/Nam. Telec.
+265,650,1,MW,Malawi,TNM/Telekom Network Ltd.
+265,650,10,MW,Malawi,Airtel/Zain/Celtel ltd.
+266,651,2,LS,Lesotho,Econet/Ezi-cel
+266,651,1,LS,Lesotho,Vodacom Lesotho
+267,652,4,BW,Botswana,BeMOBILE
+267,652,1,BW,Botswana,Mascom Wireless (Pty) Ltd.
+267,652,2,BW,Botswana,Orange
+268,653,10,SZ,Swaziland,Swazi MTN
+268,653,1,SZ,Swaziland,SwaziTelecom
+269,654,1,KM,Comoros,HURI - SNPT
+284,348,570,VG,British Virgin Islands,Caribbean Cellular
+284,348,770,VG,British Virgin Islands,Digicel
+284,348,170,VG,British Virgin Islands,LIME
+291,657,1,ER,Eritrea,Eritel
+297,363,2,AW,Aruba,Digicel
+297,363,20,AW,Aruba,Digicel
+297,363,1,AW,Aruba,Setar GSM
+298,288,3,FO,Faroe Islands,Edge Mobile Sp/F
+298,288,1,FO,Faroe Islands,Faroese Telecom
+298,288,2,FO,Faroe Islands,Kall GSM
+299,290,1,GL,Greenland,Tele Greenland
+350,266,6,GI,Gibraltar,CTS Mobile
+350,266,9,GI,Gibraltar,eazi telecom
+350,266,1,GI,Gibraltar,Gibtel GSM
+351,268,4,PT,Portugal,CTT - Correios de Portugal SA
+351,268,7,PT,Portugal,NOS/Optimus
+351,268,3,PT,Portugal,NOS/Optimus
+351,268,6,PT,Portugal,MEO/TMN
+351,268,1,PT,Portugal,Vodafone
+352,270,77,LU,Luxembourg,Millicom Tango GSM
+352,270,1,LU,Luxembourg,P+T/Post LUXGSM
+352,270,99,LU,Luxembourg,Orange/VOXmobile S.A.
+353,272,4,IE,Ireland,Access Telecom Ltd.
+353,272,9,IE,Ireland,Clever Communications Ltd
+353,272,7,IE,Ireland,eircom Ltd
+353,272,5,IE,Ireland,Three/H3G
+353,272,11,IE,Ireland,Liffey Telecom
+353,272,13,IE,Ireland,Lycamobile
+353,272,3,IE,Ireland,Meteor Mobile Ltd.
+353,272,2,IE,Ireland,Three/O2/Digifone
+353,272,1,IE,Ireland,Vodafone Eircell
+354,274,9,IS,Iceland,Amitelo
+354,274,7,IS,Iceland,IceCell
+354,274,8,IS,Iceland,Siminn
+354,274,1,IS,Iceland,Siminn
+354,274,11,IS,Iceland,NOVA
+354,274,4,IS,Iceland,VIKING/IMC
+354,274,3,IS,Iceland,Vodafone/Tal hf
+354,274,5,IS,Iceland,Vodafone/Tal hf
+354,274,2,IS,Iceland,Vodafone/Tal hf
+355,276,1,AL,Albania,AMC/Cosmote
+355,276,3,AL,Albania,Eagle Mobile
+355,276,4,AL,Albania,PLUS Communication Sh.a
+355,276,2,AL,Albania,Vodafone
+356,278,21,MT,Malta,GO Mobile
+356,278,77,MT,Malta,Melita
+356,278,1,MT,Malta,Vodafone
+357,280,10,CY,Cyprus,MTN/Areeba
+357,280,20,CY,Cyprus,PrimeTel PLC
+357,280,1,CY,Cyprus,Vodafone/CyTa
+358,244,14,FI,Finland,Alands
+358,244,26,FI,Finland,Compatel Ltd
+358,244,12,FI,Finland,DNA/Finnet
+358,244,4,FI,Finland,DNA/Finnet
+358,244,3,FI,Finland,DNA/Finnet
+358,244,13,FI,Finland,DNA/Finnet
+358,244,21,FI,Finland,Elisa/Saunalahti
+358,244,5,FI,Finland,Elisa/Saunalahti
+358,244,82,FI,Finland,ID-Mobile
+358,244,11,FI,Finland,Mundio Mobile (Finland) Ltd
+358,244,9,FI,Finland,Nokia Oyj
+358,244,10,FI,Finland,TDC Oy Finland
+358,244,91,FI,Finland,TeliaSonera
+359,284,6,BG,Bulgaria,BTC Mobile EOOD (vivatel)
+359,284,3,BG,Bulgaria,BTC Mobile EOOD (vivatel)
+359,284,5,BG,Bulgaria,Telenor/Cosmo/Globul
+359,284,1,BG,Bulgaria,MobilTel AD
+370,246,2,LT,Lithuania,Bite
+370,246,1,LT,Lithuania,Omnitel
+370,246,3,LT,Lithuania,Tele2
+371,247,5,LV,Latvia,Bite
+371,247,1,LV,Latvia,Latvian Mobile Phone
+371,247,9,LV,Latvia,SIA Camel Mobile
+371,247,8,LV,Latvia,SIA IZZI
+371,247,7,LV,Latvia,SIA Master Telecom
+371,247,6,LV,Latvia,SIA Rigatta
+371,247,2,LV,Latvia,Tele2
+371,247,3,LV,Latvia,TRIATEL/Telekom Baltija
+372,248,1,EE,Estonia,EMT GSM
+372,248,2,EE,Estonia,Radiolinja Eesti
+372,248,3,EE,Estonia,Tele2 Eesti AS
+372,248,4,EE,Estonia,Top Connect OU
+373,259,4,MD,Moldova,Eventis Mobile
+373,259,5,MD,Moldova,IDC/Unite
+373,259,3,MD,Moldova,IDC/Unite
+373,259,99,MD,Moldova,IDC/Unite
+373,259,2,MD,Moldova,Moldcell
+373,259,1,MD,Moldova,Orange/Voxtel
+374,283,1,AM,Armenia,ArmenTel/Beeline
+374,283,4,AM,Armenia,Karabakh Telecom
+374,283,10,AM,Armenia,Orange
+374,283,5,AM,Armenia,Vivacell
+375,257,3,BY,Belarus,BelCel JV
+375,257,4,BY,Belarus,BeST
+375,257,1,BY,Belarus,Mobile Digital Communications
+375,257,2,BY,Belarus,MTS
+376,213,3,AD,Andorra,Mobiland
+377,212,10,MC,Monaco,Monaco Telecom
+377,212,1,MC,Monaco,Monaco Telecom
+378,292,1,SM,San Marino,Prima Telecom
+380,255,6,UA,Ukraine,Astelit/LIFE
+380,255,5,UA,Ukraine,Golden Telecom
+380,255,39,UA,Ukraine,Golden Telecom
+380,255,4,UA,Ukraine,Intertelecom Ltd (IT)
+380,255,67,UA,Ukraine,KyivStar
+380,255,3,UA,Ukraine,KyivStar
+380,255,21,UA,Ukraine,Telesystems Of Ukraine CJSC (TSU)
+380,255,7,UA,Ukraine,TriMob LLC
+380,255,50,UA,Ukraine,UMC/MTS
+380,255,2,UA,Ukraine,Beeline
+380,255,1,UA,Ukraine,UMC/MTS
+380,255,68,UA,Ukraine,Beeline
+381,220,3,RS,Serbia,MTS/Telekom Srbija
+381,220,1,RS,Serbia,Telenor/Mobtel
+381,220,2,RS,Serbia,Telenor/Mobtel
+381,220,5,RS,Serbia,VIP Mobile
+382,297,2,ME,Montenegro,Monet/T-mobile
+382,297,3,ME,Montenegro,Mtel
+382,297,1,ME,Montenegro,Telenor/Promonte GSM
+385,219,1,HR,Croatia,T-Mobile/Cronet
+385,219,2,HR,Croatia,Tele2
+385,219,10,HR,Croatia,VIPnet d.o.o.
+386,293,41,SI,Slovenia,Mobitel
+386,293,40,SI,Slovenia,SI.Mobil
+386,293,10,SI,Slovenia,Slovenske zeleznice d.o.o.
+386,293,64,SI,Slovenia,T-2 d.o.o.
+386,293,70,SI,Slovenia,Telemach/TusMobil/VEGA
+387,218,90,BA,Bosnia & Herzegov.,BH Mobile
+387,218,3,BA,Bosnia & Herzegov.,Eronet Mobile
+387,218,5,BA,Bosnia & Herzegov.,M-Tel
+389,294,75,MK,Macedonia,ONE/Cosmofone
+389,294,2,MK,Macedonia,ONE/Cosmofone
+389,294,1,MK,Macedonia,T-Mobile/Mobimak
+389,294,3,MK,Macedonia,VIP Mobile
+420,230,8,CZ,Czech Rep.,Compatel s.r.o.
+420,230,2,CZ,Czech Rep.,O2
+420,230,1,CZ,Czech Rep.,T-Mobile / RadioMobil
+420,230,5,CZ,Czech Rep.,Travel Telekommunikation s.r.o.
+420,230,4,CZ,Czech Rep.,Ufone
+420,230,3,CZ,Czech Rep.,Vodafone
+420,230,99,CZ,Czech Rep.,Vodafone
+421,231,3,SK,Slovakia,4Ka
+421,231,6,SK,Slovakia,O2
+421,231,5,SK,Slovakia,Orange
+421,231,1,SK,Slovakia,Orange
+421,231,15,SK,Slovakia,Orange
+421,231,2,SK,Slovakia,T-Mobile
+421,231,4,SK,Slovakia,T-Mobile
+421,231,99,SK,Slovakia,Zeleznice Slovenskej republiky (ZSR)
+423,295,6,LI,Liechtenstein,CUBIC (Liechtenstein
+423,295,7,LI,Liechtenstein,First Mobile AG
+423,295,2,LI,Liechtenstein,Orange
+423,295,1,LI,Liechtenstein,Swisscom FL AG
+423,295,77,LI,Liechtenstein,Alpmobile/Tele2
+423,295,5,LI,Liechtenstein,Telecom FL1 AG
+500,750,1,FK,Falkland Islands (Malvinas),Cable and Wireless South Atlantic Ltd (Falkland Islands
+501,702,67,BZ,Belize,DigiCell
+501,702,68,BZ,Belize,International Telco (INTELCO)
+502,704,1,GT,Guatemala,SERCOM
+502,704,3,GT,Guatemala,Telefonica
+502,704,2,GT,Guatemala,TIGO/COMCEL
+503,706,1,SV,El Salvador,CLARO/CTE
+503,706,2,SV,El Salvador,Digicel
+503,706,5,SV,El Salvador,INTELFON SA de CV
+503,706,4,SV,El Salvador,Telefonica
+503,706,3,SV,El Salvador,Telemovil
+504,708,40,HN,Honduras,Digicel
+504,708,30,HN,Honduras,HonduTel
+504,708,1,HN,Honduras,SERCOM/CLARO
+504,708,2,HN,Honduras,Telefonica/CELTEL
+505,710,21,NI,Nicaragua,Empresa Nicaraguense de Telecomunicaciones SA (ENITEL)
+505,710,30,NI,Nicaragua,Movistar
+505,710,73,NI,Nicaragua,Claro
+506,712,3,CR,Costa Rica,Claro
+506,712,2,CR,Costa Rica,ICE
+506,712,1,CR,Costa Rica,ICE
+506,712,4,CR,Costa Rica,Movistar
+506,712,20,CR,Costa Rica,Virtualis
+507,714,1,PA,Panama,Cable & W./Mas Movil
+507,714,3,PA,Panama,Claro
+507,714,4,PA,Panama,Digicel
+507,714,20,PA,Panama,Movistar
+507,714,2,PA,Panama,Movistar
+508,308,1,PM,St. Pierre & Miquelon,Ameris
+509,372,1,HT,Haiti,Comcel
+509,372,2,HT,Haiti,Digicel
+509,372,3,HT,Haiti,National Telecom SA (NatCom)
+590,340,8,GP,Guadeloupe,Dauphin Telecom SU (Guadeloupe Telecom)
+590,340,10,GP,Guadeloupe,
+591,736,2,BO,Bolivia,Entel Pcs
+591,736,1,BO,Bolivia,Nuevatel
+591,736,3,BO,Bolivia,TELECEL BOLIVIA
+592,738,2,GY,Guyana,Cellink Plus
+592,738,1,GY,Guyana,DigiCel
+593,740,2,EC,Ecuador,Alegro/Telcsa
+593,740,0,EC,Ecuador,MOVISTAR/OteCel
+593,740,1,EC,Ecuador,Porta/Conecel
+594,340,20,FG,French Guiana,Bouygues/DigiCel
+594,340,1,FG,French Guiana,Orange Caribe
+594,340,2,FG,French Guiana,Outremer Telecom
+594,340,3,FG,French Guiana,TelCell GSM
+594,340,11,FG,French Guiana,TelCell GSM
+595,744,2,PY,Paraguay,Claro/Hutchison
+595,744,3,PY,Paraguay,Compa
+595,744,1,PY,Paraguay,Hola/VOX
+595,744,5,PY,Paraguay,TIM/Nucleo/Personal
+595,744,4,PY,Paraguay,Tigo/Telecel
+596,340,12,MQ,Martinique (French Department of),UTS Caraibe
+597,746,3,SR,Suriname,Digicel
+597,746,1,SR,Suriname,Telesur
+597,746,2,SR,Suriname,Telecommunicatiebedrijf Suriname (TELESUR)
+597,746,4,SR,Suriname,UNIQA
+598,748,3,UY,Uruguay,Ancel/Antel
+598,748,1,UY,Uruguay,Ancel/Antel
+598,748,10,UY,Uruguay,Claro/AM Wireless
+598,748,7,UY,Uruguay,MOVISTAR
+599,362,95,CW,Curacao,EOCG Wireless NV
+599,362,69,CW,Curacao,Polycom N.V./ Digicel
+599,362,630,AN,Netherlands Antilles,Cingular Wireless
+599,362,51,AN,Netherlands Antilles,TELCELL GSM
+599,362,91,AN,Netherlands Antilles,SETEL GSM
+599,362,951,AN,Netherlands Antilles,UTS Wireless
+670,514,1,TP,Timor-Leste,Telin/ Telkomcel
+670,514,2,TP,Timor-Leste,Timor Telecom
+673,528,2,BN,Brunei Darussalam,b-mobile
+673,528,11,BN,Brunei Darussalam,Datastream (DTSCom)
+673,528,1,BN,Brunei Darussalam,Telekom Brunei Bhd (TelBru)
+675,537,3,PG,Papua New Guinea,Digicel
+675,537,2,PG,Papua New Guinea,GreenCom PNG Ltd
+675,537,1,PG,Papua New Guinea,Pacific Mobile
+676,539,43,TO,Tonga,Shoreline Communication
+676,539,1,TO,Tonga,Tonga Communications
+677,540,2,SB,Solomon Islands,bemobile
+677,540,10,SB,Solomon Islands,BREEZE
+677,540,1,SB,Solomon Islands,BREEZE
+678,541,5,VU,Vanuatu,DigiCel
+678,541,1,VU,Vanuatu,SMILE
+679,542,2,FJ,Fiji,DigiCell
+679,542,1,FJ,Fiji,Vodafone
+680,552,80,PW,Palau (Republic of),Palau Mobile Corp. (PMC) (Palau
+680,552,1,PW,Palau (Republic of),Palau National Communications Corp. (PNCC) (Palau
+682,548,1,CK,Cook Islands,Telecom Cook Islands
+683,555,1,NU,Niue,Niue Telecom
+684,544,11,AS,American Samoa,Blue Sky Communications
+685,549,27,WS,Samoa,Samoatel Mobile
+685,549,1,WS,Samoa,Telecom Samoa Cellular Ltd.
+686,545,9,KI,Kiribati,Kiribati Frigate
+687,546,1,NC,New Caledonia,OPT Mobilis
+689,547,15,PF,French Polynesia,Pacific Mobile Telecom (PMT)
+689,547,20,PF,French Polynesia,Vini/Tikiphone
+691,550,1,FM,Micronesia,FSM Telecom
+850,467,193,KP,Korea N. Dem. People's Rep.,Sun Net
+852,454,13,HK,Hongkong China,China Mobile/Peoples
+852,454,12,HK,Hongkong China,China Mobile/Peoples
+852,454,28,HK,Hongkong China,China Mobile/Peoples
+852,454,9,HK,Hongkong China,China Motion
+852,454,7,HK,Hongkong China,China Unicom Ltd
+852,454,11,HK,Hongkong China,China-HongKong Telecom Ltd (CHKTL)
+852,454,1,HK,Hongkong China,Citic Telecom Ltd.
+852,454,2,HK,Hongkong China,CSL Ltd.
+852,454,0,HK,Hongkong China,CSL Ltd.
+852,454,18,HK,Hongkong China,CSL Ltd.
+852,454,10,HK,Hongkong China,CSL/New World PCS Ltd.
+852,454,3,HK,Hongkong China,H3G/Hutchinson
+852,454,14,HK,Hongkong China,H3G/Hutchinson
+852,454,5,HK,Hongkong China,H3G/Hutchinson
+852,454,4,HK,Hongkong China,H3G/Hutchinson
+852,454,19,HK,Hongkong China,HKT/PCCW
+852,454,20,HK,Hongkong China,HKT/PCCW
+852,454,29,HK,Hongkong China,HKT/PCCW
+852,454,16,HK,Hongkong China,HKT/PCCW
+852,454,47,HK,Hongkong China,shared by private TETRA systems
+852,454,40,HK,Hongkong China,shared by private TETRA systems
+852,454,8,HK,Hongkong China,Truephone
+852,454,17,HK,Hongkong China,Vodafone/SmarTone
+852,454,15,HK,Hongkong China,Vodafone/SmarTone
+852,454,6,HK,Hongkong China,Vodafone/SmarTone
+853,455,4,MO,Macao China,C.T.M. TELEMOVEL+
+853,455,1,MO,Macao China,C.T.M. TELEMOVEL+
+853,455,2,MO,Macao China,China Telecom
+853,455,5,MO,Macao China,Hutchison Telephone Co. Ltd
+853,455,3,MO,Macao China,Hutchison Telephone Co. Ltd
+853,455,6,MO,Macao China,Smartone Mobile
+853,455,0,MO,Macao China,Smartone Mobile
+855,456,4,KH,Cambodia,Cambodia Advance Communications Co. Ltd (CADCOMMS)
+855,456,2,KH,Cambodia,Smart Mobile
+855,456,8,KH,Cambodia,Metfone
+855,456,18,KH,Cambodia,MFone/Camshin/Cellcard
+855,456,1,KH,Cambodia,Mobitel/Cam GSM
+855,456,3,KH,Cambodia,QB/Cambodia Adv. Comms.
+855,456,5,KH,Cambodia,Smart Mobile
+855,456,6,KH,Cambodia,Smart Mobile
+855,456,9,KH,Cambodia,Sotelco/Beeline
+856,457,2,LA,Laos P.D.R.,ETL Mobile
+856,457,1,LA,Laos P.D.R.,Lao Tel
+856,457,8,LA,Laos P.D.R.,Beeline/Tigo/Millicom
+856,457,3,LA,Laos P.D.R.,UNITEL/LAT
+870,901,14,N/A,Satellite Networks,AeroMobile
+870,901,11,N/A,Satellite Networks,InMarSAT
+870,901,12,N/A,Satellite Networks,Maritime Communications Partner AS
+870,901,5,N/A,Satellite Networks,Thuraya Satellite
+880,470,2,BD,Bangladesh,Robi/Aktel
+880,470,5,BD,Bangladesh,Citycell
+880,470,6,BD,Bangladesh,Citycell
+880,470,1,BD,Bangladesh,GrameenPhone
+880,470,3,BD,Bangladesh,Orascom/Banglalink
+880,470,4,BD,Bangladesh,TeleTalk
+880,470,7,BD,Bangladesh,Airtel/Warid
+882,901,13,N/A,International Networks,Antarctica
+886,466,68,TW,Taiwan,ACeS Taiwan - ACeS Taiwan Telecommunications Co Ltd
+886,466,5,TW,Taiwan,Asia Pacific Telecom Co. Ltd (APT)
+886,466,11,TW,Taiwan,Chunghwa Telecom LDM
+886,466,92,TW,Taiwan,Chunghwa Telecom LDM
+886,466,1,TW,Taiwan,Far EasTone
+886,466,7,TW,Taiwan,Far EasTone
+886,466,2,TW,Taiwan,Far EasTone
+886,466,6,TW,Taiwan,Far EasTone
+886,466,3,TW,Taiwan,Far EasTone
+886,466,10,TW,Taiwan,Global Mobile Corp.
+886,466,56,TW,Taiwan,International Telecom Co. Ltd (FITEL)
+886,466,88,TW,Taiwan,KG Telecom
+886,466,99,TW,Taiwan,TransAsia
+886,466,97,TW,Taiwan,Taiwan Cellular
+886,466,93,TW,Taiwan,Mobitai
+886,466,89,TW,Taiwan,T-Star/VIBO
+886,466,9,TW,Taiwan,VMAX Telecom Co. Ltd
+960,472,1,MV,Maldives,Dhiraagu/C&W
+960,472,2,MV,Maldives,Ooredo/Wataniya
+961,415,32,LB,Lebanon,Cellis
+961,415,35,LB,Lebanon,Cellis
+961,415,33,LB,Lebanon,Cellis
+961,415,34,LB,Lebanon,FTML Cellis
+961,415,38,LB,Lebanon,MIC2/LibanCell/MTC
+961,415,37,LB,Lebanon,MIC2/LibanCell/MTC
+961,415,39,LB,Lebanon,MIC2/LibanCell/MTC
+961,415,1,LB,Lebanon,MIC1 (Alfa)
+961,415,3,LB,Lebanon,MIC2/LibanCell/MTC
+961,415,36,LB,Lebanon,MIC2/LibanCell/MTC
+962,416,77,JO,Jordan,Orange/Petra
+962,416,3,JO,Jordan,Umniah Mobile Co.
+962,416,2,JO,Jordan,Xpress
+962,416,1,JO,Jordan,ZAIN /J.M.T.S
+963,417,2,SY,Syrian Arab Republic,MTN/Spacetel
+963,417,9,SY,Syrian Arab Republic,Syriatel Holdings
+963,417,1,SY,Syrian Arab Republic,Syriatel Holdings
+964,418,5,IQ,Iraq,Asia Cell
+964,418,92,IQ,Iraq,Itisaluna and Kalemat
+964,418,40,IQ,Iraq,Korek
+964,418,82,IQ,Iraq,Korek
+964,418,45,IQ,Iraq,Mobitel (Iraq-Kurdistan) and Moutiny
+964,418,20,IQ,Iraq,ZAIN/Atheer/Orascom
+964,418,30,IQ,Iraq,Orascom Telecom
+964,418,8,IQ,Iraq,Sanatel
+965,419,4,KW,Kuwait,Viva
+965,419,3,KW,Kuwait,Wataniya
+965,419,2,KW,Kuwait,Zain
+966,420,7,SA,Saudi Arabia,Zain
+966,420,3,SA,Saudi Arabia,Etihad/Etisalat/Mobily
+966,420,1,SA,Saudi Arabia,STC/Al Jawal
+966,420,5,SA,Saudi Arabia,Virgin Mobile
+966,420,4,SA,Saudi Arabia,Zain
+967,421,4,YE,Yemen,HITS/Y Unitel
+967,421,2,YE,Yemen,MTN/Spacetel
+967,421,1,YE,Yemen,Sabaphone
+967,421,3,YE,Yemen,Yemen Mob. CDMA
+968,422,3,OM,Oman,Nawras
+968,422,2,OM,Oman,Oman Mobile/GTO
+970,425,5,PS,Palestinian Territory,Jawwal
+970,425,6,PS,Palestinian Territory,Wataniya Mobile
+971,424,3,AE,United Arab Emirates,DU
+971,431,2,AE,United Arab Emirates,Etisalat
+971,424,2,AE,United Arab Emirates,Etisalat
+971,430,2,AE,United Arab Emirates,Etisalat
+972,425,14,IL,Israel,Alon Cellular Ltd
+972,425,2,IL,Israel,Cellcom ltd.
+972,425,8,IL,Israel,Golan Telekom
+972,425,15,IL,Israel,Home Cellular Ltd
+972,425,7,IL,Israel,Hot Mobile/Mirs
+972,425,77,IL,Israel,Hot Mobile/Mirs
+972,425,1,IL,Israel,Orange/Partner Co. Ltd.
+972,425,3,IL,Israel,Pelephone
+972,425,16,IL,Israel,Rami Levy Hashikma Marketing Communications Ltd
+972,425,19,IL,Israel,Telzar/AZI
+973,426,1,BH,Bahrain,Batelco
+973,426,2,BH,Bahrain,ZAIN/Vodafone
+973,426,4,BH,Bahrain,VIVA
+974,427,1,QA,Qatar,Ooredoo/Qtel
+974,427,2,QA,Qatar,Vodafone
+975,402,11,BT,Bhutan,B-Mobile
+975,402,17,BT,Bhutan,Bhutan Telecom Ltd (BTL)
+975,402,77,BT,Bhutan,TashiCell
+976,428,98,MN,Mongolia,G-Mobile Corporation Ltd
+976,428,99,MN,Mongolia,Mobicom
+976,428,0,MN,Mongolia,Skytel Co. Ltd
+976,428,91,MN,Mongolia,Skytel Co. Ltd
+976,428,88,MN,Mongolia,Unitel
+977,429,2,NP,Nepal,Ncell
+977,429,1,NP,Nepal,NT Mobile / Namaste
+977,429,4,NP,Nepal,Smart Cell
+992,436,4,TK,Tajikistan,Babilon-M
+992,436,5,TK,Tajikistan,Bee Line
+992,436,2,TK,Tajikistan,CJSC Indigo Tajikistan
+992,436,12,TK,Tajikistan,Tcell/JC Somoncom
+992,436,3,TK,Tajikistan,MLT/TT mobile
+992,436,1,TK,Tajikistan,Tcell/JC Somoncom
+993,438,1,TM,Turkmenistan,MTS/Barash Communication
+993,438,2,TM,Turkmenistan,Altyn Asyr/TM-Cell
+994,400,1,AZ,Azerbaijan,Azercell Telekom B.M.
+994,400,4,AZ,Azerbaijan,Azerfon.
+994,400,3,AZ,Azerbaijan,Caspian American Telecommunications LLC (CATEL)
+994,400,2,AZ,Azerbaijan,J.V. Bakcell GSM 2000
+995,282,1,GE,Georgia,Geocell Ltd.
+995,282,3,GE,Georgia,Iberiatel Ltd.
+995,282,2,GE,Georgia,Magti GSM Ltd.
+995,282,4,GE,Georgia,MobiTel/Beeline
+995,282,5,GE,Georgia,Silknet
+996,437,3,KG,Kyrgyzstan,AkTel LLC
+996,437,1,KG,Kyrgyzstan,Beeline/Bitel
+996,437,5,KG,Kyrgyzstan,MEGACOM
+996,437,9,KG,Kyrgyzstan,O!/NUR Telecom
+998,434,4,UZ,Uzbekistan,Bee Line/Unitel
+998,434,1,UZ,Uzbekistan,Buztel
+998,434,7,UZ,Uzbekistan,MTS/Uzdunrobita
+998,434,5,UZ,Uzbekistan,Ucell/Coscom
+998,434,2,UZ,Uzbekistan,Uzmacom
+1242,364,390,BS,Bahamas,Bahamas Telco. Comp.
+1242,364,39,BS,Bahamas,Bahamas Telco. Comp.
+1242,364,30,BS,Bahamas,Bahamas Telco. Comp.
+1242,364,3,BS,Bahamas,Smart Communications
+1246,342,600,BB,Barbados,C & W BET Ltd.
+1246,342,810,BB,Barbados,Cingular Wireless
+1246,342,750,BB,Barbados,Digicel
+1246,342,50,BB,Barbados,Digicel
+1246,342,820,BB,Barbados,Sunbeach
+1264,365,840,AI,Anguilla,Cable and Wireless
+1264,365,10,AI,Anguilla,Digicell / Wireless Vent. Ltd
+1268,344,30,AG,Antigua and Barbuda,APUA PCS
+1268,344,920,AG,Antigua and Barbuda,C & W
+1268,344,930,AG,Antigua and Barbuda,DigiCel/Cing. Wireless
+1340,376,50,VI,Virgin Islands U.S.,Digicel
+1345,346,50,KY,Cayman Islands,Digicel Cayman Ltd
+1345,346,6,KY,Cayman Islands,Digicel Ltd.
+1345,346,140,KY,Cayman Islands,LIME / Cable & Wirel.
+1441,350,0,BM,Bermuda,Bermuda Digital Communications Ltd (BDC)
+1441,350,99,BM,Bermuda,CellOne Ltd
+1441,350,10,BM,Bermuda,DigiCel / Cingular
+1441,350,2,BM,Bermuda,M3 Wireless Ltd
+1441,350,1,BM,Bermuda,Telecommunications (Bermuda & West Indies) Ltd (Digicel Bermuda)
+1473,352,110,GD,Grenada,Cable & Wireless
+1473,352,30,GD,Grenada,Digicel
+1473,352,50,GD,Grenada,Digicel
+1664,354,860,MS,Montserrat,Cable & Wireless
+1671,310,370,GU,Guam,Docomo
+1671,310,470,GU,Guam,Docomo
+1671,310,140,GU,Guam,GTA Wireless
+1671,310,33,GU,Guam,Guam Teleph. Auth.
+1671,310,32,GU,Guam,IT&E OverSeas
+1671,311,250,GU,Guam,Wave Runner LLC
+1758,358,110,LC,Saint Lucia,Cable & Wireless
+1758,358,30,LC,Saint Lucia,Cingular Wireless
+1758,358,50,LC,Saint Lucia,Digicel (St Lucia) Limited
+1767,366,110,DM,Dominica,C & W
+1767,366,20,DM,Dominica,Cingular Wireless/Digicel
+1767,366,50,DM,Dominica,Wireless Ventures (Dominica) Ltd (Digicel Dominica)
+1784,360,110,VC,St. Vincent & Gren.,C & W
+1784,360,10,VC,St. Vincent & Gren.,Cingular
+1784,360,100,VC,St. Vincent & Gren.,Cingular
+1784,360,50,VC,St. Vincent & Gren.,Digicel
+1784,360,70,VC,St. Vincent & Gren.,Digicel
+1809,370,2,DO,Dominican Republic,Claro
+1809,370,1,DO,Dominican Republic,Orange
+1809,370,3,DO,Dominican Republic,TRIcom
+1809,370,4,DO,Dominican Republic,Trilogy Dominicana S. A.
+1868,374,12,TT,Trinidad and Tobago,Bmobile/TSTT
+1868,374,120,TT,Trinidad and Tobago,Bmobile/TSTT
+1868,374,130,TT,Trinidad and Tobago,Digicel
+1868,374,140,TT,Trinidad and Tobago,LaqTel Ltd.
+1869,356,110,KN,Saint Kitts and Nevis,Cable & Wireless
+1869,356,50,KN,Saint Kitts and Nevis,Digicel
+1869,356,70,KN,Saint Kitts and Nevis,UTS Cariglobe
+1876,338,20,JM,Jamaica,Cable & Wireless
+1876,338,110,JM,Jamaica,Cable & Wireless
+1876,338,180,JM,Jamaica,Cable & Wireless
+1876,338,50,JM,Jamaica,DIGICEL/Mossel

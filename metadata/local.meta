@@ -13,8 +13,8 @@ modtime = 1487335669.774710000
 [transforms/global-loc]
 export = system
 owner = admin
-version = 6.5.2
-modtime = 1487339185.631056000
+version = 6.5.0
+modtime = 1487669511.234640000
 
 [transforms/sampleCalls]
 export = none
@@ -34,5 +34,5 @@ modtime = 1487372806.290904000
 
 [views/mapdemo]
 owner = admin
-version = 6.5.2
-modtime = 1487632201.396986000
+version = 6.5.0
+modtime = 1487718028.532922000

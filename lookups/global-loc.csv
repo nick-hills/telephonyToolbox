@@ -780,6 +780,7 @@ countryCode,areaCode,countryName,areaName,cCity,lat,lon,iso2
 33,567,France,Midi PyrÌÎåÂnÌÎåÂes, Paris,48.86666667,2.333333333,FR
 33,581,France,Midi PyrÌÎåÂnÌÎåÂes, Paris,48.86666667,2.333333333,FR
 33,587,France,Limousin, Paris,48.86666667,2.333333333,FR
+33,6,France,Mobile,Paris,48.86666667,2.333333333,FR
 34,822,Canary Islands,Santa Cruz de Tenerife, Madrid,40.4,-3.683333333,ES
 34,828,Canary Islands,Las Palmas, Madrid,40.4,-3.683333333,ES
 34,922,Canary Islands,Santa Cruz de Tenerife, Madrid,40.4,-3.683333333,ES
@@ -10339,6 +10340,7 @@ countryCode,areaCode,countryName,areaName,cCity,lat,lon,iso2
 355,881,Albania,LibohovÌÎÌà, Tirana,41.31666667,19.81666667,AL
 355,885,Albania,Memaliaj, Tirana,41.31666667,19.81666667,AL
 355,893,Albania,Ksamil, Tirana,41.31666667,19.81666667,AL
+356,,Malta,Malta,Valletta,35.9516884,14.4115756,MT
 357,22,Cyprus- Republic of,Nicosia, Nicosia,35.16666667,33.36666667,CY
 357,23,Cyprus- Republic of,Famagusta, Nicosia,35.16666667,33.36666667,CY
 357,24,Cyprus- Republic of,Larnaca, Nicosia,35.16666667,33.36666667,CY
@@ -10359,6 +10361,38 @@ countryCode,areaCode,countryName,areaName,cCity,lat,lon,iso2
 358,6,Finland,Vaasa, Mariehamn,60.1,19.95,AX
 358,8,Finland,Oulu, Mariehamn,60.1,19.95,AX
 358,9,Finland,Uusimaa I, Mariehamn,60.1,19.95,AX
+359,73,Bulgaria,BLAGOEVGRAD,Sofia,42.4347,25.2930,BG
+359,56,Bulgaria,BOURGAS,Sofia,42.4347,25.2930,BG
+359,58,Bulgaria,DOBRITCH,Sofia,42.4347,25.2930,BG
+359,66,Bulgaria,GABROVO,Sofia,42.4347,25.2930,BG
+359,751,Bulgaria,GOTSE DELCHEV,Sofia,42.4347,25.2930,BG
+359,38,Bulgaria,HASKOVO,Sofia,42.4347,25.2930,BG
+359,361,Bulgaria,KARDJALI,Sofia,42.4347,25.2930,BG
+359,431,Bulgaria,KAZANLUK,Sofia,42.4347,25.2930,BG
+359,78,Bulgaria,KJUSTENDIL,Sofia,42.4347,25.2930,BG
+359,68,Bulgaria,LOVETCH,Sofia,42.4347,25.2930,BG
+359,89,Bulgaria,MOBILE PHONES GLOBUL,Sofia,42.4347,25.2930,BG	
+359,88,Bulgaria,MOBILE PHONES MTEL,Sofia,42.4347,25.2930,BG
+359,87,Bulgaria,MOBILE PHONES VIVACOM,Sofia,42.4347,25.2930,BG	
+359,96,Bulgaria,MONTANA,Sofia,42.4347,25.2930,BG
+359,34,Bulgaria,PAZARDJIK,Sofia,42.4347,25.2930,BG	
+359,76,Bulgaria,PERNIK,Sofia,42.4347,25.2930,BG	
+359,64,Bulgaria,PLEVEN,Sofia,42.4347,25.2930,BG
+359,32,Bulgaria,PLOVDIV,Sofia,42.4347,25.2930,BG
+359,84,Bulgaria,RAZGRAD,Sofia,42.4347,25.2930,BG
+359,82,Bulgaria,ROUSSE,Sofia,42.4347,25.2930,BG
+359,54,Bulgaria,SHOUMEN,Sofia,42.4347,25.2930,BG
+359,86,Bulgaria,SILISTRA,Sofia,42.4347,25.2930,BG
+359,44,Bulgaria,SLIVEN,Sofia,42.4347,25.2930,BG
+359,301,Bulgaria,SMOLYAN,Sofia,42.4347,25.2930,BG
+359,2,Bulgaria,SOFIA,Sofia,42.4347,25.2930,BG
+359,42,Bulgaria,STARA ZAGORA,Sofia,42.4347,25.2930,BG
+359,601,Bulgaria,TARGOVISHTE,Sofia,42.4347,25.2930,BG
+359,52,Bulgaria,VARNA,Sofia,42.4347,25.2930,BG
+359,62,Bulgaria,VELIKO TARNOVO,Sofia,42.4347,25.2930,BG
+359,94,Bulgaria,VIDIN,Sofia,42.4347,25.2930,BG
+359,92,Bulgaria,VRATSA,Sofia,42.4347,25.2930,BG
+359,46,Bulgaria,YAMBOL,Sofia,42.4347,25.2930,BG
 370,310,Lithuania,Varena, Vilnius,54.68333333,25.31666667,LT
 370,313,Lithuania,Druskininkai, Vilnius,54.68333333,25.31666667,LT
 370,315,Lithuania,Alytus, Vilnius,54.68333333,25.31666667,LT
@@ -12553,6 +12587,7 @@ countryCode,areaCode,countryName,areaName,cCity,lat,lon,iso2
 972,4,Israel,Haifa, Jerusalem,31.76666667,35.23333333,IL
 972,8,Israel,Hashfela, Jerusalem,31.76666667,35.23333333,IL
 972,9,Israel,Hasharon, Jerusalem,31.76666667,35.23333333,IL
+973,,Bahrain,Bahrain City,26.223,50.3333,BH
 975,2,Bhutan,Thimphu, Thimphu,27.48333333,89.6,BT
 975,3,Bhutan,Trongsa, Thimphu,27.48333333,89.6,BT
 975,4,Bhutan,Trashigang, Thimphu,27.48333333,89.6,BT
